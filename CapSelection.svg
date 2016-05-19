@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -56,13 +56,15 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.89702955"
-     inkscape:cx="-166.0607"
-     inkscape:cy="441.23705"
+     inkscape:zoom="1.2685914"
+     inkscape:cx="293.44786"
+     inkscape:cy="477.10975"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="g6"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <rect
      height="463.03"
      width="658.09003"
@@ -73,6 +75,29 @@
   <g
      transform="matrix(2.6693,0,0,2.6693,-609.011,-641.55353)"
      id="g6">
+    <ellipse
+       rx="24.971371"
+       ry="8.1834211"
+       transform="matrix(0.58827708,-0.80865943,0.80865943,0.58827708,0,0)"
+       cy="501.24594"
+       cx="-209.06058"
+       id="ellipse492-7"
+       style="opacity:0.5;fill:#f1de0f" />
+    <text
+       style="font-size:10.32699966px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f7ef6f;fill-opacity:1;"
+       xml:space="preserve"
+       transform="matrix(0.56272322,-0.82664537,0.82664537,0.56272322,0,0)"
+       font-size="10.327px"
+       y="482.42764"
+       x="-224.97806"
+       line-height="125%"
+       id="text494-5"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:6.88489962px;text-align:center;text-anchor:middle;fill:#f7ef6f;fill-opacity:1;"
+         font-size="6.8849px"
+         y="482.42764"
+         x="-224.97806"
+         id="tspan496-9">Template switching </tspan></text>
     <ellipse
        rx="16.011999"
        ry="7.8292999"
@@ -115,29 +140,6 @@
          y="468.16693"
          x="378.96808"
          id="tspan18">Oligo-capping</tspan></text>
-    <ellipse
-       rx="23.454"
-       ry="14.74"
-       transform="matrix(0.36679351,-0.93030238,0.93030238,0.36679351,0,0)"
-       cy="430.67999"
-       cx="-328.13"
-       id="ellipse20"
-       style="opacity:0.5;fill:#f1de0f" />
-    <text
-       style="font-size:10.32699966px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f7ef6f"
-       transform="matrix(0.36679351,-0.93030238,0.93030238,0.36679351,0,0)"
-       line-height="125%"
-       xml:space="preserve"
-       font-size="10.327px"
-       y="411.3895"
-       x="-328.51926"
-       id="text22"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:6.88490009px;text-align:center;text-anchor:middle;fill:#f7ef6f"
-         font-size="6.8849px"
-         y="411.3895"
-         x="-328.51926"
-         id="tspan24">Template switching </tspan></text>
     <g
        transform="translate(-6.2482,387.52)"
        id="g26"
@@ -1550,27 +1552,27 @@ License: CC-SA 3.0</desc>
          x="350.39667"
          id="tspan490">Oligo-capping</tspan></text>
     <ellipse
-       rx="23.454"
-       ry="14.74"
-       transform="matrix(0.36679351,-0.93030238,0.93030238,0.36679351,0,0)"
-       cy="557.10999"
-       cx="-726.67999"
+       rx="24.971371"
+       ry="8.1834211"
+       transform="matrix(0.58827708,-0.80865943,0.80865943,0.58827708,0,0)"
+       cy="723.1665"
+       cx="-565.27661"
        id="ellipse492"
        style="opacity:0.5;fill:#f1de0f" />
     <text
        style="font-size:10.32699966px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#6a6406"
        xml:space="preserve"
-       transform="matrix(0.36679351,-0.93030238,0.93030238,0.36679351,0,0)"
+       transform="matrix(0.56272324,-0.82664536,0.82664536,0.56272324,0,0)"
        font-size="10.327px"
-       y="537.82031"
-       x="-727.06628"
+       y="693.10986"
+       x="-587.9541"
        line-height="125%"
        id="text494"
        sodipodi:linespacing="125%"><tspan
          style="font-size:6.88490009px;text-align:center;text-anchor:middle;fill:#6a6406"
          font-size="6.8849px"
-         y="537.82031"
-         x="-727.06628"
+         y="693.10986"
+         x="-587.9541"
          id="tspan496">Template switching </tspan></text>
     <g
        transform="translate(-34.82,804.66)"
