@@ -12,7 +12,7 @@
    version="1.1"
    viewBox="0 0 658.09003 896.58644"
    id="svg2"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="CapSelection.svg">
   <metadata
      id="metadata954">
@@ -49,20 +49,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="2560"
-     inkscape:window-height="1370"
+     inkscape:window-height="1373"
      id="namedview950"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.2685914"
-     inkscape:cx="293.44786"
-     inkscape:cy="477.10975"
+     inkscape:zoom="0.89702958"
+     inkscape:cx="173.58464"
+     inkscape:cy="687.50495"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g6"
+     inkscape:current-layer="g11985"
      showguides="true"
      inkscape:guide-bbox="true" />
   <rect
@@ -84,16 +84,15 @@
        id="ellipse492-7"
        style="opacity:0.5;fill:#f1de0f" />
     <text
-       style="font-size:10.32699966px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f7ef6f;fill-opacity:1;"
+       style="font-size:10.32699966px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f7ef6f;fill-opacity:1"
        xml:space="preserve"
-       transform="matrix(0.56272322,-0.82664537,0.82664537,0.56272322,0,0)"
+       transform="rotate(-55.755663)"
        font-size="10.327px"
        y="482.42764"
        x="-224.97806"
        line-height="125%"
-       id="text494-5"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:6.88489962px;text-align:center;text-anchor:middle;fill:#f7ef6f;fill-opacity:1;"
+       id="text494-5"><tspan
+         style="font-size:6.88489962px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#f7ef6f;fill-opacity:1"
          font-size="6.8849px"
          y="482.42764"
          x="-224.97806"
@@ -106,15 +105,14 @@
        id="ellipse8"
        style="fill:#796f08" />
     <text
-       style="font-size:10.32699966px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f7ef6f"
+       style="font-size:10.32699966px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f7ef6f"
        line-height="125%"
        font-size="10.327px"
        y="521.44391"
        x="321.55585"
        xml:space="preserve"
-       id="text10"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:6.88490009px;text-align:center;text-anchor:middle;fill:#f7ef6f"
+       id="text10"><tspan
+         style="font-size:6.88490009px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#f7ef6f"
          font-size="6.8849px"
          y="521.44391"
          x="321.55585"
@@ -127,15 +125,14 @@
        id="ellipse14"
        style="opacity:0.5;fill:#f1de0f" />
     <text
-       style="font-size:10.32699966px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f7ef6f"
+       style="font-size:10.32699966px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f7ef6f"
        xml:space="preserve"
        font-size="10.327px"
        y="468.16693"
        x="378.96808"
        line-height="125%"
-       id="text16"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:6.88490009px;text-align:center;text-anchor:middle;fill:#f7ef6f"
+       id="text16"><tspan
+         style="font-size:6.88490009px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#f7ef6f"
          font-size="6.8849px"
          y="468.16693"
          x="378.96808"
@@ -157,30 +154,30 @@ License: CC-SA 3.0</desc>
          y="78.214676"
          x="284.55145"
          id="text32"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan34"
-           style="font-family:Sans;fill:#ffffff">H</tspan>
+           style="font-family:sans-serif;fill:#ffffff">H</tspan>
       </text>
       <text
          font-size="4.838px"
          y="78.214676"
          x="288.42191"
          id="text36"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan38"
-           style="font-family:Sans;fill:#ffffff">N</tspan>
+           style="font-family:sans-serif;fill:#ffffff">N</tspan>
       </text>
       <text
          font-size="4.838px"
          y="91.954346"
          x="296.29181"
          id="text40"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan42"
-           style="font-family:Sans;fill:#ffffff">N</tspan>
+           style="font-family:sans-serif;fill:#ffffff">N</tspan>
       </text>
       <line
          y2="79.310997"
@@ -291,20 +288,20 @@ License: CC-SA 3.0</desc>
          y="75.376205"
          x="312.93457"
          id="text76"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan78"
-           style="font-family:Sans;fill:#ffffff">N</tspan>
+           style="font-family:sans-serif;fill:#ffffff">N</tspan>
       </text>
       <text
          font-size="4.3005px"
          y="73.312042"
          x="316.80481"
          id="text80"
-         style="font-size:4.30049992px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan82"
-           style="font-family:Sans;fill:#ffffff">+</tspan>
+           style="font-family:sans-serif;fill:#ffffff">+</tspan>
       </text>
       <line
          y2="80.600998"
@@ -350,10 +347,10 @@ License: CC-SA 3.0</desc>
          y="64.538971"
          x="296.16269"
          id="text96"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan98"
-           style="font-family:Sans;fill:#ffffff">O</tspan>
+           style="font-family:sans-serif;fill:#ffffff">O</tspan>
       </text>
       <line
          y2="71.828003"
@@ -386,30 +383,30 @@ License: CC-SA 3.0</desc>
          y="91.954346"
          x="274.2305"
          id="text108"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan110"
-           style="font-family:Sans;fill:#ffffff">H</tspan>
+           style="font-family:sans-serif;fill:#ffffff">H</tspan>
       </text>
       <text
          font-size="4.3005px"
          y="93.11557"
          x="278.10074"
          id="text112"
-         style="font-size:4.30049992px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan114"
-           style="font-family:Sans;fill:#ffffff">2</tspan>
+           style="font-family:sans-serif;fill:#ffffff">2</tspan>
       </text>
       <text
          font-size="4.838px"
          y="91.954346"
          x="280.48743"
          id="text116"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan118"
-           style="font-family:Sans;fill:#ffffff">N</tspan>
+           style="font-family:sans-serif;fill:#ffffff">N</tspan>
       </text>
       <line
          y2="85.374001"
@@ -429,20 +426,20 @@ License: CC-SA 3.0</desc>
          y="90.212555"
          x="312.93457"
          id="text124"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan126"
-           style="font-family:Sans;fill:#ffffff">N</tspan>
+           style="font-family:sans-serif;fill:#ffffff">N</tspan>
       </text>
       <text
          font-size="4.838px"
          y="103.82365"
          x="325.12616"
          id="text128"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan130"
-           style="font-family:Sans;fill:#ffffff">O</tspan>
+           style="font-family:sans-serif;fill:#ffffff">O</tspan>
       </text>
       <line
          y2="112.09"
@@ -465,20 +462,20 @@ License: CC-SA 3.0</desc>
          y="119.82121"
          x="317.44998"
          id="text136"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan138"
-           style="font-family:Sans;fill:#ffffff">O</tspan>
+           style="font-family:sans-serif;fill:#ffffff">O</tspan>
       </text>
       <text
          font-size="4.838px"
          y="119.82121"
          x="321.64279"
          id="text140"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan142"
-           style="font-family:Sans;fill:#ffffff">H</tspan>
+           style="font-family:sans-serif;fill:#ffffff">H</tspan>
       </text>
       <line
          y2="106.21"
@@ -537,22 +534,22 @@ License: CC-SA 3.0</desc>
          y="119.628"
          x="332.80264"
          id="text160"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <text
          font-size="4.838px"
          y="119.628"
          x="336.99548"
          id="text162"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">H</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">H</text>
       <text
          font-size="4.838px"
          y="101.04979"
          x="346.73605"
          id="text164"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan166"
-           style="font-family:Sans;fill:#ffffff">O</tspan>
+           style="font-family:sans-serif;fill:#ffffff">O</tspan>
       </text>
       <line
          y2="98.985001"
@@ -572,10 +569,10 @@ License: CC-SA 3.0</desc>
          y="101.04979"
          x="356.15402"
          id="text172"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan174"
-           style="font-family:Sans;fill:#ffffff">P</tspan>
+           style="font-family:sans-serif;fill:#ffffff">P</tspan>
       </text>
       <line
          y2="98.985001"
@@ -595,10 +592,10 @@ License: CC-SA 3.0</desc>
          y="101.04979"
          x="365.05603"
          id="text180"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan182"
-           style="font-family:Sans;fill:#ffffff">O</tspan>
+           style="font-family:sans-serif;fill:#ffffff">O</tspan>
       </text>
       <line
          y2="98.985001"
@@ -618,10 +615,10 @@ License: CC-SA 3.0</desc>
          y="91.954346"
          x="355.89603"
          id="text188"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan190"
-           style="font-family:Sans;fill:#ffffff">O</tspan>
+           style="font-family:sans-serif;fill:#ffffff">O</tspan>
       </text>
       <line
          y2="96.017998"
@@ -654,20 +651,20 @@ License: CC-SA 3.0</desc>
          y="110.20975"
          x="355.89603"
          id="text200"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan202"
-           style="font-family:Sans;fill:#ffffff">O</tspan>
+           style="font-family:sans-serif;fill:#ffffff">O</tspan>
       </text>
       <text
          font-size="4.3005px"
          y="108.1456"
          x="360.08884"
          id="text204"
-         style="font-size:4.30049992px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan206"
-           style="font-family:Sans;fill:#ffffff">−</tspan>
+           style="font-family:sans-serif;fill:#ffffff">−</tspan>
       </text>
       <line
          y2="102.15"
@@ -687,10 +684,10 @@ License: CC-SA 3.0</desc>
          y="101.04979"
          x="374.40942"
          id="text212"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan214"
-           style="font-family:Sans;fill:#ffffff">P</tspan>
+           style="font-family:sans-serif;fill:#ffffff">P</tspan>
       </text>
       <line
          y2="98.985001"
@@ -710,10 +707,10 @@ License: CC-SA 3.0</desc>
          y="91.889771"
          x="374.21597"
          id="text220"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan222"
-           style="font-family:Sans;fill:#ffffff">O</tspan>
+           style="font-family:sans-serif;fill:#ffffff">O</tspan>
       </text>
       <line
          y2="96.017998"
@@ -746,10 +743,10 @@ License: CC-SA 3.0</desc>
          y="101.04979"
          x="383.37595"
          id="text232"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan234"
-           style="font-family:Sans;fill:#ffffff">O</tspan>
+           style="font-family:sans-serif;fill:#ffffff">O</tspan>
       </text>
       <line
          y2="98.985001"
@@ -769,16 +766,16 @@ License: CC-SA 3.0</desc>
          y="110.20975"
          x="374.21597"
          id="text240"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <text
          font-size="4.3005px"
          y="108.08102"
          x="378.34424"
          id="text242"
-         style="font-size:4.30049992px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan244"
-           style="font-family:Sans;fill:#ffffff">−</tspan>
+           style="font-family:sans-serif;fill:#ffffff">−</tspan>
       </text>
       <line
          y2="102.15"
@@ -798,7 +795,7 @@ License: CC-SA 3.0</desc>
          y="101.04979"
          x="392.72916"
          id="text250"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">P</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">P</text>
       <line
          y2="98.985001"
          x2="388.41"
@@ -817,7 +814,7 @@ License: CC-SA 3.0</desc>
          y="91.889771"
          x="392.47137"
          id="text256"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <line
          y2="96.017998"
          x2="393.89001"
@@ -849,13 +846,13 @@ License: CC-SA 3.0</desc>
          y="110.20975"
          x="392.47137"
          id="text266"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <text
          font-size="4.3005px"
          y="108.08102"
          x="396.66418"
          id="text268"
-         style="font-size:4.30049992px;font-family:Sans;fill:#ffffff">−</text>
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif;fill:#ffffff">−</text>
       <line
          y2="102.15"
          x2="394.60001"
@@ -887,7 +884,7 @@ License: CC-SA 3.0</desc>
          y="103.82365"
          x="423.24066"
          id="text278"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <line
          y2="111.63"
          x2="417.76001"
@@ -958,7 +955,7 @@ License: CC-SA 3.0</desc>
          y="119.82121"
          x="430.91769"
          id="text300"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <line
          y2="111.76"
          x2="433.04999"
@@ -990,7 +987,7 @@ License: CC-SA 3.0</desc>
          y="119.628"
          x="415.56473"
          id="text310"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <line
          y2="111.76"
          x2="417.63"
@@ -1009,7 +1006,7 @@ License: CC-SA 3.0</desc>
          y="101.04979"
          x="401.63135"
          id="text316"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <line
          y2="98.985001"
          x2="412.79001"
@@ -1028,7 +1025,7 @@ License: CC-SA 3.0</desc>
          y="128.78798"
          x="415.75797"
          id="text322"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">P</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">P</text>
       <line
          y2="120.79"
          x2="417.63"
@@ -1047,7 +1044,7 @@ License: CC-SA 3.0</desc>
          y="128.78798"
          x="406.40475"
          id="text328"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <line
          y2="127.37"
          x2="415.04999"
@@ -1079,13 +1076,13 @@ License: CC-SA 3.0</desc>
          y="128.78798"
          x="424.72479"
          id="text338"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <text
          font-size="4.3005px"
          y="126.6593"
          x="428.85294"
          id="text340"
-         style="font-size:4.30049992px;font-family:Sans;fill:#ffffff">−</text>
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif;fill:#ffffff">−</text>
       <line
          y2="126.66"
          x2="420.14001"
@@ -1104,7 +1101,7 @@ License: CC-SA 3.0</desc>
          y="137.94797"
          x="415.56473"
          id="text346"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <line
          y2="129.88"
          x2="417.63"
@@ -1149,7 +1146,7 @@ License: CC-SA 3.0</desc>
          y="147.04337"
          x="435.88425"
          id="text360"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <line
          y2="154.91"
          x2="430.47"
@@ -1220,7 +1217,7 @@ License: CC-SA 3.0</desc>
          y="163.04094"
          x="443.62476"
          id="text382"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <line
          y2="154.98"
          x2="445.69"
@@ -1239,7 +1236,7 @@ License: CC-SA 3.0</desc>
          y="162.8472"
          x="428.27289"
          id="text388"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">O</text>
       <line
          y2="154.98"
          x2="430.34"
@@ -1271,31 +1268,31 @@ License: CC-SA 3.0</desc>
          y="99.243912"
          x="435.81973"
          id="text398"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">B</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">B</text>
       <text
          font-size="4.838px"
          y="99.243912"
          x="439.36734"
          id="text400"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">a</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">a</text>
       <text
          font-size="4.838px"
          y="99.243912"
          x="442.33493"
          id="text402"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">s</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">s</text>
       <text
          font-size="4.838px"
          y="99.243912"
          x="445.04428"
          id="text404"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">e</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">e</text>
       <text
          font-size="4.838px"
          y="99.243912"
          x="449.49487"
          id="text406"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">1</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">1</text>
       <line
          y2="106.21"
          x2="437.69"
@@ -1314,31 +1311,31 @@ License: CC-SA 3.0</desc>
          y="142.46313"
          x="448.46274"
          id="text412"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">B</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">B</text>
       <text
          font-size="4.838px"
          y="142.46313"
          x="452.07553"
          id="text414"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">a</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">a</text>
       <text
          font-size="4.838px"
          y="142.46313"
          x="455.0426"
          id="text416"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">s</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">s</text>
       <text
          font-size="4.838px"
          y="142.46313"
          x="457.75244"
          id="text418"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">e</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">e</text>
       <text
          font-size="4.838px"
          y="142.46313"
          x="462.203"
          id="text420"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">2</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">2</text>
       <line
          y2="149.42999"
          x2="450.39999"
@@ -1357,30 +1354,30 @@ License: CC-SA 3.0</desc>
          y="66.732254"
          x="315.77277"
          id="text426"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan428"
-           style="font-family:Sans;fill:#ffffff">C</tspan>
+           style="font-family:sans-serif;fill:#ffffff">C</tspan>
       </text>
       <text
          font-size="4.838px"
          y="66.732254"
          x="319.64328"
          id="text430"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan432"
-           style="font-family:Sans;fill:#ffffff">H</tspan>
+           style="font-family:sans-serif;fill:#ffffff">H</tspan>
       </text>
       <text
          font-size="4.3005px"
          y="67.893478"
          x="323.51352"
          id="text434"
-         style="font-size:4.30049992px;font-family:Sans;fill:#ffffff">
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif;fill:#ffffff">
         <tspan
            id="tspan436"
-           style="font-family:Sans;fill:#ffffff">3</tspan>
+           style="font-family:sans-serif;fill:#ffffff">3</tspan>
       </text>
       <line
          y2="70.151001"
@@ -1400,19 +1397,19 @@ License: CC-SA 3.0</desc>
          y="124.33689"
          x="439.04504"
          id="text442"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">C</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">C</text>
       <text
          font-size="4.838px"
          y="124.33689"
          x="442.91559"
          id="text444"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">H</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">H</text>
       <text
          font-size="4.3005px"
          y="125.56262"
          x="446.78607"
          id="text446"
-         style="font-size:4.30049992px;font-family:Sans;fill:#ffffff">3</text>
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif;fill:#ffffff">3</text>
       <line
          y2="119.3"
          x2="435.69"
@@ -1431,19 +1428,19 @@ License: CC-SA 3.0</desc>
          y="165.42737"
          x="452.65613"
          id="text452"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">C</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">C</text>
       <text
          font-size="4.838px"
          y="165.42737"
          x="456.52612"
          id="text454"
-         style="font-size:4.83799982px;font-family:Sans;fill:#ffffff">H</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif;fill:#ffffff">H</text>
       <text
          font-size="4.3005px"
          y="166.58861"
          x="460.39716"
          id="text456"
-         style="font-size:4.30049992px;font-family:Sans;fill:#ffffff">3</text>
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif;fill:#ffffff">3</text>
       <line
          y2="161.69"
          x2="448.66"
@@ -1492,19 +1489,18 @@ License: CC-SA 3.0</desc>
          style="fill:#ffffff;stroke:#ffffff;stroke-width:0.53755999px" />
     </g>
     <text
-       style="font-size:11.82600021px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff"
+       style="font-size:11.82600021px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff"
        line-height="125%"
        font-size="11.826px"
        y="433.16617"
        x="351.1593"
        xml:space="preserve"
-       id="text474"
-       sodipodi:linespacing="125%"><tspan
+       id="text474"><tspan
          font-size="7.884px"
          y="433.16617"
          x="351.1593"
          id="tspan476"
-         style="font-size:7.88399982px;font-family:Serif;fill:#ffffff">Methods for cap selection</tspan></text>
+         style="font-size:7.88399982px;font-family:serif;fill:#ffffff">Methods for cap selection</tspan></text>
   </g>
   <g
      transform="matrix(2.6693,0,0,2.6693,-532.751,-2200.1435)"
@@ -1517,15 +1513,14 @@ License: CC-SA 3.0</desc>
        id="ellipse480"
        style="opacity:0.5;fill:#f1de0f" />
     <text
-       style="font-size:10.32699966px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6a6406"
+       style="font-size:10.32699966px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6a6406"
        xml:space="preserve"
        font-size="10.327px"
        y="938.58673"
        x="292.98444"
        line-height="125%"
-       id="text482"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:6.88490009px;text-align:center;text-anchor:middle;fill:#6a6406"
+       id="text482"><tspan
+         style="font-size:6.88490009px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#6a6406"
          font-size="6.8849px"
          y="938.58673"
          x="292.98444"
@@ -1538,15 +1533,14 @@ License: CC-SA 3.0</desc>
        id="ellipse486"
        style="opacity:0.5;fill:#f1de0f" />
     <text
-       style="font-size:10.32699966px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6a6406"
+       style="font-size:10.32699966px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6a6406"
        line-height="125%"
        font-size="10.327px"
        y="885.30981"
        x="350.39667"
        xml:space="preserve"
-       id="text488"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:6.88490009px;text-align:center;text-anchor:middle;fill:#6a6406"
+       id="text488"><tspan
+         style="font-size:6.88490009px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#6a6406"
          font-size="6.8849px"
          y="885.30981"
          x="350.39667"
@@ -1560,16 +1554,15 @@ License: CC-SA 3.0</desc>
        id="ellipse492"
        style="opacity:0.5;fill:#f1de0f" />
     <text
-       style="font-size:10.32699966px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#6a6406"
+       style="font-size:10.32699966px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6a6406"
        xml:space="preserve"
-       transform="matrix(0.56272324,-0.82664536,0.82664536,0.56272324,0,0)"
+       transform="rotate(-55.755662)"
        font-size="10.327px"
        y="693.10986"
        x="-587.9541"
        line-height="125%"
-       id="text494"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:6.88490009px;text-align:center;text-anchor:middle;fill:#6a6406"
+       id="text494"><tspan
+         style="font-size:6.88490009px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#6a6406"
          font-size="6.8849px"
          y="693.10986"
          x="-587.9541"
@@ -1590,30 +1583,30 @@ License: CC-SA 3.0</desc>
          y="78.214676"
          x="284.55145"
          id="text504"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan506"
-           style="font-family:Sans">H</tspan>
+           style="font-family:sans-serif">H</tspan>
       </text>
       <text
          font-size="4.838px"
          y="78.214676"
          x="288.42191"
          id="text508"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan510"
-           style="font-family:Sans">N</tspan>
+           style="font-family:sans-serif">N</tspan>
       </text>
       <text
          font-size="4.838px"
          y="91.954346"
          x="296.29181"
          id="text512"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan514"
-           style="font-family:Sans">N</tspan>
+           style="font-family:sans-serif">N</tspan>
       </text>
       <line
          x1="290.35999"
@@ -1724,20 +1717,20 @@ License: CC-SA 3.0</desc>
          y="75.376205"
          x="312.93457"
          id="text548"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan550"
-           style="font-family:Sans">N</tspan>
+           style="font-family:sans-serif">N</tspan>
       </text>
       <text
          font-size="4.3005px"
          y="73.312042"
          x="316.80481"
          id="text552"
-         style="font-size:4.30049992px;font-family:Sans">
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan554"
-           style="font-family:Sans">+</tspan>
+           style="font-family:sans-serif">+</tspan>
       </text>
       <line
          x1="317.06"
@@ -1783,10 +1776,10 @@ License: CC-SA 3.0</desc>
          y="64.538971"
          x="296.16269"
          id="text568"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan570"
-           style="font-family:Sans">O</tspan>
+           style="font-family:sans-serif">O</tspan>
       </text>
       <line
          x1="297.57999"
@@ -1819,30 +1812,30 @@ License: CC-SA 3.0</desc>
          y="91.954346"
          x="274.2305"
          id="text580"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan582"
-           style="font-family:Sans">H</tspan>
+           style="font-family:sans-serif">H</tspan>
       </text>
       <text
          font-size="4.3005px"
          y="93.11557"
          x="278.10074"
          id="text584"
-         style="font-size:4.30049992px;font-family:Sans">
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan586"
-           style="font-family:Sans">2</tspan>
+           style="font-family:sans-serif">2</tspan>
       </text>
       <text
          font-size="4.838px"
          y="91.954346"
          x="280.48743"
          id="text588"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan590"
-           style="font-family:Sans">N</tspan>
+           style="font-family:sans-serif">N</tspan>
       </text>
       <line
          x1="285.32999"
@@ -1862,20 +1855,20 @@ License: CC-SA 3.0</desc>
          y="90.212555"
          x="312.93457"
          id="text596"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan598"
-           style="font-family:Sans">N</tspan>
+           style="font-family:sans-serif">N</tspan>
       </text>
       <text
          font-size="4.838px"
          y="103.82365"
          x="325.12616"
          id="text600"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan602"
-           style="font-family:Sans">O</tspan>
+           style="font-family:sans-serif">O</tspan>
       </text>
       <line
          x1="319.79999"
@@ -1898,20 +1891,20 @@ License: CC-SA 3.0</desc>
          y="119.82121"
          x="317.44998"
          id="text608"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan610"
-           style="font-family:Sans">O</tspan>
+           style="font-family:sans-serif">O</tspan>
       </text>
       <text
          font-size="4.838px"
          y="119.82121"
          x="321.64279"
          id="text612"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan614"
-           style="font-family:Sans">H</tspan>
+           style="font-family:sans-serif">H</tspan>
       </text>
       <line
          x1="339.70001"
@@ -1970,22 +1963,22 @@ License: CC-SA 3.0</desc>
          y="119.628"
          x="332.80264"
          id="text632"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <text
          font-size="4.838px"
          y="119.628"
          x="336.99548"
          id="text634"
-         style="font-size:4.83799982px;font-family:Sans">H</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">H</text>
       <text
          font-size="4.838px"
          y="101.04979"
          x="346.73605"
          id="text636"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan638"
-           style="font-family:Sans">O</tspan>
+           style="font-family:sans-serif">O</tspan>
       </text>
       <line
          x1="345.76999"
@@ -2005,10 +1998,10 @@ License: CC-SA 3.0</desc>
          y="101.04979"
          x="356.15402"
          id="text644"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan646"
-           style="font-family:Sans">P</tspan>
+           style="font-family:sans-serif">P</tspan>
       </text>
       <line
          x1="355.38"
@@ -2028,10 +2021,10 @@ License: CC-SA 3.0</desc>
          y="101.04979"
          x="365.05603"
          id="text652"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan654"
-           style="font-family:Sans">O</tspan>
+           style="font-family:sans-serif">O</tspan>
       </text>
       <line
          x1="364.09"
@@ -2051,10 +2044,10 @@ License: CC-SA 3.0</desc>
          y="91.954346"
          x="355.89603"
          id="text660"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan662"
-           style="font-family:Sans">O</tspan>
+           style="font-family:sans-serif">O</tspan>
       </text>
       <line
          x1="357.32001"
@@ -2087,20 +2080,20 @@ License: CC-SA 3.0</desc>
          y="110.20975"
          x="355.89603"
          id="text672"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan674"
-           style="font-family:Sans">O</tspan>
+           style="font-family:sans-serif">O</tspan>
       </text>
       <text
          font-size="4.3005px"
          y="108.1456"
          x="360.08884"
          id="text676"
-         style="font-size:4.30049992px;font-family:Sans">
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan678"
-           style="font-family:Sans">−</tspan>
+           style="font-family:sans-serif">−</tspan>
       </text>
       <line
          x1="358.01999"
@@ -2120,10 +2113,10 @@ License: CC-SA 3.0</desc>
          y="101.04979"
          x="374.40942"
          id="text684"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan686"
-           style="font-family:Sans">P</tspan>
+           style="font-family:sans-serif">P</tspan>
       </text>
       <line
          x1="373.70001"
@@ -2143,10 +2136,10 @@ License: CC-SA 3.0</desc>
          y="91.889771"
          x="374.21597"
          id="text692"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan694"
-           style="font-family:Sans">O</tspan>
+           style="font-family:sans-serif">O</tspan>
       </text>
       <line
          x1="375.64001"
@@ -2179,10 +2172,10 @@ License: CC-SA 3.0</desc>
          y="101.04979"
          x="383.37595"
          id="text704"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan706"
-           style="font-family:Sans">O</tspan>
+           style="font-family:sans-serif">O</tspan>
       </text>
       <line
          x1="382.34"
@@ -2202,16 +2195,16 @@ License: CC-SA 3.0</desc>
          y="110.20975"
          x="374.21597"
          id="text712"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <text
          font-size="4.3005px"
          y="108.08102"
          x="378.34424"
          id="text714"
-         style="font-size:4.30049992px;font-family:Sans">
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan716"
-           style="font-family:Sans">−</tspan>
+           style="font-family:sans-serif">−</tspan>
       </text>
       <line
          x1="376.28"
@@ -2231,7 +2224,7 @@ License: CC-SA 3.0</desc>
          y="101.04979"
          x="392.72916"
          id="text722"
-         style="font-size:4.83799982px;font-family:Sans">P</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">P</text>
       <line
          x1="392.01999"
          y1="98.985001"
@@ -2250,7 +2243,7 @@ License: CC-SA 3.0</desc>
          y="91.889771"
          x="392.47137"
          id="text728"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <line
          x1="393.89001"
          y1="93.114998"
@@ -2282,13 +2275,13 @@ License: CC-SA 3.0</desc>
          y="110.20975"
          x="392.47137"
          id="text738"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <text
          font-size="4.3005px"
          y="108.08102"
          x="396.66418"
          id="text740"
-         style="font-size:4.30049992px;font-family:Sans">−</text>
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif">−</text>
       <line
          x1="394.60001"
          y1="105.11"
@@ -2320,7 +2313,7 @@ License: CC-SA 3.0</desc>
          y="103.82365"
          x="423.24066"
          id="text750"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <line
          x1="432.92001"
          y1="111.63"
@@ -2391,7 +2384,7 @@ License: CC-SA 3.0</desc>
          y="119.82121"
          x="430.91769"
          id="text772"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <line
          x1="433.04999"
          y1="114.66"
@@ -2423,7 +2416,7 @@ License: CC-SA 3.0</desc>
          y="119.628"
          x="415.56473"
          id="text782"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <line
          x1="417.63"
          y1="114.53"
@@ -2442,7 +2435,7 @@ License: CC-SA 3.0</desc>
          y="101.04979"
          x="401.63135"
          id="text788"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <line
          x1="406.66"
          y1="98.985001"
@@ -2461,7 +2454,7 @@ License: CC-SA 3.0</desc>
          y="128.78798"
          x="415.75797"
          id="text794"
-         style="font-size:4.83799982px;font-family:Sans">P</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">P</text>
       <line
          x1="417.63"
          y1="123.76"
@@ -2480,7 +2473,7 @@ License: CC-SA 3.0</desc>
          y="128.78798"
          x="406.40475"
          id="text800"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <line
          x1="411.44"
          y1="127.37"
@@ -2512,13 +2505,13 @@ License: CC-SA 3.0</desc>
          y="128.78798"
          x="424.72479"
          id="text810"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <text
          font-size="4.3005px"
          y="126.6593"
          x="428.85294"
          id="text812"
-         style="font-size:4.30049992px;font-family:Sans">−</text>
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif">−</text>
       <line
          x1="423.69"
          y1="126.66"
@@ -2537,7 +2530,7 @@ License: CC-SA 3.0</desc>
          y="137.94797"
          x="415.56473"
          id="text818"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <line
          x1="417.63"
          y1="132.78999"
@@ -2582,7 +2575,7 @@ License: CC-SA 3.0</desc>
          y="147.04337"
          x="435.88425"
          id="text832"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <line
          x1="445.62"
          y1="154.91"
@@ -2653,7 +2646,7 @@ License: CC-SA 3.0</desc>
          y="163.04094"
          x="443.62476"
          id="text854"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <line
          x1="445.69"
          y1="157.94"
@@ -2672,7 +2665,7 @@ License: CC-SA 3.0</desc>
          y="162.8472"
          x="428.27289"
          id="text860"
-         style="font-size:4.83799982px;font-family:Sans">O</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">O</text>
       <line
          x1="430.34"
          y1="157.75"
@@ -2704,31 +2697,31 @@ License: CC-SA 3.0</desc>
          y="99.243912"
          x="435.81973"
          id="text870"
-         style="font-size:4.83799982px;font-family:Sans">B</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">B</text>
       <text
          font-size="4.838px"
          y="99.243912"
          x="439.36734"
          id="text872"
-         style="font-size:4.83799982px;font-family:Sans">a</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">a</text>
       <text
          font-size="4.838px"
          y="99.243912"
          x="442.33493"
          id="text874"
-         style="font-size:4.83799982px;font-family:Sans">s</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">s</text>
       <text
          font-size="4.838px"
          y="99.243912"
          x="445.04428"
          id="text876"
-         style="font-size:4.83799982px;font-family:Sans">e</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">e</text>
       <text
          font-size="4.838px"
          y="99.243912"
          x="449.49487"
          id="text878"
-         style="font-size:4.83799982px;font-family:Sans">1</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">1</text>
       <line
          x1="437.69"
          y1="100.34"
@@ -2747,31 +2740,31 @@ License: CC-SA 3.0</desc>
          y="142.46313"
          x="448.46274"
          id="text884"
-         style="font-size:4.83799982px;font-family:Sans">B</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">B</text>
       <text
          font-size="4.838px"
          y="142.46313"
          x="452.07553"
          id="text886"
-         style="font-size:4.83799982px;font-family:Sans">a</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">a</text>
       <text
          font-size="4.838px"
          y="142.46313"
          x="455.0426"
          id="text888"
-         style="font-size:4.83799982px;font-family:Sans">s</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">s</text>
       <text
          font-size="4.838px"
          y="142.46313"
          x="457.75244"
          id="text890"
-         style="font-size:4.83799982px;font-family:Sans">e</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">e</text>
       <text
          font-size="4.838px"
          y="142.46313"
          x="462.203"
          id="text892"
-         style="font-size:4.83799982px;font-family:Sans">2</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">2</text>
       <line
          x1="450.39999"
          y1="143.62"
@@ -2790,30 +2783,30 @@ License: CC-SA 3.0</desc>
          y="66.732254"
          x="315.77277"
          id="text898"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan900"
-           style="font-family:Sans">C</tspan>
+           style="font-family:sans-serif">C</tspan>
       </text>
       <text
          font-size="4.838px"
          y="66.732254"
          x="319.64328"
          id="text902"
-         style="font-size:4.83799982px;font-family:Sans">
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan904"
-           style="font-family:Sans">H</tspan>
+           style="font-family:sans-serif">H</tspan>
       </text>
       <text
          font-size="4.3005px"
          y="67.893478"
          x="323.51352"
          id="text906"
-         style="font-size:4.30049992px;font-family:Sans">
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif">
         <tspan
            id="tspan908"
-           style="font-family:Sans">3</tspan>
+           style="font-family:sans-serif">3</tspan>
       </text>
       <line
          x1="316.73999"
@@ -2833,19 +2826,19 @@ License: CC-SA 3.0</desc>
          y="124.33689"
          x="439.04504"
          id="text914"
-         style="font-size:4.83799982px;font-family:Sans">C</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">C</text>
       <text
          font-size="4.838px"
          y="124.33689"
          x="442.91559"
          id="text916"
-         style="font-size:4.83799982px;font-family:Sans">H</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">H</text>
       <text
          font-size="4.3005px"
          y="125.56262"
          x="446.78607"
          id="text918"
-         style="font-size:4.30049992px;font-family:Sans">3</text>
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif">3</text>
       <line
          x1="438.34"
          y1="120.72"
@@ -2864,19 +2857,19 @@ License: CC-SA 3.0</desc>
          y="165.42737"
          x="452.65613"
          id="text924"
-         style="font-size:4.83799982px;font-family:Sans">C</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">C</text>
       <text
          font-size="4.838px"
          y="165.42737"
          x="456.52612"
          id="text926"
-         style="font-size:4.83799982px;font-family:Sans">H</text>
+         style="font-size:4.83799982px;line-height:0%;font-family:sans-serif">H</text>
       <text
          font-size="4.3005px"
          y="166.58861"
          x="460.39716"
          id="text928"
-         style="font-size:4.30049992px;font-family:Sans">3</text>
+         style="font-size:4.30049992px;line-height:0%;font-family:sans-serif">3</text>
       <line
          x1="451.75"
          y1="162.59"
@@ -2925,29 +2918,1787 @@ License: CC-SA 3.0</desc>
          style="fill:none;stroke:#000000;stroke-width:0.53755999px" />
     </g>
     <text
-       style="font-size:11.82600021px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       style="font-size:11.82600021px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000"
        xml:space="preserve"
        font-size="11.826px"
        y="850.30902"
        x="322.58795"
        line-height="125%"
-       id="text946"
-       sodipodi:linespacing="125%"><tspan
+       id="text946"><tspan
          font-size="7.884px"
          y="850.30902"
          x="322.58795"
          id="tspan948"
-         style="font-size:7.88399982px;font-family:Serif">Methods for cap selection</tspan></text>
+         style="font-size:7.88399982px;font-family:serif">Methods for cap selection</tspan></text>
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.91759014px;line-height:125%;font-family:Serif;-inkscape-font-specification:'Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:serif;-inkscape-font-specification:'Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="13.378428"
      y="-7.9063931"
-     id="text5082"
-     sodipodi:linespacing="125%"><tspan
+     id="text5082"><tspan
        sodipodi:role="line"
        id="tspan5084"
        x="13.378428"
-       y="-7.9063931">https://github.com/charles-plessy/WorkArtWork/blob/master/CapSelection.svg</tspan></text>
+       y="-7.9063931"
+       style="font-size:15.91759014px;line-height:1.25;font-family:serif">https://github.com/charles-plessy/WorkArtWork/blob/master/CapSelection.svg</tspan></text>
+  <g
+     id="g11985"
+     transform="translate(278.43066,163.98126)">
+    <text
+       style="font-size:12.249156px;line-height:0%;font-family:sans-serif;fill:#586e75;stroke-width:2.84830999"
+       id="text12385"
+       x="-341.44846"
+       y="441.01578"
+       font-size="4.3005px">3</text>
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+       id="text12277"
+       x="-424.97501"
+       y="380.73529"
+       font-size="4.838px">O</text>
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+       id="text12279"
+       x="-465.9567"
+       y="380.21954"
+       font-size="4.838px">O</text>
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+       id="text12281"
+       x="-465.44089"
+       y="404.67029"
+       font-size="4.838px">P</text>
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12283"
+       y2="383.32129"
+       x2="-460.44385"
+       stroke-miterlimit="10"
+       y1="391.24911"
+       x1="-460.44385" />
+    <polyline
+       style="clip-rule:evenodd;fill-rule:evenodd"
+       id="polyline12285"
+       points="267.36 124.4 266.28 124.4 266.28 118.64 267.36 118.64 267.36 124.4"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+       id="text12287"
+       x="-490.40744"
+       y="404.67029"
+       font-size="4.838px">O</text>
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12289"
+       y2="400.88528"
+       x2="-467.33069"
+       stroke-miterlimit="10"
+       y1="400.88528"
+       x1="-476.96683" />
+    <polyline
+       style="clip-rule:evenodd;fill-rule:evenodd"
+       id="polyline12291"
+       points="255.12 131.48 255.12 130.52 262.2 130.52 262.2 131.48 255.12 131.48"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12293"
+       y2="397.25504"
+       x2="-467.33069"
+       stroke-miterlimit="10"
+       y1="397.25504"
+       x1="-476.96683" />
+    <polyline
+       style="clip-rule:evenodd;fill-rule:evenodd"
+       id="polyline12295"
+       points="255.12 128.96 255.12 128 262.2 128 262.2 128.96 255.12 128.96"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+       id="text12297"
+       x="-441.50574"
+       y="404.67029"
+       font-size="4.838px">O</text>
+    <text
+       style="font-size:11.47932434px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+       id="text12299"
+       x="-430.48648"
+       y="398.98819"
+       font-size="4.3005px">−</text>
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12301"
+       y2="398.99008"
+       x2="-453.74387"
+       stroke-miterlimit="10"
+       y1="398.99008"
+       x1="-444.26788" />
+    <polyline
+       style="clip-rule:evenodd;fill-rule:evenodd"
+       id="polyline12303"
+       points="278.28 129.2 278.28 130.16 271.32 130.16 271.32 129.2 278.28 129.2"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+       id="text12305"
+       x="-465.9567"
+       y="429.12103"
+       font-size="4.838px">O</text>
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12307"
+       y2="407.58524"
+       x2="-460.44385"
+       stroke-miterlimit="10"
+       y1="415.35287"
+       x1="-460.44385" />
+    <polyline
+       style="clip-rule:evenodd;fill-rule:evenodd"
+       id="polyline12309"
+       points="267.36 141.32 266.28 141.32 266.28 135.44 267.36 135.44 267.36 141.32"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <line
+       style="fill:#586e75;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12311"
+       y2="427.7384"
+       x2="-453.21005"
+       stroke-miterlimit="10"
+       y1="435.31924"
+       x1="-439.43646" />
+    <polyline
+       style="clip-rule:evenodd;fill:#586e75;fill-rule:evenodd"
+       id="polyline12313"
+       points="282 154.88 281.52 155.24 281.04 155.48 271.44 149.96 271.92 149.12 282 154.88"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <line
+       style="fill:#586e75;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12315"
+       y2="435.82642"
+       x2="-439.27631"
+       stroke-miterlimit="10"
+       y1="459.77002"
+       x1="-439.27631" />
+    <polyline
+       style="clip-rule:evenodd;fill:#586e75;fill-rule:evenodd"
+       id="polyline12317"
+       points="282 171.56 281.52 172.28 281.04 172.4 281.04 155.48 281.52 155.24 282 154.88 282 171.56"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;fill:#586e75;stroke-width:2.66930008"
+       id="text12319"
+       x="-411.7178"
+       y="453.39938"
+       font-size="4.838px">O</text>
+    <line
+       style="fill:#586e75;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12321"
+       y2="474.3978"
+       x2="-426.17004"
+       stroke-miterlimit="10"
+       y1="474.3978"
+       x1="-385.73016" />
+    <polyline
+       style="clip-rule:evenodd;fill:#586e75;fill-rule:evenodd"
+       id="polyline12323"
+       points="316.8 180.2 318.96 182.24 318.48 184.16 290.88 184.16 290.4 182.24 292.68 180.2 316.8 180.2"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <line
+       style="fill:#586e75;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12325"
+       y2="474.05078"
+       x2="-385.19629"
+       stroke-miterlimit="10"
+       y1="460.27719"
+       x1="-373.31793" />
+    <polyline
+       style="clip-rule:evenodd;fill:#586e75;fill-rule:evenodd"
+       id="polyline12327"
+       points="326.64 172.4 327.72 172.28 328.2 172.4 319.56 187.16 318.96 182.24 316.8 180.2 326.64 172.4"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <line
+       style="fill:#586e75;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12329"
+       y2="460.11703"
+       x2="-373.31793"
+       stroke-miterlimit="10"
+       y1="450.48087"
+       x1="-398.46271" />
+    <polyline
+       style="clip-rule:evenodd;fill:#586e75;fill-rule:evenodd"
+       id="polyline12331"
+       points="309.6 166.04 309.96 165.08 327.24 171.56 327.72 172.28 326.64 172.4 309.6 166.04"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <line
+       style="fill:#586e75;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12333"
+       y2="450.64102"
+       x2="-413.9447"
+       stroke-miterlimit="10"
+       y1="460.11703"
+       x1="-438.92929" />
+    <polyline
+       style="clip-rule:evenodd;fill:#586e75;fill-rule:evenodd"
+       id="polyline12335"
+       points="282.6 172.4 281.52 172.28 282 171.56 299.16 165.2 299.4 166.16 282.6 172.4"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <line
+       style="fill:#586e75;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12337"
+       y2="474.05078"
+       x2="-426.70395"
+       stroke-miterlimit="10"
+       y1="460.27719"
+       x1="-438.92929" />
+    <polyline
+       style="clip-rule:evenodd;fill:#586e75;fill-rule:evenodd"
+       id="polyline12339"
+       points="281.04 172.4 281.52 172.28 282.6 172.4 292.68 180.2 290.4 182.24 289.92 187.16 281.04 172.4"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;fill:#586e75;stroke-width:2.66930008"
+       id="text12341"
+       x="-391.05606"
+       y="496.10172"
+       font-size="4.838px">O</text>
+    <line
+       style="fill:#586e75;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12343"
+       y2="474.58463"
+       x2="-385.5433"
+       stroke-miterlimit="10"
+       y1="482.48578"
+       x1="-385.5433" />
+    <polyline
+       style="clip-rule:evenodd;fill:#586e75;fill-rule:evenodd"
+       id="polyline12345"
+       points="319.56 188 318.48 188 318.48 184.16 318.96 182.24 319.56 187.16 319.56 188"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;fill:#586e75;stroke-width:2.66930008"
+       id="text12347"
+       x="-432.03479"
+       y="495.58456"
+       font-size="4.838px">O</text>
+    <line
+       style="fill:#586e75;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12349"
+       y2="474.58463"
+       x2="-426.51706"
+       stroke-miterlimit="10"
+       y1="481.97861"
+       x1="-426.51706" />
+    <polyline
+       style="clip-rule:evenodd;fill:#586e75;fill-rule:evenodd"
+       id="polyline12351"
+       points="290.88 187.76 289.92 187.76 289.92 187.16 290.4 182.24 290.88 184.16 290.88 187.76"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <line
+       style="fill:#586e75;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12353"
+       y2="498.8486"
+       x2="-426.51706"
+       stroke-miterlimit="10"
+       y1="514.17035"
+       x1="-426.51706" />
+    <polyline
+       style="clip-rule:evenodd;fill:#586e75;fill-rule:evenodd"
+       id="polyline12355"
+       points="290.88 210.2 289.92 210.2 289.92 199.04 290.88 199.04 290.88 210.2"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;fill:#586e75;stroke-width:2.66930008"
+       id="text12357"
+       x="-378.14203"
+       y="441.17337"
+       font-size="4.838px">B</text>
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;fill:#586e75;stroke-width:2.66930008"
+       id="text12359"
+       x="-368.49838"
+       y="441.17337"
+       font-size="4.838px">a</text>
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;fill:#586e75;stroke-width:2.66930008"
+       id="text12361"
+       x="-360.5784"
+       y="441.17337"
+       font-size="4.838px">s</text>
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;fill:#586e75;stroke-width:2.66930008"
+       id="text12363"
+       x="-353.34503"
+       y="441.17337"
+       font-size="4.838px">e</text>
+    <line
+       style="fill:#586e75;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12367"
+       y2="459.77002"
+       x2="-372.97092"
+       stroke-miterlimit="10"
+       y1="444.26138"
+       x1="-372.97092" />
+    <polyline
+       style="clip-rule:evenodd;fill:#586e75;fill-rule:evenodd"
+       id="polyline12369"
+       points="327.24 161 328.2 161 328.2 172.4 327.72 172.28 327.24 171.56 327.24 161"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+       id="text12371"
+       x="-403.28067"
+       y="392.789"
+       font-size="4.838px">C</text>
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+       id="text12373"
+       x="-392.94904"
+       y="392.789"
+       font-size="4.838px">H</text>
+    <text
+       style="font-size:11.47932434px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+       id="text12375"
+       x="-382.61755"
+       y="396.06085"
+       font-size="4.3005px">3</text>
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+       id="line12377"
+       y2="379.34402"
+       x2="-412.2363"
+       stroke-miterlimit="10"
+       y1="383.13443"
+       x1="-405.16266" />
+    <polyline
+       style="clip-rule:evenodd;fill-rule:evenodd"
+       id="polyline12379"
+       points="305.76 118.4 305.28 119.24 300 116.24 300.48 115.4 305.76 118.4"
+       transform="matrix(1.4349089,0,0,1.4349089,-843.22149,212.91049)" />
+    <text
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;fill:#586e75;stroke-width:2.66930008"
+       id="text12383"
+       x="-380.52548"
+       y="495.93146"
+       font-size="4.838px">H</text>
+    <text
+       font-size="4.838px"
+       y="222.69028"
+       x="-479.54242"
+       id="text11503"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">O</text>
+    <line
+       x1="-453.70532"
+       y1="243.52777"
+       stroke-miterlimit="10"
+       x2="-494.17194"
+       y2="243.52777"
+       id="line11505"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="293.16 99.799 295.44 101.72 294.96 103.76 267.36 103.76 266.76 101.72 269.04 99.799 293.16 99.799"
+       id="polyline11507"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-441.13297"
+       y1="229.56735"
+       stroke-miterlimit="10"
+       x2="-453.19824"
+       y2="243.34091"
+       id="line11509"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="303.12 91.999 304.08 91.759 304.56 91.879 295.92 106.76 295.44 101.72 293.16 99.799 303.12 91.999"
+       id="polyline11511"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-466.2778"
+       y1="219.77103"
+       stroke-miterlimit="10"
+       x2="-441.13297"
+       y2="229.22031"
+       id="line11513"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="286.08 85.639 286.44 84.679 303.6 91.039 304.08 91.759 303.12 91.999 286.08 85.639"
+       id="polyline11515"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-506.93118"
+       y1="229.22031"
+       stroke-miterlimit="10"
+       x2="-481.94656"
+       y2="219.93115"
+       id="line11517"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="258.96 91.999 258 91.759 258.48 91.039 275.52 84.799 275.88 85.759 258.96 91.999"
+       id="polyline11519"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-506.93118"
+       y1="229.56735"
+       stroke-miterlimit="10"
+       x2="-494.70581"
+       y2="243.34091"
+       id="line11521"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="257.4 91.879 258 91.759 258.96 91.999 269.04 99.799 266.76 101.72 266.28 106.64 257.4 91.879"
+       id="polyline11523"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-453.3584"
+       y1="251.61575"
+       stroke-miterlimit="10"
+       x2="-453.3584"
+       y2="243.87479"
+       id="line11527"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="295.92 107.6 294.96 107.6 294.96 103.76 295.44 101.72 295.92 106.76 295.92 107.6"
+       id="polyline11529"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-507.09134"
+       y1="209.948"
+       stroke-miterlimit="10"
+       x2="-507.09134"
+       y2="229.06018"
+       id="line11531"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="257.4 78.679 258 78.199 258.48 77.599 258.48 91.039 258 91.759 257.4 91.879 257.4 78.679"
+       id="polyline11533"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-494.51895"
+       y1="251.26874"
+       stroke-miterlimit="10"
+       x2="-494.51895"
+       y2="243.87479"
+       id="line11537"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="267.36 107.24 266.28 107.24 266.28 106.64 266.76 101.72 267.36 103.76 267.36 107.24"
+       id="polyline11539"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <g
+       id="g11585"
+       transform="rotate(-22.313451,-1040.7552,417.85839)"
+       inkscape:transform-center-x="-0.066843601"
+       inkscape:transform-center-y="0.65208133">
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11543"
+         x="298.60944"
+         y="534.8197"
+         font-size="4.838px"
+         transform="rotate(90)">
+        <tspan
+           style="font-family:sans-serif;stroke-width:2.66930008"
+           id="tspan11541">O</tspan>
+      </text>
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11547"
+         x="299.37872"
+         y="510.46219"
+         font-size="4.838px"
+         transform="rotate(90)">
+        <tspan
+           style="font-family:sans-serif;stroke-width:2.66930008"
+           id="tspan11545">P</tspan>
+      </text>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11549"
+         y2="302.8812"
+         x2="-521.76404"
+         stroke-miterlimit="10"
+         y1="302.8812"
+         x1="-512.12787" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11551"
+         points="151.2 77.599 151.2 78.679 144.12 78.679 144.12 77.599 151.2 77.599"
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)" />
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11555"
+         x="298.60944"
+         y="485.91815"
+         font-size="4.838px"
+         transform="rotate(90)">
+        <tspan
+           style="font-family:sans-serif;stroke-width:2.66930008"
+           id="tspan11553">O</tspan>
+      </text>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11557"
+         y2="302.8812"
+         x2="-498.35425"
+         stroke-miterlimit="10"
+         y1="302.8812"
+         x1="-488.87827" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11559"
+         points="167.28 77.599 167.28 78.679 160.32 78.679 160.32 77.599 167.28 77.599"
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)" />
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11563"
+         x="274.33096"
+         y="510.36893"
+         font-size="4.838px"
+         transform="rotate(90)">
+        <tspan
+           style="font-family:sans-serif;stroke-width:2.66930008"
+           id="tspan11561">O</tspan>
+      </text>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11565"
+         y2="294.96136"
+         x2="-506.9494"
+         stroke-miterlimit="10"
+         y1="287.2124"
+         x1="-506.9494" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11567"
+         points="154.08 67.159 155.04 67.159 155.04 72.799 154.08 72.799 154.08 67.159"
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11569"
+         y2="294.96136"
+         x2="-503.34583"
+         stroke-miterlimit="10"
+         y1="287.2124"
+         x1="-503.34583" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11571"
+         points="156.6 67.159 157.56 67.159 157.56 72.799 156.6 72.799 156.6 67.159"
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)" />
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11575"
+         x="323.06012"
+         y="510.36893"
+         font-size="4.838px"
+         transform="rotate(90)">
+        <tspan
+           style="font-family:sans-serif;stroke-width:2.66930008"
+           id="tspan11573">O</tspan>
+      </text>
+      <text
+         style="font-size:11.47932434px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11579"
+         x="306.06403"
+         y="528.65509"
+         font-size="4.3005px"
+         transform="rotate(90)">
+        <tspan
+           style="font-family:sans-serif;stroke-width:2.66930008"
+           id="tspan11577">−</tspan>
+      </text>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11581"
+         y2="311.32953"
+         x2="-505.08093"
+         stroke-miterlimit="10"
+         y1="319.23065"
+         x1="-505.08093" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11583"
+         points="156.36 89.839 155.4 89.839 155.4 83.959 156.36 83.959 156.36 89.839"
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)" />
+    </g>
+    <g
+       id="g11625"
+       transform="rotate(64.753837,-836.72781,-124.56254)">
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11589"
+         x="-476.11279"
+         y="-241.42967"
+         font-size="4.838px">
+        <tspan
+           style="font-family:sans-serif;stroke-width:2.66930008"
+           id="tspan11587">P</tspan>
+      </text>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11591"
+         y2="-246.94121"
+         x2="-487.64267"
+         stroke-miterlimit="10"
+         y1="-246.94121"
+         x1="-478.00644" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11593"
+         points="185.28 77.599 185.28 78.679 178.2 78.679 178.2 77.599 185.28 77.599"
+         transform="matrix(1.4349089,0,0,1.4349089,-743.52173,-359.1479)" />
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11597"
+         x="-476.62918"
+         y="-265.88049"
+         font-size="4.838px">
+        <tspan
+           style="font-family:sans-serif;stroke-width:2.66930008"
+           id="tspan11595">O</tspan>
+      </text>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11599"
+         y2="-254.86104"
+         x2="-472.828"
+         stroke-miterlimit="10"
+         y1="-262.60999"
+         x1="-472.828" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11601"
+         points="188.16 67.039 189.12 67.039 189.12 72.799 188.16 72.799 188.16 67.039"
+         transform="matrix(1.4349089,0,0,1.4349089,-743.52173,-359.1479)" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11603"
+         y2="-254.86104"
+         x2="-469.22449"
+         stroke-miterlimit="10"
+         y1="-262.60999"
+         x1="-469.22449" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11605"
+         points="190.68 67.039 191.64 67.039 191.64 72.799 190.68 72.799 190.68 67.039"
+         transform="matrix(1.4349089,0,0,1.4349089,-743.52173,-359.1479)" />
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11609"
+         x="-452.17847"
+         y="-241.42967"
+         font-size="4.838px">
+        <tspan
+           style="font-family:sans-serif;stroke-width:2.66930008"
+           id="tspan11607">O</tspan>
+      </text>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11611"
+         y2="-246.94121"
+         x2="-464.39307"
+         stroke-miterlimit="10"
+         y1="-246.94121"
+         x1="-454.94373" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11613"
+         points="201.36 77.599 201.36 78.679 194.4 78.679 194.4 77.599 201.36 77.599"
+         transform="matrix(1.4349089,0,0,1.4349089,-743.52173,-359.1479)" />
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11615"
+         x="-476.62918"
+         y="-216.97899"
+         font-size="4.838px">O</text>
+      <text
+         style="font-size:11.47932434px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11619"
+         x="-465.60962"
+         y="-222.66121"
+         font-size="4.3005px">
+        <tspan
+           style="font-family:sans-serif;stroke-width:2.66930008"
+           id="tspan11617">−</tspan>
+      </text>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11621"
+         y2="-238.49287"
+         x2="-471.11969"
+         stroke-miterlimit="10"
+         y1="-230.59175"
+         x1="-471.11969" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11623"
+         points="190.44 89.839 189.36 89.839 189.36 83.959 190.44 83.959 190.44 89.839"
+         transform="matrix(1.4349089,0,0,1.4349089,-743.52173,-359.1479)" />
+    </g>
+    <g
+       id="g11657"
+       transform="rotate(46.098244,-1001.2591,-170.99652)"
+       inkscape:transform-center-x="16.03741"
+       inkscape:transform-center-y="-17.39756">
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11627"
+         x="-427.90005"
+         y="-265.88049"
+         font-size="4.838px">O</text>
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11629"
+         x="-427.21194"
+         y="-241.42967"
+         font-size="4.838px">P</text>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11631"
+         y2="-246.94121"
+         x2="-438.74106"
+         stroke-miterlimit="10"
+         y1="-246.94121"
+         x1="-429.10492" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11633"
+         points="219.24 77.599 219.24 78.679 212.16 78.679 212.16 77.599 219.24 77.599"
+         transform="matrix(1.4349089,0,0,1.4349089,-743.52173,-359.1479)" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11635"
+         y2="-254.86104"
+         x2="-424.11325"
+         stroke-miterlimit="10"
+         y1="-262.60999"
+         x1="-424.11325" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11637"
+         points="222.12 67.039 223.2 67.039 223.2 72.799 222.12 72.799 222.12 67.039"
+         transform="matrix(1.4349089,0,0,1.4349089,-743.52173,-359.1479)" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11639"
+         y2="-254.86104"
+         x2="-420.50977"
+         stroke-miterlimit="10"
+         y1="-262.60999"
+         x1="-420.50977" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11641"
+         points="224.64 67.039 225.6 67.039 225.6 72.799 224.64 72.799 224.64 67.039"
+         transform="matrix(1.4349089,0,0,1.4349089,-743.52173,-359.1479)" />
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11643"
+         x="-427.90005"
+         y="-216.97899"
+         font-size="4.838px">O</text>
+      <text
+         style="font-size:11.47932434px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11645"
+         x="-416.70816"
+         y="-222.66121"
+         font-size="4.3005px">−</text>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11647"
+         y2="-238.49287"
+         x2="-422.21808"
+         stroke-miterlimit="10"
+         y1="-230.59175"
+         x1="-422.21808" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11649"
+         points="224.4 89.839 223.44 89.839 223.44 83.959 224.4 83.959 224.4 89.839"
+         transform="matrix(1.4349089,0,0,1.4349089,-743.52173,-359.1479)" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10"
+         id="line11651"
+         y2="-246.94121"
+         x2="-415.49149"
+         stroke-miterlimit="10"
+         y1="-246.94121"
+         x1="-406.04214" />
+      <polyline
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="polyline11653"
+         points="235.32 77.599 235.32 78.679 228.36 78.679 228.36 77.599 235.32 77.599"
+         transform="matrix(1.4349089,0,0,1.4349089,-743.52173,-359.1479)" />
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11655"
+         x="-403.44934"
+         y="-241.42967"
+         font-size="4.838px">O</text>
+    </g>
+    <line
+       x1="-523.80121"
+       y1="209.77448"
+       stroke-miterlimit="10"
+       x2="-507.43835"
+       y2="209.77448"
+       id="line11659"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="246.24 78.679 246.24 77.599 258.48 77.599 258 78.199 257.4 78.679 246.24 78.679"
+       id="polyline11661"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <text
+       font-size="4.838px"
+       y="210.46561"
+       x="-445.96512"
+       id="text11739"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">B</text>
+    <text
+       font-size="4.838px"
+       y="210.46561"
+       x="-436.49548"
+       id="text11741"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">a</text>
+    <text
+       font-size="4.838px"
+       y="210.46561"
+       x="-428.5741"
+       id="text11743"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">s</text>
+    <text
+       font-size="4.838px"
+       y="210.46561"
+       x="-421.34201"
+       id="text11745"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">e</text>
+    <text
+       font-size="4.838px"
+       y="210.46561"
+       x="-409.46207"
+       id="text11747"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">1</text>
+    <line
+       x1="-440.97281"
+       y1="213.39136"
+       stroke-miterlimit="10"
+       x2="-440.97281"
+       y2="229.06018"
+       id="line11749"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="303.6 80.599 304.56 80.599 304.56 91.879 304.08 91.759 303.6 91.039 303.6 80.599"
+       id="polyline11751"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <text
+       font-size="4.838px"
+       y="265.39258"
+       x="-459.05011"
+       id="text11525"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">O</text>
+    <text
+       font-size="4.838px"
+       y="264.87683"
+       x="-500.0318"
+       id="text11535"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">O</text>
+    <text
+       font-size="4.838px"
+       y="289.32758"
+       x="-499.51599"
+       id="text11663"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">P</text>
+    <line
+       x1="-494.51895"
+       y1="275.9064"
+       stroke-miterlimit="10"
+       x2="-494.51895"
+       y2="267.97858"
+       id="line11665"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="267.36 124.4 266.28 124.4 266.28 118.64 267.36 118.64 267.36 124.4"
+       id="polyline11667"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <text
+       font-size="4.838px"
+       y="289.32758"
+       x="-524.48254"
+       id="text11669"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">O</text>
+    <line
+       x1="-511.04193"
+       y1="285.54257"
+       stroke-miterlimit="10"
+       x2="-501.40579"
+       y2="285.54257"
+       id="line11671"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="255.12 131.48 255.12 130.52 262.2 130.52 262.2 131.48 255.12 131.48"
+       id="polyline11673"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-511.04193"
+       y1="281.91232"
+       stroke-miterlimit="10"
+       x2="-501.40579"
+       y2="281.91232"
+       id="line11675"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="255.12 128.96 255.12 128 262.2 128 262.2 128.96 255.12 128.96"
+       id="polyline11677"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <text
+       font-size="4.838px"
+       y="289.32758"
+       x="-475.58084"
+       id="text11679"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">O</text>
+    <text
+       font-size="4.3005px"
+       y="283.64548"
+       x="-464.56158"
+       id="text11681"
+       style="font-size:11.47932434px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">−</text>
+    <line
+       x1="-478.34299"
+       y1="283.64737"
+       stroke-miterlimit="10"
+       x2="-487.81897"
+       y2="283.64737"
+       id="line11683"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="278.28 129.2 278.28 130.16 271.32 130.16 271.32 129.2 278.28 129.2"
+       id="polyline11685"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <text
+       font-size="4.838px"
+       y="313.77832"
+       x="-500.0318"
+       id="text11687"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">O</text>
+    <line
+       x1="-494.51895"
+       y1="300.01016"
+       stroke-miterlimit="10"
+       x2="-494.51895"
+       y2="292.24252"
+       id="line11689"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="267.36 141.32 266.28 141.32 266.28 135.44 267.36 135.44 267.36 141.32"
+       id="polyline11691"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-473.51157"
+       y1="319.97653"
+       stroke-miterlimit="10"
+       x2="-487.28516"
+       y2="312.39569"
+       id="line11693"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="282 154.88 281.52 155.24 281.04 155.48 271.44 149.96 271.92 149.12 282 154.88"
+       id="polyline11695"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-473.35141"
+       y1="344.42731"
+       stroke-miterlimit="10"
+       x2="-473.35141"
+       y2="320.4837"
+       id="line11697"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="282 171.56 281.52 172.28 281.04 172.4 281.04 155.48 281.52 155.24 282 154.88 282 171.56"
+       id="polyline11699"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <text
+       font-size="4.838px"
+       y="338.05667"
+       x="-445.79291"
+       id="text11701"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">O</text>
+    <line
+       x1="-419.80527"
+       y1="359.05508"
+       stroke-miterlimit="10"
+       x2="-460.24515"
+       y2="359.05508"
+       id="line11703"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="316.8 180.2 318.96 182.24 318.48 184.16 290.88 184.16 290.4 182.24 292.68 180.2 316.8 180.2"
+       id="polyline11705"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-407.39304"
+       y1="344.93448"
+       stroke-miterlimit="10"
+       x2="-419.27139"
+       y2="358.70807"
+       id="line11707"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="326.64 172.4 327.72 172.28 328.2 172.4 319.56 187.16 318.96 182.24 316.8 180.2 326.64 172.4"
+       id="polyline11709"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-432.53781"
+       y1="335.13815"
+       stroke-miterlimit="10"
+       x2="-407.39304"
+       y2="344.77432"
+       id="line11711"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="309.6 166.04 309.96 165.08 327.24 171.56 327.72 172.28 326.64 172.4 309.6 166.04"
+       id="polyline11713"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-473.00439"
+       y1="344.77432"
+       stroke-miterlimit="10"
+       x2="-448.01981"
+       y2="335.29831"
+       id="line11715"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="282.6 172.4 281.52 172.28 282 171.56 299.16 165.2 299.4 166.16 282.6 172.4"
+       id="polyline11717"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-473.00439"
+       y1="344.93448"
+       stroke-miterlimit="10"
+       x2="-460.77905"
+       y2="358.70807"
+       id="line11719"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="281.04 172.4 281.52 172.28 282.6 172.4 292.68 180.2 290.4 182.24 289.92 187.16 281.04 172.4"
+       id="polyline11721"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-419.61841"
+       y1="367.14307"
+       stroke-miterlimit="10"
+       x2="-419.61841"
+       y2="359.24191"
+       id="line11725"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="319.56 188 318.48 188 318.48 184.16 318.96 182.24 319.56 187.16 319.56 188"
+       id="polyline11727"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <line
+       x1="-460.59216"
+       y1="366.63589"
+       stroke-miterlimit="10"
+       x2="-460.59216"
+       y2="359.24191"
+       id="line11731"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="290.88 187.76 289.92 187.76 289.92 187.16 290.4 182.24 290.88 184.16 290.88 187.76"
+       id="polyline11733"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <text
+       font-size="4.838px"
+       y="325.83066"
+       x="-412.21713"
+       id="text11753"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">B</text>
+    <text
+       font-size="4.838px"
+       y="325.83066"
+       x="-402.57349"
+       id="text11755"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">a</text>
+    <text
+       font-size="4.838px"
+       y="325.83066"
+       x="-394.6535"
+       id="text11757"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">s</text>
+    <text
+       font-size="4.838px"
+       y="325.83066"
+       x="-387.42014"
+       id="text11759"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">e</text>
+    <text
+       font-size="4.838px"
+       y="325.83066"
+       x="-375.54025"
+       id="text11761"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">2</text>
+    <line
+       x1="-407.04602"
+       y1="328.91867"
+       stroke-miterlimit="10"
+       x2="-407.04602"
+       y2="344.42731"
+       id="line11763"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="327.24 161 328.2 161 328.2 172.4 327.72 172.28 327.24 171.56 327.24 161"
+       id="polyline11765"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <text
+       font-size="4.838px"
+       y="277.44629"
+       x="-437.35577"
+       id="text11767"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">C</text>
+    <text
+       font-size="4.838px"
+       y="277.44629"
+       x="-427.02414"
+       id="text11769"
+       style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">H</text>
+    <text
+       font-size="4.3005px"
+       y="280.71814"
+       x="-416.69266"
+       id="text11771"
+       style="font-size:11.47932434px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">3</text>
+    <line
+       x1="-439.23776"
+       y1="267.79172"
+       stroke-miterlimit="10"
+       x2="-446.3114"
+       y2="264.00131"
+       id="line11773"
+       style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+    <polyline
+       transform="matrix(1.4349089,0,0,1.4349089,-877.29658,97.56779)"
+       points="305.76 118.4 305.28 119.24 300 116.24 300.48 115.4 305.76 118.4"
+       id="polyline11775"
+       style="clip-rule:evenodd;fill-rule:evenodd" />
+    <g
+       transform="translate(-182.30408,-204.72482)"
+       id="g11837">
+      <text
+         font-size="4.838px"
+         y="315.797"
+         x="-330.9874"
+         id="text11787"
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">O</text>
+      <line
+         x1="-305.1503"
+         y1="336.63449"
+         stroke-miterlimit="10"
+         x2="-345.61691"
+         y2="336.63449"
+         id="line11789"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="293.16 99.799 295.44 101.72 294.96 103.76 267.36 103.76 266.76 101.72 269.04 99.799 293.16 99.799"
+         id="polyline11791"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-292.57794"
+         y1="322.67407"
+         stroke-miterlimit="10"
+         x2="-304.64322"
+         y2="336.44763"
+         id="line11793"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="303.12 91.999 304.08 91.759 304.56 91.879 295.92 106.76 295.44 101.72 293.16 99.799 303.12 91.999"
+         id="polyline11795"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-317.72278"
+         y1="312.87775"
+         stroke-miterlimit="10"
+         x2="-292.57794"
+         y2="322.32703"
+         id="line11797"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="286.08 85.639 286.44 84.679 303.6 91.039 304.08 91.759 303.12 91.999 286.08 85.639"
+         id="polyline11799"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-358.37616"
+         y1="322.32703"
+         stroke-miterlimit="10"
+         x2="-333.39154"
+         y2="313.03787"
+         id="line11801"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="258.96 91.999 258 91.759 258.48 91.039 275.52 84.799 275.88 85.759 258.96 91.999"
+         id="polyline11803"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-358.37616"
+         y1="322.67407"
+         stroke-miterlimit="10"
+         x2="-346.15079"
+         y2="336.44763"
+         id="line11805"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="257.4 91.879 258 91.759 258.96 91.999 269.04 99.799 266.76 101.72 266.28 106.64 257.4 91.879"
+         id="polyline11807"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <text
+         font-size="4.838px"
+         y="358.4993"
+         x="-310.49509"
+         id="text11809"
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">O</text>
+      <line
+         x1="-304.80338"
+         y1="344.72247"
+         stroke-miterlimit="10"
+         x2="-304.80338"
+         y2="336.98151"
+         id="line11811"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="295.92 107.6 294.96 107.6 294.96 103.76 295.44 101.72 295.92 106.76 295.92 107.6"
+         id="polyline11813"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-358.53632"
+         y1="303.05472"
+         stroke-miterlimit="10"
+         x2="-358.53632"
+         y2="322.1669"
+         id="line11815"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="257.4 78.679 258 78.199 258.48 77.599 258.48 91.039 258 91.759 257.4 91.879 257.4 78.679"
+         id="polyline11817"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <text
+         font-size="4.838px"
+         y="357.98355"
+         x="-351.47678"
+         id="text11819"
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">O</text>
+      <line
+         x1="-345.96393"
+         y1="344.37546"
+         stroke-miterlimit="10"
+         x2="-345.96393"
+         y2="336.98151"
+         id="line11821"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="267.36 107.24 266.28 107.24 266.28 106.64 266.76 101.72 267.36 103.76 267.36 107.24"
+         id="polyline11823"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-375.24615"
+         y1="302.8812"
+         stroke-miterlimit="10"
+         x2="-358.88333"
+         y2="302.8812"
+         id="line11825"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="246.24 78.679 246.24 77.599 258.48 77.599 258 78.199 257.4 78.679 246.24 78.679"
+         id="polyline11827"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-292.41779"
+         y1="306.49808"
+         stroke-miterlimit="10"
+         x2="-292.41779"
+         y2="322.1669"
+         id="line11829"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="303.6 80.599 304.56 80.599 304.56 91.879 304.08 91.759 303.6 91.039 303.6 80.599"
+         id="polyline11831"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <text
+         font-size="4.838px"
+         y="358.72888"
+         x="-300.26987"
+         id="text11833"
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">H</text>
+      <text
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+         id="text11835"
+         x="-341.5827"
+         y="358.13297"
+         font-size="4.838px">H</text>
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,-1092.8943,-180.30973)"
+       id="g11963">
+      <text
+         font-size="4.838px"
+         y="247.43896"
+         x="-701.19049"
+         id="text11841"
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">
+        <tspan
+           id="tspan11839"
+           style="font-family:sans-serif;stroke-width:2.66930008">H</tspan>
+      </text>
+      <text
+         transform="scale(-1,1)"
+         font-size="4.838px"
+         y="247.43896"
+         x="681.19879"
+         id="text11845"
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">
+        <tspan
+           id="tspan11843"
+           style="font-family:sans-serif;stroke-width:2.66930008">N</tspan>
+      </text>
+      <text
+         transform="scale(-1,1)"
+         font-size="4.838px"
+         y="284.11426"
+         x="660.19165"
+         id="text11849"
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">
+        <tspan
+           id="tspan11847"
+           style="font-family:sans-serif;stroke-width:2.66930008">N</tspan>
+      </text>
+      <line
+         x1="-685.68579"
+         y1="266.03418"
+         stroke-miterlimit="10"
+         x2="-685.68579"
+         y2="250.36539"
+         id="line11851"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="30.48 52.399 30 52.639 29.52 52.399 29.52 41.479 30.48 41.479 30.48 52.399"
+         id="polyline11853"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-672.44598"
+         y1="273.95401"
+         stroke-miterlimit="10"
+         x2="-685.52557"
+         y2="266.54935"
+         id="line11855"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="39.72 57.799 39.24 58.639 30 53.239 30 52.639 30.48 52.399 39.72 57.799"
+         id="polyline11857"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-670.55084"
+         y1="270.85495"
+         stroke-miterlimit="10"
+         x2="-681.89532"
+         y2="264.48331"
+         id="line11859"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="40.92 55.639 40.44 56.479 32.16 51.679 32.76 50.839 40.92 55.639"
+         id="polyline11861"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-643.67096"
+         y1="266.54935"
+         stroke-miterlimit="10"
+         x2="-656.93738"
+         y2="273.95401"
+         id="line11863"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="58.92 52.399 59.4 52.639 59.52 53.239 50.16 58.639 49.68 57.799 58.92 52.399"
+         id="polyline11865"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-643.5108"
+         y1="242.09856"
+         stroke-miterlimit="10"
+         x2="-643.5108"
+         y2="266.03418"
+         id="line11867"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="58.92 35.959 59.4 35.719 60 36.079 60 52.279 59.4 52.639 58.92 52.399 58.92 35.959"
+         id="polyline11869"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-646.95422"
+         y1="244.1646"
+         stroke-miterlimit="10"
+         x2="-646.95422"
+         y2="263.96814"
+         id="line11871"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="56.4 37.159 57.48 37.159 57.48 51.199 56.4 51.199 56.4 37.159"
+         id="polyline11873"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-664.33142"
+         y1="229.87318"
+         stroke-miterlimit="10"
+         x2="-643.67096"
+         y2="241.5834"
+         id="line11875"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="44.64 27.799 44.64 27.199 44.64 26.599 59.52 35.119 59.4 35.719 58.92 35.959 44.64 27.799"
+         id="polyline11877"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-664.86517"
+         y1="229.87318"
+         stroke-miterlimit="10"
+         x2="-677.94476"
+         y2="237.2778"
+         id="line11879"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="44.64 26.599 44.64 27.199 44.64 27.799 35.4 33.079 34.92 32.239 44.64 26.599"
+         id="polyline11881"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <g
+         transform="matrix(-1,0,0,1,-1241.8282,0)"
+         id="g11891">
+        <text
+           style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+           id="text11885"
+           x="-625.42743"
+           y="239.86224"
+           font-size="4.838px">
+          <tspan
+             style="font-family:sans-serif;stroke-width:2.66930008"
+             id="tspan11883">N</tspan>
+        </text>
+        <text
+           style="font-size:11.47932434px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+           id="text11889"
+           x="-615.09662"
+           y="234.35237"
+           font-size="4.3005px">
+          <tspan
+             style="font-family:sans-serif;stroke-width:2.66930008"
+             id="tspan11887">+</tspan>
+        </text>
+      </g>
+      <line
+         x1="-614.41547"
+         y1="242.44292"
+         stroke-miterlimit="10"
+         x2="-606.14062"
+         y2="253.80878"
+         id="line11893"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="79.2 36.199 79.92 35.599 86.28 44.239 85.56 44.239 84.96 44.239 79.2 36.199"
+         id="polyline11895"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-617.16479"
+         y1="244.50894"
+         stroke-miterlimit="10"
+         x2="-610.625"
+         y2="253.80878"
+         id="line11897"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="77.16 37.639 77.88 37.039 82.92 43.879 82.08 44.479 77.16 37.639"
+         id="polyline11899"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-628.34918"
+         y1="236.93347"
+         stroke-miterlimit="10"
+         x2="-643.16376"
+         y2="241.92773"
+         id="line11901"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="69.96 31.759 70.32 32.719 60 36.079 59.4 35.719 59.52 35.119 69.96 31.759"
+         id="polyline11903"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <text
+         font-size="4.838px"
+         y="210.93442"
+         x="-670.19666"
+         id="text11907"
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">
+        <tspan
+           id="tspan11905"
+           style="font-family:sans-serif;stroke-width:2.66930008">O</tspan>
+      </text>
+      <line
+         x1="-666.41345"
+         y1="214.03354"
+         stroke-miterlimit="10"
+         x2="-666.41345"
+         y2="230.39102"
+         id="line11909"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="42.96 16.039 43.92 16.039 43.92 27.919 42.96 27.919 42.96 16.039"
+         id="polyline11911"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-662.78314"
+         y1="214.03354"
+         stroke-miterlimit="10"
+         x2="-662.78314"
+         y2="230.39102"
+         id="line11913"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="45.48 16.039 46.44 16.039 46.44 27.919 45.48 27.919 45.48 16.039"
+         id="polyline11915"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <text
+         transform="scale(-1,1)"
+         font-size="4.838px"
+         y="284.11426"
+         x="712.86255"
+         id="text11919"
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">
+        <tspan
+           id="tspan11917"
+           style="font-family:sans-serif;stroke-width:2.66930008">H</tspan>
+      </text>
+      <text
+         transform="scale(-1,1)"
+         font-size="4.3005px"
+         y="287.21393"
+         x="723.19336"
+         id="text11923"
+         style="font-size:11.47932434px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">
+        <tspan
+           id="tspan11921"
+           style="font-family:sans-serif;stroke-width:2.66930008">2</tspan>
+      </text>
+      <text
+         transform="scale(-1,1)"
+         font-size="4.838px"
+         y="284.11426"
+         x="702.3783"
+         id="text11927"
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">
+        <tspan
+           id="tspan11925"
+           style="font-family:sans-serif;stroke-width:2.66930008">N</tspan>
+      </text>
+      <line
+         x1="-699.11237"
+         y1="273.95401"
+         stroke-miterlimit="10"
+         x2="-686.03271"
+         y2="266.54935"
+         id="line11929"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="20.64 58.639 20.16 57.799 29.52 52.399 30 52.639 30 53.239 20.64 58.639"
+         id="polyline11931"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <text
+         transform="scale(-1,1)"
+         font-size="4.838px"
+         y="279.4649"
+         x="615.76709"
+         id="text11935"
+         style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008">
+        <tspan
+           id="tspan11933"
+           style="font-family:sans-serif;stroke-width:2.66930008">N</tspan>
+      </text>
+      <line
+         x1="-628.18903"
+         y1="271.37277"
+         stroke-miterlimit="10"
+         x2="-643.16376"
+         y2="266.20502"
+         id="line11937"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="70.32 55.759 70.08 56.719 59.52 53.239 59.4 52.639 60 52.279 70.32 55.759"
+         id="polyline11939"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <line
+         x1="-614.76245"
+         y1="266.20502"
+         stroke-miterlimit="10"
+         x2="-606.14062"
+         y2="254.32396"
+         id="line11941"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="79.68 53.119 78.84 52.639 84.96 44.239 85.56 44.239 86.28 44.239 79.68 53.119"
+         id="polyline11943"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <g
+         transform="matrix(-1,0,0,1,-1227.0045,0)"
+         id="g11957">
+        <text
+           style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+           id="text11947"
+           x="-617.85144"
+           y="216.78894"
+           font-size="4.838px">
+          <tspan
+             style="font-family:sans-serif;stroke-width:2.66930008"
+             id="tspan11945">C</tspan>
+        </text>
+        <text
+           style="font-size:12.91407299px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+           id="text11951"
+           x="-607.5199"
+           y="216.78894"
+           font-size="4.838px">
+          <tspan
+             style="font-family:sans-serif;stroke-width:2.66930008"
+             id="tspan11949">H</tspan>
+        </text>
+        <text
+           style="font-size:11.47932434px;line-height:0%;font-family:sans-serif;stroke-width:2.66930008"
+           id="text11955"
+           x="-597.18909"
+           y="219.8886"
+           font-size="4.3005px">
+          <tspan
+             style="font-family:sans-serif;stroke-width:2.66930008"
+             id="tspan11953">3</tspan>
+        </text>
+      </g>
+      <line
+         x1="-615.26965"
+         y1="219.54298"
+         stroke-miterlimit="10"
+         x2="-617.672"
+         y2="225.91461"
+         id="line11959"
+         style="fill:none;stroke:#000000;stroke-width:0.17218854;stroke-linecap:square;stroke-miterlimit:10" />
+      <polyline
+         transform="matrix(1.4349089,0,0,1.4349089,-728.74156,190.6745)"
+         points="78.6 19.759 79.44 20.119 77.88 24.919 76.92 24.679 78.6 19.759"
+         id="polyline11961"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+    </g>
+    <ellipse
+       rx="34.118622"
+       ry="13.762252"
+       cy="148.60515"
+       cx="-503.44839"
+       id="ellipse11967"
+       style="opacity:0.5;fill:#6c71c4;stroke-width:2.1330812" />
+    <text
+       style="font-size:27.56586075px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6c71c4;stroke-width:2.66930008"
+       xml:space="preserve"
+       font-size="10.327px"
+       y="176.15421"
+       x="-429.49051"
+       line-height="125%"
+       id="text11971"><tspan
+         style="font-size:18.37786293px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#6c71c4;stroke-width:2.66930008"
+         font-size="6.8849px"
+         y="176.15421"
+         x="-429.49051"
+         id="tspan11969">CAP Trapper</tspan></text>
+    <ellipse
+       transform="matrix(-0.44070609,-0.89765146,0.83181652,-0.5550507,0,0)"
+       rx="56.217896"
+       ry="15.445732"
+       cy="-581.15405"
+       cx="188.74213"
+       id="ellipse11973"
+       style="opacity:0.5;fill:#b58900;stroke-width:3.33689475" />
+    <text
+       transform="rotate(0.21468)"
+       style="font-size:27.56586075px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b58900;stroke-width:2.66930008"
+       line-height="125%"
+       font-size="10.327px"
+       y="75.353767"
+       x="-607.52539"
+       xml:space="preserve"
+       id="text11977"><tspan
+         style="font-size:18.37786293px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#b58900;stroke-width:2.66930008"
+         font-size="6.8849px"
+         y="75.353767"
+         x="-607.52539"
+         id="tspan11975">Oligo-capping</tspan></text>
+    <ellipse
+       rx="66.656082"
+       ry="16.009058"
+       transform="rotate(52.41532)"
+       cy="358.57913"
+       cx="-190.28636"
+       id="ellipse11979"
+       style="opacity:0.5;fill:#2aa198;stroke-width:2.66930008" />
+    <text
+       style="font-size:27.56586075px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2aa198;stroke-width:2.66930008"
+       xml:space="preserve"
+       transform="rotate(-0.58142737)"
+       font-size="10.327px"
+       y="-1.6650665"
+       x="-425.04517"
+       line-height="125%"
+       id="text11983"><tspan
+         style="font-size:18.37786293px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#2aa198;stroke-width:2.66930008"
+         font-size="6.8849px"
+         y="-1.6650665"
+         x="-425.04517"
+         id="tspan11981">Template switching </tspan></text>
+  </g>
 </svg>
