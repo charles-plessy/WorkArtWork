@@ -10,10 +10,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg5807"
-   height="1052.4"
-   width="744.09"
+   height="1122.5601"
+   width="793.69604"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="nanoCAGE_Template-Switching.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -24,15 +24,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1024"
-     inkscape:window-height="702"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
      id="namedview404"
      showgrid="false"
-     inkscape:zoom="0.63427288"
-     inkscape:cx="365.623"
-     inkscape:cy="344.87172"
+     inkscape:zoom="0.89699731"
+     inkscape:cx="402.99177"
+     inkscape:cy="378.70029"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -42,14 +42,13 @@
        refY="0"
        refX="0"
        orient="auto"
-       overflow="visible">
+       overflow="visible"
+       style="overflow:visible">
       <path
          id="path5245"
-         d="m5.77 0-8.65 5v-10l8.65 5z"
-         fill-rule="evenodd"
-         transform="scale(.8)"
-         stroke="#000"
-         stroke-width="1pt" />
+         d="M 4.9237333,0 -2.4576,4.2666667 v -8.5333334 z"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.85333335pt" />
     </marker>
   </defs>
   <metadata
@@ -67,2277 +66,2269 @@
   <g
      id="layer1">
     <text
-       x="125.188"
-       y="816.31055"
+       x="133.53387"
+       y="870.73126"
        font-size="9.3185px"
        transform="scale(0.99989001,1.00011)"
        xml:space="preserve"
        id="text3381"
-       style="font-size:9.31840611px;fill:#e25b00;font-family:DejaVu Sans Mono"><tspan
-         x="125.188"
-         y="816.31055"
+       style="font-size:9.93963337px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#e25b00;stroke-width:1.06666672"><tspan
+         x="133.53387"
+         y="870.73126"
          font-size="18.637px"
          id="tspan3383"
-         style="font-size:18.63681221px;font-family:Monospace"><tspan
+         style="font-size:19.87926674px;font-family:monospace;stroke-width:1.06666672"><tspan
    font-size="14.91px"
    id="tspan3386"
-   style="font-size:14.90985107px;fill:#e25b00;font-family:Monospace">3<tspan
+   style="font-size:15.90384102px;font-family:monospace;fill:#e25b00;stroke-width:1.06666672">3<tspan
    id="tspan3388"
-   style="font-family:Sans">′</tspan></tspan>⇠NGTCGTCCCXXXXX…<tspan
+   style="font-family:sans-serif;stroke-width:1.06666672">′</tspan></tspan>⇠NGTCGTCCCXXXXX…<tspan
    font-size="14.91px"
    id="tspan3394"
-   style="font-size:14.90985107px;fill:#e25b00;font-family:Monospace">5<tspan
+   style="font-size:15.90384102px;font-family:monospace;fill:#e25b00;stroke-width:1.06666672">5<tspan
    id="tspan3396"
-   style="font-family:Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;stroke-width:1.06666672">′</tspan></tspan></tspan></text>
     <text
        id="text44815"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="16.619px"
-       y="457.87653"
-       x="569.33557"
-       font-family="DejaVu Sans Mono"
-       fill="#639c00"><tspan
+       y="488.39673"
+       x="607.28522"
+       style="font-size:17.72675514px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#639c00;stroke-width:1.06665599"><tspan
          id="tspan44817"
          font-size="33.238px"
-         y="457.87653"
-         x="569.33557"
-         font-family="Monospace"
-         fill="#639c00">NNNNN…<tspan
+         y="488.39673"
+         x="607.28522"
+         style="font-size:35.45351028px;font-family:monospace;fill:#639c00;stroke-width:1.06665599">NNNNN…<tspan
    id="tspan44819"
    font-size="26.591px"
-   font-family="Monospace"
-   fill="#639c00">3<tspan
+   style="font-size:28.3634491px;font-family:monospace;fill:#639c00;stroke-width:1.06665599">3<tspan
    id="tspan44821"
-   font-family="Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;stroke-width:1.06665599">′</tspan></tspan></tspan></text>
     <text
        id="text44823"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="16.619px"
-       y="487.60611"
-       x="487.33011"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="520.10797"
+       x="519.8136"
+       style="font-size:17.72675514px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#e25b00;stroke-width:1.06665599"><tspan
          id="tspan44825"
          font-size="33.238px"
-         y="487.60611"
-         x="487.33011"
-         font-family="Monospace"><tspan
+         y="520.10797"
+         x="519.8136"
+         style="font-size:35.45351028px;font-family:monospace;stroke-width:1.06665599"><tspan
    id="tspan44827"
    font-size="26.591px"
-   font-family="Monospace"
-   fill="#e25b00">3<tspan
+   style="font-size:28.3634491px;font-family:monospace;fill:#e25b00;stroke-width:1.06665599">3<tspan
    id="tspan44829"
-   font-family="Sans">′</tspan></tspan><tspan
+   style="font-family:sans-serif;stroke-width:1.06665599">′</tspan></tspan><tspan
    id="tspan44831"
-   fill="#e25b00"
-   fill-opacity=".40909">C</tspan><tspan
+   style="font-family:monospace;fill:#e25b00;fill-opacity:0.40909005;stroke-width:1.06665599">C</tspan><tspan
    id="tspan44833"
-   fill="#e25b00"
-   fill-opacity=".69421">C</tspan>CXXXXX…<tspan
+   style="font-family:monospace;fill:#e25b00;fill-opacity:0.69420998;stroke-width:1.06665599">C</tspan>CXXXXX…<tspan
    id="tspan44835"
    font-size="26.591px"
-   font-family="Monospace"
-   fill="#e25b00">5<tspan
+   style="font-size:28.3634491px;font-family:monospace;fill:#e25b00;stroke-width:1.06665599">5<tspan
    id="tspan44837"
-   font-family="Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;stroke-width:1.06665599">′</tspan></tspan></tspan></text>
     <text
        id="text44839"
        xml:space="preserve"
-       transform="matrix(.82474 .56544 -.56531 .82493 0 0)"
+       transform="matrix(0.82473932,0.56543953,-0.56530953,0.82492932,0,0)"
        font-size="16.619px"
-       y="39.317528"
-       x="626.81903"
-       font-family="DejaVu Sans Mono"
-       fill="#639c00"><tspan
+       y="41.938732"
+       x="668.60754"
+       style="font-size:17.72694778px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#639c00;stroke-width:1.06666756"><tspan
          id="tspan44841"
          font-size="33.238px"
-         y="39.317528"
-         x="626.81903"
-         fill="#639c00"><tspan
+         y="41.938732"
+         x="668.60754"
+         style="font-size:35.45389557px;fill:#639c00;stroke-width:1.06666756"><tspan
            id="tspan44843"
            font-size="19.943px"
-           font-family="Sans"
-           fill="#639c00">m7</tspan><tspan
+           style="font-size:21.27255249px;font-family:sans-serif;fill:#639c00;stroke-width:1.06666756">m7</tspan><tspan
            id="tspan44845"
-           font-family="Monospace">G</tspan><tspan
+           style="font-family:monospace;stroke-width:1.06666756">G</tspan><tspan
            id="tspan44847"
            font-size="19.943px"
-           font-family="Sans"
-           fill="#639c00">ppp</tspan></tspan></text>
+           style="font-size:21.27255249px;font-family:sans-serif;fill:#639c00;stroke-width:1.06666756">ppp</tspan></tspan></text>
     <path
        id="path44849"
-       marker-end="url(#TriangleOutL)"
-       d="m380.78 439.5c12.423 30.447 134.26-8.6494 148.36 17.197"
-       stroke="#000"
-       stroke-width=".60444px"
-       fill="none" />
+       d="m 406.16533,468.8 c 13.2512,32.4768 143.21067,-9.22603 158.25067,18.34347"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.64473599px;marker-end:url(#TriangleOutL)" />
     <text
        id="text44851"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="33.238px"
-       y="433.70352"
-       x="14.618001"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="462.61246"
+       x="15.592379"
+       style="font-size:35.45351028px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#e25b00;stroke-width:1.06665599"><tspan
          id="tspan44853"
-         y="433.70352"
-         x="14.618001"
-         font-family="Monospace"><tspan
+         y="462.61246"
+         x="15.592379"
+         style="font-family:monospace;stroke-width:1.06665599"><tspan
    id="tspan44855"
    font-size="26.591px"
-   font-family="Monospace"
-   fill="#e25b00">5<tspan
+   style="font-size:28.3634491px;font-family:monospace;fill:#e25b00;stroke-width:1.06665599">5<tspan
    id="tspan44857"
-   font-family="Sans">′</tspan></tspan>…BBBBBBNNNNNNNNTATA<tspan
+   style="font-family:sans-serif;stroke-width:1.06665599">′</tspan></tspan>…BBBBBBNNNNNNNNTATA<tspan
    id="tspan44859"
-   fill="#639c00">GGG</tspan></tspan></text>
+   style="font-family:monospace;fill:#639c00;stroke-width:1.06665599">GGG</tspan></tspan></text>
     <text
        id="text44861"
-       fill-opacity=".96471"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="20.312px"
-       y="376.56076"
-       x="377.00333"
-       font-family="Monospace"
-       fill="#4d4d4d"><tspan
+       y="401.66479"
+       x="402.13687"
+       style="font-size:21.66613197px;line-height:0%;font-family:monospace;fill:#4d4d4d;fill-opacity:0.96471001;stroke-width:1.0666666"><tspan
          id="tspan44863"
-         fill-opacity=".96471"
-         y="376.56076"
-         x="377.00333"
-         font-family="Liberation Sans"
-         fill="#4d4d4d">spacer</tspan></text>
+         y="401.66479"
+         x="402.13687"
+         style="font-family:'Liberation Sans';fill:#4d4d4d;fill-opacity:0.96471001;stroke-width:1.0666666">spacer</tspan></text>
     <text
        id="text44865"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="20.312px"
-       y="473.9411"
-       x="502.17691"
-       font-family="Monospace"
-       fill="#e25b00"><tspan
+       y="505.53714"
+       x="535.65533"
+       style="font-size:21.66613197px;line-height:0%;font-family:monospace;fill:#e25b00;stroke-width:1.0666666"><tspan
          id="tspan44867"
-         y="473.9411"
-         x="502.17691"
-         font-family="Liberation Sans"
-         fill="#e25b00">first-strand cDNA with a C tail</tspan></text>
+         y="505.53714"
+         x="535.65533"
+         style="font-family:'Liberation Sans';fill:#e25b00;stroke-width:1.0666666">first-strand cDNA with a C tail</tspan></text>
     <text
        id="text44869"
-       fill-opacity=".96471"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="20.312px"
-       y="376.56076"
-       x="225.00826"
-       font-family="Monospace"
-       fill="#4d4d4d"><tspan
+       y="401.66479"
+       x="240.00879"
+       style="font-size:21.66613197px;line-height:0%;font-family:monospace;fill:#4d4d4d;fill-opacity:0.96471001;stroke-width:1.0666666"><tspan
          id="tspan44871"
-         fill-opacity=".96471"
-         y="376.56076"
-         x="225.00826"
-         font-family="Liberation Sans"
-         fill="#4d4d4d">fingerprint</tspan></text>
+         y="401.66479"
+         x="240.00879"
+         style="font-family:'Liberation Sans';fill:#4d4d4d;fill-opacity:0.96471001;stroke-width:1.0666666">fingerprint</tspan></text>
     <text
        id="text44873"
-       fill-opacity=".96471"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="20.312px"
-       y="376.56076"
-       x="102.09859"
-       font-family="Monospace"
-       fill="#4d4d4d"><tspan
+       y="401.66479"
+       x="108.90515"
+       style="font-size:21.66613197px;line-height:0%;font-family:monospace;fill:#4d4d4d;fill-opacity:0.96471001;stroke-width:1.0666666"><tspan
          id="tspan44875"
-         fill-opacity=".96471"
-         y="376.56076"
-         x="102.09859"
-         font-family="Liberation Sans"
-         fill="#4d4d4d">barcode</tspan></text>
+         y="401.66479"
+         x="108.90515"
+         style="font-family:'Liberation Sans';fill:#4d4d4d;fill-opacity:0.96471001;stroke-width:1.0666666">barcode</tspan></text>
     <text
        id="text44877"
-       fill-opacity=".96471"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="20.312px"
-       y="376.56076"
-       x="462.38315"
-       font-family="Monospace"
-       fill="#4d4d4d"><tspan
+       y="401.66479"
+       x="493.20868"
+       style="font-size:21.66613197px;line-height:0%;font-family:monospace;fill:#4d4d4d;fill-opacity:0.96471001;stroke-width:1.0666666"><tspan
          id="tspan44879"
-         fill-opacity=".96471"
-         y="376.56076"
-         x="462.38315"
-         font-family="Liberation Sans"
-         fill="#4d4d4d">linker</tspan></text>
+         y="401.66479"
+         x="493.20868"
+         style="font-family:'Liberation Sans';fill:#4d4d4d;fill-opacity:0.96471001;stroke-width:1.0666666">linker</tspan></text>
     <text
        id="text3068-7"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="9.3185px"
-       y="618.86829"
-       x="249.65024"
-       font-family="DejaVu Sans Mono"
-       fill="#639c00"><tspan
+       y="660.11957"
+       x="266.29092"
+       style="font-size:9.93963337px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#639c00;stroke-width:1.06665599"><tspan
          id="tspan3070-9"
          font-size="18.637px"
-         y="618.86829"
-         x="249.65024"
-         font-family="Monospace"
-         fill="#639c00">NNNNN…<tspan
+         y="660.11957"
+         x="266.29092"
+         style="font-size:19.87926674px;font-family:monospace;fill:#639c00;stroke-width:1.06665599">NNNNN…<tspan
    id="tspan3072-4"
    font-size="14.91px"
-   font-family="Monospace"
-   fill="#639c00">3<tspan
+   style="font-size:15.90384102px;font-family:monospace;fill:#639c00;stroke-width:1.06665599">3<tspan
    id="tspan6379"
-   font-family="Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;stroke-width:1.06665599">′</tspan></tspan></tspan></text>
     <text
        id="text3074-4"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="9.3185px"
-       y="635.53772"
-       x="260.86154"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="677.90015"
+       x="278.24954"
+       style="font-size:9.93963337px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#e25b00;stroke-width:1.06665599"><tspan
          id="tspan3076-2"
          font-size="18.637px"
-         y="635.53772"
-         x="260.86154"
-         font-family="Monospace"
-         fill="#e25b00">⇠XXX…<tspan
+         y="677.90015"
+         x="278.24954"
+         style="font-size:19.87926674px;font-family:monospace;fill:#e25b00;stroke-width:1.06665599">⇠XXX…<tspan
    id="tspan3078-2"
    font-size="14.91px"
-   font-family="Monospace"
-   fill="#e25b00">5<tspan
+   style="font-size:15.90384102px;font-family:monospace;fill:#e25b00;stroke-width:1.06665599">5<tspan
    id="tspan6381"
-   font-family="Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;stroke-width:1.06665599">′</tspan></tspan></tspan></text>
     <text
        id="text3080-2"
        xml:space="preserve"
-       transform="matrix(.99690 .077224 -.077205 .99713 0 0)"
+       transform="matrix(0.99689951,0.07722396,-0.07720496,0.99712951,0,0)"
        font-size="9.3185px"
-       y="586.53204"
-       x="246.9774"
-       font-family="DejaVu Sans Mono"
-       fill="#639c00"><tspan
+       y="625.63446"
+       x="263.44269"
+       style="font-size:9.93973732px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#639c00;stroke-width:1.0666672"><tspan
          id="tspan3082-6"
          font-size="18.637px"
-         y="586.53204"
-         x="246.9774"
-         fill="#639c00"><tspan
+         y="625.63446"
+         x="263.44269"
+         style="font-size:19.87947464px;fill:#639c00;stroke-width:1.0666672"><tspan
            id="tspan3084-2"
            font-size="11.182px"
-           font-family="Sans"
-           fill="#639c00">m7</tspan><tspan
+           style="font-size:11.92747307px;font-family:sans-serif;fill:#639c00;stroke-width:1.0666672">m7</tspan><tspan
            id="tspan5215"
-           font-family="Monospace">G</tspan><tspan
+           style="font-family:monospace;stroke-width:1.0666672">G</tspan><tspan
            id="tspan3086-2"
            font-size="11.182px"
-           font-family="Sans"
-           fill="#639c00">ppp</tspan></tspan></text>
+           style="font-size:11.92747307px;font-family:sans-serif;fill:#639c00;stroke-width:1.0666672">ppp</tspan></tspan></text>
     <text
        id="text3090-8"
-       style="text-anchor:end;text-align:end"
+       style="font-size:9.93963337px;line-height:0%;font-family:'DejaVu Sans Mono';text-align:end;text-anchor:end;fill:#639c00;stroke-width:1.06665599"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="9.3185px"
-       y="799.64935"
-       x="329.26505"
-       font-family="DejaVu Sans Mono"
-       fill="#639c00"><tspan
+       y="852.95074"
+       x="351.21252"><tspan
          id="tspan3092-9"
-         style="text-anchor:end;text-align:end"
+         style="font-size:19.87926674px;text-align:end;text-anchor:end;stroke-width:1.06665599"
          font-size="18.637px"
-         y="799.64935"
-         x="329.26505"><tspan
+         y="852.95074"
+         x="351.21252"><tspan
    id="tspan6073"
-   font-family="Monospace"
-   fill="#e25b00"><tspan
+   style="font-family:monospace;fill:#e25b00;stroke-width:1.06665599"><tspan
    id="tspan6079"
-   font-size="14.899px">5</tspan><tspan
+   font-size="14.899px"
+   style="font-size:15.89210796px;font-family:monospace;stroke-width:1.06665599">5</tspan><tspan
    id="tspan6077"
-   font-family="Sans">′</tspan>…NNNNCAGCA</tspan>GGGNNNNN…<tspan
+   style="font-family:sans-serif;stroke-width:1.06665599">′</tspan>…NNNNCAGCA</tspan>GGGNNNNN…<tspan
    id="tspan3094-8"
-   style="text-anchor:end;text-align:end"
-   font-size="14.91px"
-   font-family="Monospace"
-   fill="#639c00">3<tspan
+   style="font-size:15.90384102px;font-family:monospace;text-align:end;text-anchor:end;fill:#639c00;stroke-width:1.06665599"
+   font-size="14.91px">3<tspan
    id="tspan6075"
-   font-family="Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;stroke-width:1.06665599">′</tspan></tspan></tspan></text>
     <text
        id="text3110-7"
        xml:space="preserve"
-       transform="matrix(.70285 .71145 -.71117 .70291 0 0)"
+       transform="matrix(0.70284923,0.71144922,-0.71116922,0.70290923,0,0)"
        font-size="9.3185px"
-       y="375.99744"
-       x="684.84296"
-       font-family="DejaVu Sans Mono"
-       fill="#639c00"><tspan
+       y="401.06436"
+       x="730.49994"
+       style="font-size:9.939744px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#639c00;stroke-width:1.0666678"><tspan
          id="tspan3112-0"
          font-size="18.637px"
-         y="375.99744"
-         x="684.84296"
-         fill="#639c00"><tspan
+         y="401.06436"
+         x="730.49994"
+         style="font-size:19.87948799px;fill:#639c00;stroke-width:1.0666678"><tspan
            id="tspan3114-6"
            font-size="11.182px"
-           font-family="Sans"
-           fill="#639c00">m7</tspan><tspan
+           style="font-size:11.92747974px;font-family:sans-serif;fill:#639c00;stroke-width:1.0666678">m7</tspan><tspan
            id="tspan5219"
-           font-family="Monospace">G</tspan><tspan
+           style="font-family:monospace;stroke-width:1.0666678">G</tspan><tspan
            id="tspan3116-3"
            font-size="11.182px"
-           font-family="Sans"
-           fill="#639c00">ppp</tspan></tspan></text>
+           style="font-size:11.92747974px;font-family:sans-serif;fill:#639c00;stroke-width:1.0666678">ppp</tspan></tspan></text>
     <text
        id="text3118-8"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="9.3185px"
-       y="709.45172"
-       x="249.65024"
-       font-family="DejaVu Sans Mono"
-       fill="#639c00"><tspan
+       y="756.74091"
+       x="266.29092"
+       style="font-size:9.93963337px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#639c00;stroke-width:1.06665599"><tspan
          id="tspan3120-6"
          font-size="18.637px"
-         y="709.45172"
-         x="249.65024"
-         font-family="Monospace"
-         fill="#639c00">NNNNN…<tspan
+         y="756.74091"
+         x="266.29092"
+         style="font-size:19.87926674px;font-family:monospace;fill:#639c00;stroke-width:1.06665599">NNNNN…<tspan
    id="tspan3122-9"
    font-size="14.91px"
-   font-family="Monospace"
-   fill="#639c00">3<tspan
+   style="font-size:15.90384102px;font-family:monospace;fill:#639c00;stroke-width:1.06665599">3<tspan
    id="tspan6383"
-   font-family="Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;stroke-width:1.06665599">′</tspan></tspan></tspan></text>
     <text
        id="text3124-5"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="9.3185px"
-       y="726.12115"
-       x="203.66937"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="774.52148"
+       x="217.24516"
+       style="font-size:9.93963337px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#e25b00;stroke-width:1.06665599"><tspan
          id="tspan3126-8"
          font-size="18.637px"
-         y="726.12115"
-         x="203.66937"
-         font-family="Monospace"><tspan
+         y="774.52148"
+         x="217.24516"
+         style="font-size:19.87926674px;font-family:monospace;stroke-width:1.06665599"><tspan
    id="tspan3128-6"
    font-size="14.91px"
-   font-family="Monospace"
-   fill="#e25b00">3<tspan
+   style="font-size:15.90384102px;font-family:monospace;fill:#e25b00;stroke-width:1.06665599">3<tspan
    id="tspan6389"
-   font-family="Sans">′</tspan></tspan><tspan
+   style="font-family:sans-serif;stroke-width:1.06665599">′</tspan></tspan><tspan
    id="tspan6387"
-   fill="#e25b00"
-   fill-opacity=".40909">C</tspan><tspan
+   style="font-family:monospace;fill:#e25b00;fill-opacity:0.40909005;stroke-width:1.06665599">C</tspan><tspan
    id="tspan6349"
-   fill="#e25b00"
-   fill-opacity=".69421">C</tspan>CXXXXX…<tspan
+   style="font-family:monospace;fill:#e25b00;fill-opacity:0.69420998;stroke-width:1.06665599">C</tspan>CXXXXX…<tspan
    id="tspan3134-0"
    font-size="14.91px"
-   font-family="Monospace"
-   fill="#e25b00">5<tspan
+   style="font-size:15.90384102px;font-family:monospace;fill:#e25b00;stroke-width:1.06665599">5<tspan
    id="tspan6385"
-   font-family="Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;stroke-width:1.06665599">′</tspan></tspan></tspan></text>
     <text
        id="text3136-7"
        xml:space="preserve"
-       transform="matrix(.82474 .56544 -.56531 .82493 0 0)"
+       transform="matrix(0.82473932,0.56543953,-0.56530953,0.82492932,0,0)"
        font-size="9.3185px"
-       y="434.80109"
-       x="550.02454"
-       font-family="DejaVu Sans Mono"
-       fill="#639c00"><tspan
+       y="463.78821"
+       x="586.6933"
+       style="font-size:9.93974113px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#639c00;stroke-width:1.06666756"><tspan
          id="tspan3138-8"
          font-size="18.637px"
-         y="434.80109"
-         x="550.02454"
-         fill="#639c00"><tspan
+         y="463.78821"
+         x="586.6933"
+         style="font-size:19.87948227px;fill:#639c00;stroke-width:1.06666756"><tspan
            id="tspan3140-9"
            font-size="11.182px"
-           font-family="Sans"
-           fill="#639c00">m7</tspan><tspan
+           style="font-size:11.92747688px;font-family:sans-serif;fill:#639c00;stroke-width:1.06666756">m7</tspan><tspan
            id="tspan5217"
-           font-family="Monospace">G</tspan><tspan
+           style="font-family:monospace;stroke-width:1.06666756">G</tspan><tspan
            id="tspan3142-2"
            font-size="11.182px"
-           font-family="Sans"
-           fill="#639c00">ppp</tspan></tspan></text>
+           style="font-size:11.92747688px;font-family:sans-serif;fill:#639c00;stroke-width:1.06666756">ppp</tspan></tspan></text>
     <path
        id="path3144-3"
-       marker-end="url(#TriangleOutL)"
-       d="m143.94 699.2c6.9656 17.072 75.282-4.8498 83.185 9.6427"
-       stroke="#000"
-       stroke-width=".33892px"
-       fill="none" />
+       d="m 153.536,745.81333 c 7.42997,18.21014 80.3008,-5.17312 88.73067,10.28555"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.36151466px;marker-end:url(#TriangleOutL)" />
     <text
        id="text3146-4"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="18.637px"
-       y="688.0802"
-       x="40.267471"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="733.94489"
+       x="42.951538"
+       style="font-size:19.87926674px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#e25b00;stroke-width:1.06665599"><tspan
          id="tspan3148-6"
-         y="688.0802"
-         x="40.267471"
-         font-family="Monospace"><tspan
+         y="733.94489"
+         x="42.951538"
+         style="font-family:monospace;stroke-width:1.06665599"><tspan
    id="tspan3150-7"
    font-size="14.91px"
-   font-family="Monospace"
-   fill="#e25b00">5<tspan
+   style="font-size:15.90384102px;font-family:monospace;fill:#e25b00;stroke-width:1.06665599">5<tspan
    id="tspan6391"
-   font-family="Sans">′</tspan></tspan>…NNNNNCAGCA<tspan
+   style="font-family:sans-serif;stroke-width:1.06665599">′</tspan></tspan>…NNNNNCAGCA<tspan
    id="tspan6369"
-   fill="#639c00">GGG</tspan></tspan></text>
+   style="font-family:monospace;fill:#639c00;stroke-width:1.06665599">GGG</tspan></tspan></text>
     <text
        id="text4529-2"
-       fill-opacity=".96471"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="11.389px"
-       y="648.94312"
-       x="51.262871"
-       font-family="Monospace"
-       fill="#4d4d4d"><tspan
+       y="692.20593"
+       x="54.680393"
+       style="font-size:12.14826584px;line-height:0%;font-family:monospace;fill:#4d4d4d;fill-opacity:0.96471001;stroke-width:1.0666666"><tspan
          id="tspan4531-0"
-         fill-opacity=".96471"
-         y="648.94312"
-         x="51.262871"
-         font-family="Liberation Sans"
-         fill="#4d4d4d">template-switching oligonucleotide</tspan></text>
+         y="692.20593"
+         x="54.680393"
+         style="font-family:'Liberation Sans';fill:#4d4d4d;fill-opacity:0.96471001;stroke-width:1.0666666">template-switching oligonucleotide</tspan></text>
     <text
        id="text4533-9"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="11.389px"
-       y="559.20532"
-       x="289.48288"
-       font-family="Monospace"
-       fill="#639c00"><tspan
+       y="596.48566"
+       x="308.78174"
+       style="font-size:12.14826584px;line-height:0%;font-family:monospace;fill:#639c00;stroke-width:1.0666666"><tspan
          id="tspan4535-2"
-         y="559.20532"
-         x="289.48288"
-         font-family="Liberation Sans"
-         fill="#639c00">capped RNA</tspan></text>
+         y="596.48566"
+         x="308.78174"
+         style="font-family:'Liberation Sans';fill:#639c00;stroke-width:1.0666666">capped RNA</tspan></text>
     <text
        id="text4537-1"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="11.389px"
-       y="601.03326"
-       x="267.34985"
-       font-family="Monospace"
-       fill="#e25b00"><tspan
+       y="641.10211"
+       x="285.17316"
+       style="font-size:12.14826584px;line-height:0%;font-family:monospace;fill:#e25b00;stroke-width:1.0666666"><tspan
          id="tspan4539-9"
-         y="601.03326"
-         x="267.34985"
-         font-family="Liberation Sans"
-         fill="#e25b00">first-strand cDNA</tspan></text>
+         y="641.10211"
+         x="285.17316"
+         style="font-family:'Liberation Sans';fill:#e25b00;stroke-width:1.0666666">first-strand cDNA</tspan></text>
     <text
        id="text4541-0"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="11.389px"
-       y="686.29749"
-       x="206.673"
-       font-family="Monospace"
-       fill="#e25b00"><tspan
+       y="732.0506"
+       x="220.45119"
+       style="font-size:12.14826584px;line-height:0%;font-family:monospace;fill:#e25b00;stroke-width:1.0666666"><tspan
          id="tspan4543-3"
-         y="686.29749"
-         x="206.673"
-         font-family="Liberation Sans"
-         fill="#e25b00">first-strand cDNA with a C tail</tspan></text>
+         y="732.0506"
+         x="220.45119"
+         style="font-family:'Liberation Sans';fill:#e25b00;stroke-width:1.0666666">first-strand cDNA with a C tail</tspan></text>
     <text
        id="text4545-3"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="11.389px"
-       y="769.07269"
-       x="161.72845"
-       font-family="Monospace"
-       fill="#e25b00"><tspan
+       y="820.34418"
+       x="172.51035"
+       style="font-size:12.14826584px;line-height:0%;font-family:monospace;fill:#e25b00;stroke-width:1.0666666"><tspan
          id="tspan4547-2"
-         y="769.07269"
-         x="161.72845"
-         font-family="Liberation Sans"
-         fill="#e25b00">first-strand cDNA with forward adapter</tspan></text>
+         y="820.34418"
+         x="172.51035"
+         style="font-family:'Liberation Sans';fill:#e25b00;stroke-width:1.0666666">first-strand cDNA with forward adapter</tspan></text>
     <text
        id="text3869"
-       style="text-anchor:end;text-align:end"
+       style="font-size:9.93963337px;line-height:0%;font-family:'DejaVu Sans Mono';text-align:end;text-anchor:end;fill:#639c00;stroke-width:1.06665599"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="9.3185px"
-       y="601.58032"
-       x="700.46716"
-       font-family="DejaVu Sans Mono"
-       fill="#639c00"><tspan
+       y="641.67926"
+       x="747.15747"><tspan
          id="tspan3871"
-         style="text-anchor:end;text-align:end"
+         style="font-size:19.87926674px;font-family:monospace;text-align:end;text-anchor:end;fill:#639c00;stroke-width:1.06665599"
          font-size="18.637px"
-         y="601.58032"
-         x="700.46716"
-         font-family="Monospace"
-         fill="#639c00">…NNNNNNNNCAGCAGGGNNNNNNNNN…<tspan
+         y="641.67926"
+         x="747.15747">…NNNNNNNNCAGCAGGGNNNNNNNNN…<tspan
    id="tspan3873"
-   style="text-anchor:end;text-align:end"
-   font-size="14.91px"
-   font-family="Monospace"
-   fill="#639c00">3<tspan
+   style="font-size:15.90384102px;font-family:monospace;text-align:end;text-anchor:end;fill:#639c00;stroke-width:1.06665599"
+   font-size="14.91px">3<tspan
    id="tspan6520"
-   style="text-anchor:end;text-align:end"
-   font-family="Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:1.06665599">′</tspan></tspan></tspan></text>
     <text
        id="text3875"
-       style="text-anchor:end;text-align:end"
+       style="font-size:9.93963337px;line-height:0%;font-family:'DejaVu Sans Mono';text-align:end;text-anchor:end;fill:#e25b00;stroke-width:1.06665599"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="9.3185px"
-       y="618.24976"
-       x="700.46716"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="659.45978"
+       x="747.15747"><tspan
          id="tspan3877"
-         style="text-anchor:end;text-align:end"
+         style="font-size:19.87926674px;font-family:monospace;text-align:end;text-anchor:end;fill:#e25b00;stroke-width:1.06665599"
          font-size="18.637px"
-         y="618.24976"
-         x="700.46716"
-         font-family="Monospace"
-         fill="#e25b00">⇠GTCCXXXXXXXXX…<tspan
+         y="659.45978"
+         x="747.15747">⇠GTCCXXXXXXXXX…<tspan
    id="tspan3879"
-   style="text-anchor:end;text-align:end"
-   font-size="14.91px"
-   font-family="Monospace"
-   fill="#e25b00">5<tspan
+   style="font-size:15.90384102px;font-family:monospace;text-align:end;text-anchor:end;fill:#e25b00;stroke-width:1.06665599"
+   font-size="14.91px">5<tspan
    id="tspan6522"
-   style="text-anchor:end;text-align:end"
-   font-family="Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:1.06665599">′</tspan></tspan></tspan></text>
     <text
        id="text3949"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="11.389px"
-       y="540.78119"
-       x="629.41644"
-       font-family="Monospace"
-       fill="#639c00"><tspan
+       y="576.83325"
+       x="671.3775"
+       style="font-size:12.14826584px;line-height:0%;font-family:monospace;fill:#639c00;stroke-width:1.0666666"><tspan
          id="tspan3951"
-         y="540.78119"
-         x="629.41644"
-         font-family="Liberation Sans"
-         fill="#639c00">reverse-transcribed RNA</tspan></text>
+         y="576.83325"
+         x="671.3775"
+         style="font-family:'Liberation Sans';fill:#639c00;stroke-width:1.0666666">reverse-transcribed RNA</tspan></text>
     <text
        id="text3953"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="11.389px"
-       y="584.97357"
-       x="668.09924"
-       font-family="Monospace"
-       fill="#e25b00"><tspan
+       y="623.9718"
+       x="712.63916"
+       style="font-size:12.14826584px;line-height:0%;font-family:monospace;fill:#e25b00;stroke-width:1.0666666"><tspan
          id="tspan3955"
-         y="584.97357"
-         x="668.09924"
-         font-family="Liberation Sans"
-         fill="#e25b00">first-strand cDNA</tspan></text>
+         y="623.9718"
+         x="712.63916"
+         style="font-family:'Liberation Sans';fill:#e25b00;stroke-width:1.0666666">first-strand cDNA</tspan></text>
     <text
        id="text3889"
-       style="text-anchor:end;text-align:end"
+       style="font-size:9.93963337px;line-height:0%;font-family:'DejaVu Sans Mono';text-align:end;text-anchor:end;fill:#639c00;stroke-width:1.06665599"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="9.3185px"
-       y="810.06744"
-       x="700.46722"
-       font-family="DejaVu Sans Mono"
-       fill="#639c00"><tspan
+       y="864.06329"
+       x="747.15759"><tspan
          id="tspan3891"
-         style="text-anchor:end;text-align:end"
+         style="font-size:19.87926674px;font-family:monospace;text-align:end;text-anchor:end;fill:#639c00;stroke-width:1.06665599"
          font-size="18.637px"
-         y="810.06744"
-         x="700.46722"
-         font-family="Monospace"
-         fill="#639c00">NNNNNNNNN…<tspan
+         y="864.06329"
+         x="747.15759">NNNNNNNNN…<tspan
    id="tspan3893"
-   style="text-anchor:end;text-align:end"
-   font-size="14.91px"
-   font-family="Monospace"
-   fill="#639c00">3<tspan
+   style="font-size:15.90384102px;font-family:monospace;text-align:end;text-anchor:end;fill:#639c00;stroke-width:1.06665599"
+   font-size="14.91px">3<tspan
    id="tspan6528"
-   style="text-anchor:end;text-align:end"
-   font-family="Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:1.06665599">′</tspan></tspan></tspan></text>
     <text
        id="text3895"
        xml:space="preserve"
-       transform="matrix(.96581 -.25879 .25885 .96604 0 0)"
+       transform="matrix(0.96581054,-0.25879014,0.25885014,0.96604054,0,0)"
        font-size="9.3185px"
-       y="951.89331"
-       x="195.90088"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="1015.3523"
+       x="208.96082"
+       style="font-size:9.93972778px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#e25b00;stroke-width:1.06666613"><tspan
          id="tspan3897"
          font-size="18.637px"
-         y="951.89331"
-         x="195.90088"
-         font-family="Monospace"
-         fill="#e25b00"><tspan
+         y="1015.3523"
+         x="208.96082"
+         style="font-size:19.87945557px;font-family:monospace;fill:#e25b00;stroke-width:1.06666613"><tspan
    id="tspan3899"
    font-size="14.91px"
-   font-family="Monospace"
-   fill="#e25b00">3<tspan
+   style="font-size:15.90399075px;font-family:monospace;fill:#e25b00;stroke-width:1.06666613">3<tspan
    id="tspan6536"
-   font-family="Sans">′</tspan></tspan>…⇠NXGTCGTCCC</tspan></text>
+   style="font-family:sans-serif;stroke-width:1.06666613">′</tspan></tspan>…⇠NXGTCGTCCC</tspan></text>
     <text
        id="text3961"
-       style="text-anchor:middle;text-align:center"
+       style="font-size:12.14826584px;line-height:0%;font-family:'Liberation Sans';text-align:center;text-anchor:middle;fill:#e25b00;stroke-width:1.0666666"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="11.389px"
-       y="784.73145"
-       x="687.24335"
-       font-family="Liberation Sans"
-       fill="#e25b00"><tspan
+       y="837.04681"
+       x="733.05951"><tspan
          id="tspan4240"
-         style="text-anchor:middle;text-align:center"
-         y="784.73145"
-         x="687.24335">truncated first-strand</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:1.0666666"
+         y="837.04681"
+         x="733.05951">truncated first-strand</tspan><tspan
          id="tspan4244"
-         style="text-anchor:middle;text-align:center"
-         y="798.96777"
-         x="687.24335">cDNA with forward adapter</tspan></text>
+         style="text-align:center;text-anchor:middle;stroke-width:1.0666666"
+         y="852.23224"
+         x="733.05951">cDNA with forward adapter</tspan></text>
     <text
        id="text3965"
        xml:space="preserve"
-       transform="matrix(.96581 -.25879 .25885 .96604 0 0)"
+       transform="matrix(0.96581054,-0.25879014,0.25885014,0.96604054,0,0)"
        font-size="18.637px"
-       y="937.31311"
-       x="206.9151"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="999.80011"
+       x="220.70932"
+       style="font-size:19.87945557px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#e25b00;stroke-width:1.06666613"><tspan
          id="tspan3967"
-         y="937.31311"
-         x="206.9151"><tspan
+         y="999.80011"
+         x="220.70932"
+         style="stroke-width:1.06666613"><tspan
    id="tspan3969"
    font-size="14.91px"
-   font-family="Monospace"
-   fill="#e25b00">5<tspan
+   style="font-size:15.90399075px;font-family:monospace;fill:#e25b00;stroke-width:1.06666613">5<tspan
    id="tspan6532"
-   font-family="Sans">′</tspan></tspan>…NNCAGCA<tspan
+   style="font-family:sans-serif;stroke-width:1.06666613">′</tspan></tspan>…NNCAGCA<tspan
    id="tspan5178"
-   font-family="Monospace"
-   fill="#639c00">GGG</tspan></tspan></text>
+   style="font-family:monospace;fill:#639c00;stroke-width:1.06666613">GGG</tspan></tspan></text>
     <text
        id="text4140"
-       style="text-anchor:end;text-align:end"
+       style="font-size:9.93963337px;line-height:0%;font-family:'DejaVu Sans Mono';text-align:end;text-anchor:end;fill:#e25b00;stroke-width:1.06665599"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="9.3185px"
-       y="827.48822"
-       x="700.46716"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="882.64526"
+       x="747.15747"><tspan
          id="tspan4142"
-         style="text-anchor:end;text-align:end"
+         style="font-size:19.87926674px;font-family:monospace;text-align:end;text-anchor:end;fill:#e25b00;stroke-width:1.06665599"
          font-size="18.637px"
-         y="827.48822"
-         x="700.46716"
-         font-family="Monospace"
-         fill="#e25b00"> XXXXXXXX…<tspan
+         y="882.64526"
+         x="747.15747"> XXXXXXXX…<tspan
    id="tspan4144"
-   style="text-anchor:end;text-align:end"
-   font-size="14.91px"
-   font-family="Monospace"
-   fill="#e25b00">5<tspan
+   style="font-size:15.90384102px;font-family:monospace;text-align:end;text-anchor:end;fill:#e25b00;stroke-width:1.06665599"
+   font-size="14.91px">5<tspan
    id="tspan6530"
-   style="text-anchor:end;text-align:end"
-   font-family="Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:1.06665599">′</tspan></tspan></tspan></text>
     <text
        id="text4160"
-       fill-opacity=".76863"
        xml:space="preserve"
-       transform="matrix(.96581 .25879 -.25885 .96604 0 0)"
+       transform="matrix(0.96581054,0.25879014,-0.25885014,0.96604054,0,0)"
        font-size="9.3185px"
-       y="631.39465"
-       x="572.40503"
-       font-family="DejaVu Sans Mono"
-       fill="#477f23"><tspan
+       y="673.48724"
+       x="610.565"
+       style="font-size:9.93972778px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#477f23;fill-opacity:0.76863002;stroke-width:1.06666613"><tspan
          id="tspan4162"
-         fill-opacity="1"
          font-size="18.637px"
-         y="631.39465"
-         x="572.40503"
-         font-family="Monospace"
-         fill="#639c00">…NNNNNNNNCAGCAGGG</tspan></text>
+         y="673.48724"
+         x="610.565"
+         style="font-size:19.87945557px;font-family:monospace;fill:#639c00;fill-opacity:1;stroke-width:1.06666613">…NNNNNNNNCAGCAGGG</tspan></text>
     <text
        id="text4181"
        xml:space="preserve"
-       transform="matrix(.99289 -.11799 .11802 .99313 0 0)"
+       transform="matrix(0.99289297,-0.11799035,0.11802035,0.99313297,0,0)"
        font-size="9.3185px"
-       y="891.63483"
-       x="475.436"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="951.07428"
+       x="507.13022"
+       style="font-size:9.93970299px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#e25b00;stroke-width:1.0666635"><tspan
          id="tspan4183"
          font-size="18.637px"
-         y="891.63483"
-         x="475.436"
-         fill="#e25b00">X<tspan
+         y="951.07428"
+         x="507.13022"
+         style="font-size:19.87940598px;fill:#e25b00;stroke-width:1.0666635">X<tspan
    id="tspan4185"
    font-size="14.91px"
-   font-family="DejaVu Sans"
-   fill="#e25b00" /></tspan></text>
+   style="font-size:15.9039526px;font-family:'DejaVu Sans';fill:#e25b00;stroke-width:1.0666635" /></tspan></text>
     <path
        id="path3937"
-       marker-end="url(#TriangleOutL)"
-       d="m522.22 701.62c21.563-19.952 27.415-4.0449 41.332-13.698"
-       stroke="#000"
-       stroke-width=".33892px"
-       fill="none" />
+       d="m 557.03467,748.39467 c 23.00053,-21.28214 29.24266,-4.31456 44.08746,-14.6112"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.36151466px;marker-end:url(#TriangleOutL)" />
     <text
        id="text3939"
-       fill-opacity=".93725"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="18.637px"
-       y="710.40656"
-       x="381.98343"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="757.7594"
+       x="407.44492"
+       style="font-size:19.87926674px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#e25b00;fill-opacity:0.93725;stroke-width:1.06665599"><tspan
          id="tspan3941"
-         y="710.40656"
-         x="381.98343"><tspan
+         y="757.7594"
+         x="407.44492"
+         style="stroke-width:1.06665599"><tspan
    id="tspan3943"
-   fill-opacity=".93725"
    font-size="14.91px"
-   font-family="Monospace"
-   fill="#e25b00">5<tspan
+   style="font-size:15.90384102px;font-family:monospace;fill:#e25b00;fill-opacity:0.93725;stroke-width:1.06665599">5<tspan
    id="tspan6540"
-   font-family="Sans">′</tspan></tspan>…NNCAGCA<tspan
+   style="font-family:sans-serif;stroke-width:1.06665599">′</tspan></tspan>…NNCAGCA<tspan
    id="tspan5176"
-   fill-opacity="1"
-   font-family="Monospace"
-   fill="#639c00">GGG</tspan></tspan></text>
+   style="font-family:monospace;fill:#639c00;fill-opacity:1;stroke-width:1.06665599">GGG</tspan></tspan></text>
     <text
        id="text3945"
-       fill-opacity=".96471"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="11.389px"
-       y="669.5495"
-       x="389.90714"
-       font-family="Monospace"
-       fill="#4d4d4d"><tspan
+       y="714.1861"
+       x="415.90094"
+       style="font-size:12.14826584px;line-height:0%;font-family:monospace;fill:#4d4d4d;fill-opacity:0.96471001;stroke-width:1.0666666"><tspan
          id="tspan3947"
-         fill-opacity=".96471"
-         y="669.5495"
-         x="389.90714"
-         font-family="Liberation Sans"
-         fill="#4d4d4d">template-switching oligonucleotide</tspan></text>
+         y="714.1861"
+         x="415.90094"
+         style="font-family:'Liberation Sans';fill:#4d4d4d;fill-opacity:0.96471001;stroke-width:1.0666666">template-switching oligonucleotide</tspan></text>
     <text
        id="text4134"
-       style="text-anchor:end;text-align:end"
+       style="font-size:9.93963337px;line-height:0%;font-family:'DejaVu Sans Mono';text-align:end;text-anchor:end;fill:#639c00;stroke-width:1.06665599"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="9.3185px"
-       y="681.25189"
-       x="700.46716"
-       font-family="DejaVu Sans Mono"
-       fill="#639c00"><tspan
+       y="726.66144"
+       x="747.15747"><tspan
          id="tspan4136"
-         style="text-anchor:end;text-align:end"
+         style="font-size:19.87926674px;font-family:monospace;text-align:end;text-anchor:end;fill:#639c00;stroke-width:1.06665599"
          font-size="18.637px"
-         y="681.25189"
-         x="700.46716"
-         font-family="Monospace"
-         fill="#639c00">…NNNNNNNNCAGCAGGGNNNNNNNNN…<tspan
+         y="726.66144"
+         x="747.15747">…NNNNNNNNCAGCAGGGNNNNNNNNN…<tspan
    id="tspan4138"
-   style="text-anchor:end;text-align:end"
-   font-size="14.91px"
-   font-family="Monospace"
-   fill="#639c00">3<tspan
+   style="font-size:15.90384102px;font-family:monospace;text-align:end;text-anchor:end;fill:#639c00;stroke-width:1.06665599"
+   font-size="14.91px">3<tspan
    id="tspan6524"
-   style="text-anchor:end;text-align:end"
-   font-family="Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:1.06665599">′</tspan></tspan></tspan></text>
     <text
        id="text4146"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="11.389px"
-       y="614.79279"
-       x="629.41644"
-       font-family="Monospace"
-       fill="#639c00"><tspan
+       y="655.77893"
+       x="671.3775"
+       style="font-size:12.14826584px;line-height:0%;font-family:monospace;fill:#639c00;stroke-width:1.0666666"><tspan
          id="tspan4148"
-         y="614.79279"
-         x="629.41644"
-         font-family="Liberation Sans"
-         fill="#639c00">reverse-transcribed RNA</tspan></text>
+         y="655.77893"
+         x="671.3775"
+         style="font-family:'Liberation Sans';fill:#639c00;stroke-width:1.0666666">reverse-transcribed RNA</tspan></text>
     <text
        id="text4150"
        xml:space="preserve"
-       transform="scale(.92885 1.0766)"
+       transform="scale(0.92885004,1.0766)"
        font-size="11.389px"
-       y="658.98517"
-       x="668.09924"
-       font-family="Monospace"
-       fill="#e25b00"><tspan
+       y="702.91748"
+       x="712.63916"
+       style="font-size:12.14826584px;line-height:0%;font-family:monospace;fill:#e25b00;stroke-width:1.0666666"><tspan
          id="tspan4152"
-         y="658.98517"
-         x="668.09924"
-         font-family="Liberation Sans"
-         fill="#e25b00">first-strand cDNA</tspan></text>
+         y="702.91748"
+         x="712.63916"
+         style="font-family:'Liberation Sans';fill:#e25b00;stroke-width:1.0666666">first-strand cDNA</tspan></text>
     <text
        id="text4154"
        xml:space="preserve"
-       transform="matrix(.86592 -.49994 .50006 .86613 0 0)"
+       transform="matrix(0.86592031,-0.49994018,0.50006018,0.86613031,0,0)"
        font-size="9.3185px"
-       y="894.19458"
-       x="95.374565"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="953.80719"
+       x="101.73283"
+       style="font-size:9.93972969px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#e25b00;stroke-width:1.06666625"><tspan
          id="tspan4156"
          font-size="18.637px"
-         y="894.19458"
-         x="95.374565"
-         font-family="Monospace"
-         fill="#e25b00">⇠GTCC</tspan></text>
+         y="953.80719"
+         x="101.73283"
+         style="font-size:19.87945938px;font-family:monospace;fill:#e25b00;stroke-width:1.06666625">⇠GTCC</tspan></text>
     <text
        id="text4205"
-       style="text-anchor:end;text-align:end"
+       style="font-size:9.93963337px;line-height:0%;font-family:'DejaVu Sans Mono';text-align:end;text-anchor:end;fill:#e25b00;stroke-width:1.06665599"
        xml:space="preserve"
-       transform="scale(.99988 1.0001)"
+       transform="scale(0.99989,1.00011)"
        font-size="9.3185px"
-       y="696.31183"
-       x="700.46716"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="742.72516"
+       x="747.15747"><tspan
          id="tspan4207"
-         style="text-anchor:end;text-align:end"
+         style="font-size:19.87926674px;font-family:monospace;text-align:end;text-anchor:end;fill:#e25b00;stroke-width:1.06665599"
          font-size="18.637px"
-         y="696.31183"
-         x="700.46716"
-         font-family="Monospace"
-         fill="#e25b00"> XXXXXXXX…<tspan
+         y="742.72516"
+         x="747.15747"> XXXXXXXX…<tspan
    id="tspan4209"
-   style="text-anchor:end;text-align:end"
-   font-size="14.91px"
-   font-family="Monospace"
-   fill="#e25b00">5<tspan
+   style="font-size:15.90384102px;font-family:monospace;text-align:end;text-anchor:end;fill:#e25b00;stroke-width:1.06665599"
+   font-size="14.91px">5<tspan
    id="tspan6526"
-   style="text-anchor:end;text-align:end"
-   font-family="Sans">′</tspan></tspan></tspan></text>
+   style="font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:1.06665599">′</tspan></tspan></tspan></text>
     <text
        id="text4211"
        xml:space="preserve"
-       transform="matrix(.99289 -.11799 .11802 .99313 0 0)"
+       transform="matrix(0.99289297,-0.11799035,0.11802035,0.99313297,0,0)"
        font-size="9.3185px"
-       y="761.33679"
-       x="490.59814"
-       font-family="DejaVu Sans Mono"
-       fill="#e25b00"><tspan
+       y="812.09015"
+       x="523.3031"
+       style="font-size:9.93970299px;line-height:0%;font-family:'DejaVu Sans Mono';fill:#e25b00;stroke-width:1.0666635"><tspan
          id="tspan4213"
          font-size="18.637px"
-         y="761.33679"
-         x="490.59814"
-         fill="#e25b00">X<tspan
+         y="812.09015"
+         x="523.3031"
+         style="font-size:19.87940598px;fill:#e25b00;stroke-width:1.0666635">X<tspan
    id="tspan4215"
    font-size="14.91px"
-   font-family="DejaVu Sans"
-   fill="#e25b00" /></tspan></text>
+   style="font-size:15.9039526px;font-family:'DejaVu Sans';fill:#e25b00;stroke-width:1.0666635" /></tspan></text>
     <path
        id="path5150"
-       d="m351.87 571.79v456.91"
-       stroke="#000"
-       stroke-width=".96223px"
-       fill="none" />
+       d="M 375.328,609.90933 V 1097.28"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.02637875px" />
     <g
        id="g5549"
-       transform="matrix(1.679 0 0 -1.679 -1733.4 1565.1)">
+       transform="matrix(1.679,0,0,-1.679,-1848.96,1669.44)">
       <g
          id="g6092"
-         transform="matrix(.35468 0 0 .35468 1240.8 131.48)">
+         transform="matrix(0.35468,0,0,0.35468,1323.52,140.24533)">
         <text
            id="text5551"
            font-size="19.925px"
-           transform="matrix(1 0 0 -1 55.786 702.08)"
-           font-family="AdvP47D4A3"
-           fill="#231f20">
+           transform="scale(1,-1)"
+           style="font-size:21.25333214px;line-height:0%;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.06666672"
+           x="59.505066"
+           y="-748.88531">
           <tspan
              id="tspan5553"
-             y="0"
-             x="0 12.851818 24.667521 36.901657 49.135788 56.80703 68.2043 78.983887 89.763474 94.944054 107.17819 127.10748 139.34161 153.98073 165.37799 173.04924 180.1028 185.28337 191.9185 203.31577 214.71304 221.7666 240.60796 252.00523 263.82092 284.09094 296.32507 307.72235 315.39359 326.79086 339.02499 351.25912 370.71817 382.9523 388.1329 399.53015 418.33963 423.52023">Suppressionofartifactsandbarcodebiasin</tspan>
+             y="-748.88531"
+             x="59.505066 73.213669 85.817085 98.866837 111.91657 120.09923 132.25632 143.75455 155.25278 160.77872 173.82848 195.08638 208.13612 223.75117 235.90826 244.09093 251.61472 257.14066 264.21814 276.37521 288.53232 296.05612 316.15356 328.31064 340.91406 362.5354 375.58514 387.74225 395.9249 408.082 421.13171 434.18146 454.93777 467.98752 473.51349 485.67056 505.73401 511.25998"
+             style="stroke-width:1.06666672">Suppressionofartifactsandbarcodebiasin</tspan>
           <tspan
              id="tspan5555"
-             y="21.883957"
-             x="0 11.815702 16.996281 29.230415 41.04612 49.135788 56.189346 68.005051 75.676292 87.910423 99.726128 111.96026 123.77596 136.0101 147.82581 162.99294 170.04649 177.71774 189.11501 200.93071 211.7103 223.10757 230.77881 235.95938 248.19353 255.24709 267.4812 285.53354 305.06631 316.46356 328.27927 339.67654 344.85712 355.21829 365.99786 377.39514 396.28632 408.10202 415.15558 420.33615 425.51672 430.69733 441.05847 446.23904 458.05475">high-throughputtranscriptomeanalysesutilizing</tspan>
+             y="-725.54242"
+             x="59.505066 72.108482 77.63443 90.684174 103.2876 111.91657 119.44037 132.04379 140.22644 153.27618 165.87961 178.92934 191.53276 204.5825 217.18593 233.3642 240.888 249.07066 261.22775 273.83115 285.32938 297.48648 305.66913 311.19507 324.24484 331.76862 344.81836 364.07419 384.90915 397.06619 409.66962 421.82672 427.35266 438.40457 449.9028 462.05988 482.21048 494.81387 502.33768 507.86362 513.38959 518.91553 529.96741 535.49341 548.0968"
+             style="stroke-width:1.06666672">high-throughputtranscriptomeanalysesutilizing</tspan>
           <tspan
              id="tspan5557"
-             y="43.823704"
-             x="0 7.053556 18.450829 36.503151 48.737286 53.917862 65.315132 72.36869 91.843681 102.62327 118.80261 123.98318 131.03674 142.43402 154.24971 159.4303 171.246">templateswitching</tspan>
+             y="-702.14008"
+             x="59.505066 67.028862 79.185951 98.441757 111.4915 117.01746 129.17455 136.69833 157.47166 168.96988 186.22786 191.75378 199.27759 211.43469 224.03809 229.56406 242.16747"
+             style="stroke-width:1.06666672">templateswitching</tspan>
         </text>
         <text
            id="text5559"
-           transform="matrix(1 0 0 -1 55.786 634.28)">
+           transform="scale(1,-1)"
+           style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672"
+           x="59.505066"
+           y="-676.56531">
           <tspan
              id="tspan5561"
              font-size="11.955px"
-             y="0"
-             x="0 8.8348188 15.673136 21.889788 33.562748 40.903179 49.039822 57.001915 65.140945 72.481377 79.319695 86.409073"
-             font-family="AdvP47D4A3"
-             fill="#231f20">DaveT.P.Tang</tspan>
+             y="-676.56531"
+             x="59.505066 68.928871 76.223076 82.854172 95.305328 103.13512 111.81421 120.30711 128.98874 136.81854 144.11275 151.67474"
+             style="font-size:12.75199986px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.06666672">DaveT.P.Tang</tspan>
         </text>
         <text
            id="text5563"
-           transform="matrix(1 0 0 -.88877 149.61 639.55)">
+           transform="scale(1.0607311,-0.94274599)"
+           style="font-size:12.06714821px;line-height:0%;stroke-width:1.00559568"
+           x="150.44717"
+           y="-723.61664">
           <tspan
              id="tspan5565"
              font-size="8.9663px"
-             y="0"
-             x="0"
-             font-family="AdvP47D4A3"
-             fill="#231f20">1</tspan>
+             y="-723.61664"
+             x="150.44717"
+             style="font-size:9.01647282px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.00559568">1</tspan>
         </text>
         <text
            id="text5567"
-           transform="matrix(1 0 0 -1 154.54 634.28)">
+           transform="scale(1,-1)"
+           style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672"
+           x="164.84267"
+           y="-676.56531">
           <tspan
              id="tspan5569"
              font-size="11.955px"
-             y="0"
-             x="0 8.1641378 16.998957 24.088331 30.926649 35.529362 38.637688 45.476006 56.750858 64.712959 67.821281 74.659599 81.127312 87.595016"
-             font-family="AdvP47D4A3"
-             fill="#231f20">,CharlesPlessy</tspan>
+             y="-676.56531"
+             x="164.84267 173.55109 182.97488 190.53688 197.83109 202.74065 206.0562 213.3504 225.37692 233.86983 237.18536 244.47957 251.37846 258.27734"
+             style="font-size:12.75199986px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.06666672">,CharlesPlessy</tspan>
         </text>
         <text
            id="text5571"
-           transform="matrix(1 0 0 -.88877 248.43 639.55)">
+           transform="scale(1.0607311,-0.94274599)"
+           style="font-size:12.06714821px;line-height:0%;stroke-width:1.00559568"
+           x="249.82014"
+           y="-723.61664">
           <tspan
              id="tspan5573"
              font-size="8.9663px"
-             y="0"
-             x="0"
-             font-family="AdvP47D4A3"
-             fill="#231f20">1</tspan>
+             y="-723.61664"
+             x="249.82014"
+             style="font-size:9.01647282px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.00559568">1</tspan>
         </text>
         <text
            id="text5575"
-           transform="matrix(1 0 0 -1 253.36 634.28)">
+           transform="scale(1,-1)"
+           style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672"
+           x="270.25067"
+           y="-676.56531">
           <tspan
              id="tspan5577"
              font-size="11.955px"
-             y="0"
-             x="0 8.1641378 18.995459 31.125103 38.836143 45.674461 48.782787 51.891113 62.722431 69.811806 72.920135 76.028458 82.866776"
-             font-family="AdvP47D4A3"
-             fill="#231f20">,MdSalimullah</tspan>
+             y="-676.56531"
+             x="270.25067 278.95908 290.51248 303.45078 311.67587 318.97009 322.28564 325.6012 337.1546 344.71658 348.03214 351.34769 358.64191"
+             style="font-size:12.75199986px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.06666672">,MdSalimullah</tspan>
         </text>
         <text
            id="text5579"
-           transform="matrix(1 0 0 -.88877 343.39 639.55)">
+           transform="scale(1.0607311,-0.94274599)"
+           style="font-size:12.06714821px;line-height:0%;stroke-width:1.00559568"
+           x="345.31152"
+           y="-723.61664">
           <tspan
              id="tspan5581"
              font-size="8.9663px"
-             y="0"
-             x="0"
-             font-family="AdvP47D4A3"
-             fill="#231f20">1</tspan>
+             y="-723.61664"
+             x="345.31152"
+             style="font-size:9.01647282px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.00559568">1</tspan>
         </text>
         <text
            id="text5583"
-           transform="matrix(1 0 0 -1 348.32 634.28)">
+           transform="scale(1,-1)"
+           style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672"
+           x="371.54132"
+           y="-676.56531">
           <tspan
              id="tspan5585"
              font-size="11.955px"
-             y="0"
-             x="0 8.1641378 16.377291 23.466665 35.093002 45.92432 52.762638 57.365353 60.473679 72.114357 79.825401 86.914772 93.131424 100.2208 107.05911"
-             font-family="AdvP47D4A3"
-             fill="#231f20">,AnaMariaSuzuki</tspan>
+             y="-676.56531"
+             x="371.54132 380.24976 389.01044 396.57245 408.97388 420.52728 427.82147 432.73105 436.0466 448.46332 456.68842 464.25043 470.88153 478.44351 485.73773"
+             style="font-size:12.75199986px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.06666672">,AnaMariaSuzuki</tspan>
         </text>
         <text
            id="text5587"
-           transform="matrix(1 0 0 -.88877 458.53 639.55)">
+           transform="scale(1.0607311,-0.94274599)"
+           style="font-size:12.06714821px;line-height:0%;stroke-width:1.00559568"
+           x="461.09579"
+           y="-723.61664">
           <tspan
              id="tspan5589"
              font-size="8.9663px"
-             y="0"
-             x="0"
-             font-family="AdvP47D4A3"
-             fill="#231f20">1</tspan>
+             y="-723.61664"
+             x="461.09579"
+             style="font-size:9.01647282px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.00559568">1</tspan>
         </text>
         <text
            id="text5591"
            font-size="11.955px"
-           transform="matrix(1 0 0 -1 463.52 634.28)"
-           font-family="AdvP47D4A3"
-           fill="#231f20">
+           transform="scale(1,-1)"
+           style="font-size:12.75199986px;line-height:0%;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.06666672"
+           x="494.42133"
+           y="-676.56531">
           <tspan
              id="tspan5593"
-             y="0"
-             x="0">,</tspan>
+             y="-676.56531"
+             x="494.42133"
+             style="stroke-width:1.06666672">,</tspan>
           <tspan
              id="tspan5595"
-             y="15.987555"
-             x="-407.73465 -399.15091 -392.31259 -388.33154 -384.35049 -377.51218 -370.67386 -367.56552 -364.45721 -352.7424 -343.90759 -337.06927 -333.96094 -330.8526 -327.74429 -320.40384 -313.56552 -308.96283 -305.85449">RaffaellaCalligaris</tspan>
+             y="-659.51196"
+             x="59.504375 68.660362 75.954567 80.201019 84.447472 91.741676 99.035881 102.35144 105.66697 118.16277 127.58657 134.88077 138.19633 141.51189 144.82742 152.65724 159.95145 164.86098 168.17654"
+             style="stroke-width:1.06666672">RaffaellaCalligaris</tspan>
         </text>
         <text
            id="text5597"
-           transform="matrix(1 0 0 -.88877 164.18 623.62)">
+           transform="scale(1.0607311,-0.94274599)"
+           style="font-size:12.06714821px;line-height:0%;stroke-width:1.00559568"
+           x="165.09871"
+           y="-705.59265">
           <tspan
              id="tspan5599"
              font-size="8.9663px"
-             y="0"
-             x="0"
-             font-family="AdvP47D4A3"
-             fill="#231f20">2</tspan>
+             y="-705.59265"
+             x="165.09871"
+             style="font-size:9.01647282px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.00559568">2</tspan>
         </text>
         <text
            id="text5601"
-           transform="matrix(1 0 0 -1 169.11 618.29)">
+           transform="scale(1,-1)"
+           style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672"
+           x="180.384"
+           y="-659.50934">
           <tspan
              id="tspan5603"
              font-size="11.955px"
-             y="0"
-             x="0 8.1641378 15.875177 20.107283 26.945601 30.926649 37.764965 44.85434 57.034195 66.120071 73.209442 79.677155 83.909264 87.017586 94.106964 100.94527 104.0536 110.89192"
-             font-family="AdvP47D4A3"
-             fill="#231f20">,StefanoGustincich</tspan>
+             y="-659.50934"
+             x="180.384 189.09241 197.31752 201.83177 209.12598 213.37242 220.66663 228.22862 241.22047 250.91208 258.47406 265.37296 269.88721 273.20276 280.76477 288.05896 291.37451 298.66873"
+             style="font-size:12.75199986px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.06666672">,StefanoGustincich</tspan>
         </text>
         <text
            id="text5605"
-           transform="matrix(1 0 0 -.88877 287.15 623.62)">
+           transform="scale(1.0607311,-0.94274599)"
+           style="font-size:12.06714821px;line-height:0%;stroke-width:1.00559568"
+           x="288.75681"
+           y="-705.59265">
           <tspan
              id="tspan5607"
              font-size="8.9663px"
-             y="0"
-             x="0"
-             font-family="AdvP47D4A3"
-             fill="#231f20">2</tspan>
+             y="-705.59265"
+             x="288.75681"
+             style="font-size:9.01647282px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.00559568">2</tspan>
         </text>
         <text
            id="text5609"
-           transform="matrix(1 0 0 -1 296.9 618.29)">
+           transform="scale(1,-1)"
+           style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672"
+           x="316.69333"
+           y="-659.50934">
           <tspan
              id="tspan5611"
              font-size="11.955px"
-             y="0"
-             x="0 6.8383174 13.927691 26.078856 34.040951 37.149277 43.987595 48.590309 60.718758 69.553574 76.391891 80.994606 88.083984 91.192307 98.281685 105.12"
-             font-family="AdvP47D4A3"
-             fill="#231f20">andPieroCarninci</tspan>
+             y="-659.50934"
+             x="316.69333 323.98755 331.54953 344.51077 353.00369 356.31921 363.61343 368.52301 381.46002 390.88382 398.17801 403.08759 410.6496 413.96512 421.52713 428.82135"
+             style="font-size:12.75199986px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.06666672">andPieroCarninci</tspan>
         </text>
         <text
            id="text5613"
-           transform="matrix(1 0 0 -.88877 405.24 623.62)">
+           transform="scale(1.0607311,-0.94274599)"
+           style="font-size:12.06714821px;line-height:0%;stroke-width:1.00559568"
+           x="407.5076"
+           y="-705.59265">
           <tspan
              id="tspan5615"
              font-size="8.9663px"
-             y="0"
-             x="0 4.9493976"
-             font-family="AdvP47D4A3"
-             fill="#231f20">1,</tspan>
+             y="-705.59265"
+             x="407.5076 412.48471"
+             style="font-size:9.01647282px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.00559568">1,</tspan>
         </text>
         <text
            id="text5617"
-           transform="matrix(1 0 0 -1 412.67 618.29)">
+           transform="scale(1,-1)"
+           style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672"
+           x="440.18134"
+           y="-659.50934">
           <tspan
              id="tspan5619"
              font-size="11.955px"
-             y="0"
-             x="0"
-             font-family="AdvP47D4A3"
-             fill="#231f20">*</tspan>
+             y="-659.50934"
+             x="440.18134"
+             style="font-size:12.75199986px;font-family:AdvP47D4A3;fill:#231f20;stroke-width:1.06666672">*</tspan>
         </text>
         <text
            id="text5621"
-           transform="matrix(1 0 0 -.88881 55.786 599.07)">
+           transform="scale(1.0607072,-0.9427672)"
+           style="font-size:12.06742001px;line-height:0%;stroke-width:1.00561833"
+           x="56.099426"
+           y="-677.80042">
           <tspan
              id="tspan5623"
              font-size="7.4718px"
-             y="0"
-             x="0"
-             font-family="AdvP47DFC8"
-             fill="#231f20">1</tspan>
+             y="-677.80042"
+             x="56.099426"
+             style="font-size:7.51377916px;font-family:AdvP47DFC8;fill:#231f20;stroke-width:1.00561833">1</tspan>
         </text>
         <text
            id="text5625"
            font-size="9.9626px"
-           transform="matrix(1 0 0 -1 59.924 594.65)"
-           font-family="AdvP47DFC8"
-           fill="#231f20">
+           transform="scale(1,-1)"
+           style="font-size:10.62677288px;line-height:0%;font-family:AdvP47DFC8;fill:#231f20;stroke-width:1.06666672"
+           x="63.918934"
+           y="-634.29333">
           <tspan
              id="tspan5627"
-             y="0"
-             x="0 7.5715761 16.079636 18.251484 23.641251 32.597626 39.023502 44.413269 46.585117 51.974884 57.474239 62.864006 72.281654 79.434799 84.824562 90.323921 93.432251 98.822021 102.13956 108.96095 115.80526 118.39554 125.03063 131.14766 142.3526 148.77847 154.47708 159.65764 165.35625 170.85561 176.24536 184.75343 194.16908 196.75935 202.25871 207.24001 210.34834 212.52019 215.62852 221.12788 224.23621 229.62598 236.40453 241.90388 245.73949 251.23885 255.07445 260.57379 270.08011 276.50598 282.00534 287.39511 292.89447 295.06631 298.38385 304.08246 307.91806 313.30783 318.80719 324.5058 331.36404 337.06265 342.04395 347.5433 350.86084 356.3602 364.86826 367.04013 370.87573 376.05627 381.55563 388.39594 394.82181 400.52042 405.70099 411.3996 416.89896 422.2887 430.79678 436.18652 442.98999 449.62509 455.01486 460.51422 465.90399 471.6026 476.99234 484.56393">OmicsScienceCenter,RIKENYokohamaInstitute,1-7-22Suehiro-cho,Tsurumi-ku,Yokohama,Kanagawa</tspan>
+             y="-634.29333"
+             x="63.918934 71.995277 81.070541 83.387184 89.136269 98.689735 105.544 111.29308 113.60973 119.35881 125.22478 130.97388 141.01936 148.64938 154.39847 160.26445 163.58 169.32909 172.8678 180.14395 187.44455 190.2075 197.28494 203.80977 215.7617 222.61597 228.69449 234.22041 240.29893 246.16492 251.91399 260.98926 271.03262 273.79556 279.66156 284.97495 288.2905 290.60715 293.9227 299.78867 303.10422 308.8533 316.08377 321.94974 326.04105 331.90704 335.99835 341.86432 352.00439 358.85864 364.72464 370.47372 376.33969 378.65634 382.19504 388.27356 392.36487 398.11395 403.97995 410.05844 417.3739 423.45242 428.76581 434.63181 438.1705 444.03647 453.11172 455.42841 459.51971 465.04562 470.91162 478.20792 485.06219 491.14072 496.66666 502.74518 508.61115 514.36023 523.43549 529.18457 536.44159 543.51904 549.26813 555.13409 560.88318 566.96173 572.71075 580.78711"
+             style="stroke-width:1.06666672">OmicsScienceCenter,RIKENYokohamaInstitute,1-7-22Suehiro-cho,Tsurumi-ku,Yokohama,Kanagawa</tspan>
           <tspan
              id="tspan5629"
-             y="11.962094"
-             x="-4.138464 1.3608911 6.8602462 12.359602 16.195202 21.694557 27.193913 32.693268 38.192623 45.014015 50.194569 55.584335 61.492157 66.88192 76.364326 81.754089 87.253448">230-0045,Japanand</tspan>
+             y="-621.53375"
+             x="59.50457 65.370552 71.236526 77.102509 81.193817 87.059792 92.925774 98.791756 104.65773 111.93388 117.45981 123.20889 129.51057 135.25964 145.37422 151.12329 156.98927"
+             style="stroke-width:1.06666672">230-0045,Japanand</tspan>
         </text>
         <text
            id="text5631"
-           transform="matrix(1 0 0 -.88881 157.1 587.11)">
+           transform="scale(1.0607072,-0.9427672)"
+           style="font-size:12.06742001px;line-height:0%;stroke-width:1.00561833"
+           x="157.98264"
+           y="-664.26862">
           <tspan
              id="tspan5633"
              font-size="7.4718px"
-             y="0"
-             x="0"
-             font-family="AdvP47DFC8"
-             fill="#231f20">2</tspan>
+             y="-664.26862"
+             x="157.98264"
+             style="font-size:7.51377916px;font-family:AdvP47DFC8;fill:#231f20;stroke-width:1.00561833">2</tspan>
         </text>
         <text
            id="text5635"
            font-size="9.9626px"
-           transform="matrix(1 0 0 -1 161.23 582.69)"
-           font-family="AdvP47DFC8"
-           fill="#231f20">
+           transform="scale(1,-1)"
+           style="font-size:10.62677288px;line-height:0%;font-family:AdvP47DFC8;fill:#231f20;stroke-width:1.06666672"
+           x="171.97867"
+           y="-621.53601">
           <tspan
              id="tspan5637"
-             y="0"
-             x="0 6.4258771 11.815643 17.20541 20.313742 26.012348 33.334858 39.033466 45.920612 53.073757 58.463524 63.962879 67.280426 72.979034 78.886856 81.058701 86.757309 88.929153 94.627762 100.32637 105.30767 112.19382 114.7841 120.28345 123.39178 128.78156 132.09909 137.59845 142.98822 146.09654 148.2684 153.967 159.46635 164.85612 171.09669 177.52257 182.91234 188.4117 194.11031 199.80891 205.96281 208.86192 214.56053 221.89301 228.31888 234.2267 239.20801 244.59776 250.09712 255.48689 260.87665 270.81833 277.2442 280.35254 285.8519 291.75974 293.93158 299.32135 308.34845 310.93872 317.36459 319.95486 326.38077 332.80664 339.23251 341.82278 348.65613 353.63742 355.80927 365.1532 371.9975 377.69611 383.19547 388.89407 397.40213 402.7919">SectorofNeurobiology,InternationalSchoolforAdvancedStudies(SISSA),viaBonomea</tspan>
+             y="-621.53601"
+             x="171.97867 178.83293 184.58202 190.3311 193.64665 199.72517 207.53584 213.61436 220.96065 228.59067 234.33975 240.20573 243.74446 249.82297 256.12463 258.44128 264.51981 266.83643 272.91495 278.99347 284.30685 291.65207 294.41504 300.28101 303.59656 309.34567 312.88437 318.75034 324.49942 327.81497 330.13162 336.21011 342.07611 347.8252 354.48181 361.33606 367.08517 372.95114 379.02966 385.10818 391.67233 394.76471 400.84323 408.66455 415.5188 421.82047 427.13388 432.88293 438.74893 444.49802 450.2471 460.85156 467.70581 471.02136 476.88736 483.18906 485.50568 491.25476 500.88367 503.64664 510.50089 513.26385 520.11816 526.97241 533.82666 536.58966 543.87854 549.19189 551.50854 561.4754 568.776 574.85449 580.72052 586.79901 595.87427 601.62335"
+             style="stroke-width:1.06666672">SectorofNeurobiology,InternationalSchoolforAdvancedStudies(SISSA),viaBonomea</tspan>
           <tspan
              id="tspan5639"
-             y="11.962094"
-             x="-105.44814 -99.948792 -94.449432 -88.950081 -82.147614 -76.648262 -71.148903 -65.649551 -60.150192 -50.683731 -44.985123 -41.66758 -39.495731 -34.105965 -29.124664 -26.016335 -20.626568 -13.77728 -11.187003 -8.0786724 -2.6889057 -0.51705897">265,34134Trieste,Italy</tspan>
+             y="-608.77643"
+             x="59.500648 65.366623 71.232605 77.098579 84.354546 90.22052 96.086502 101.95248 107.81846 117.91602 123.99454 127.53325 129.84988 135.59897 140.91235 144.22791 149.97699 157.2829 160.04587 163.36142 169.1105 171.42714"
+             style="stroke-width:1.06666672">265,34134Trieste,Italy</tspan>
         </text>
         <text
            id="text5641"
-           transform="matrix(1 0 0 -1 55.786 546.8)">
+           transform="scale(1,-1)"
+           style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672"
+           x="59.505066"
+           y="-583.25336">
           <tspan
              id="tspan5643"
              font-size="7.9702px"
-             y="0"
-             x="0 5.4755273 9.787406 14.099284 18.411161 20.148666 24.133766 28.445644 36.397511 43.371437 47.683315 50.337391 54.649269 62.249653 66.6492 71.048752 76.479645 80.879196 85.278748 89.678299 94.07785 99.496788 104.97231 109.28419 113.26929 115.0068 118.9919 123.30378 131.24529 136.38606 140.69794 145.42427 147.91096 152.22285 159.0294 163.75572 168.06761 173.99185 178.3914 182.79095 188.22185 192.6214 197.02095 201.4205 205.82005 211.23979 216.38057 220.69244 225.00432 229.31621 234.04253 236.52924 240.84111 248.77066 254.82802 259.13989 261.62659 266.18555 270.91187 275.22375 281.14243 285.54199 289.94153 295.37244 299.77197 304.17154 308.57108"
-             font-family="AdvP47DFC8"
-             fill="#231f20">ReceivedMarch13,2012;RevisedSeptember27,2012;AcceptedOctober23,2012</tspan>
+             y="-583.25336"
+             x="59.505066 65.345627 69.944969 74.544304 79.143639 80.996979 85.247749 89.847084 98.329079 105.76793 110.36727 113.19828 117.79762 125.90469 130.59755 135.29041 141.08336 145.77621 150.46907 155.16193 159.85477 165.63498 171.47554 176.07486 180.32564 182.17899 186.42976 191.0291 199.50003 204.98354 209.58287 214.62428 217.27676 221.87611 229.13643 234.17784 238.77719 245.09637 249.78923 254.48209 260.27502 264.9679 269.66074 274.35361 279.04645 284.82751 290.311 294.91034 299.50967 304.10901 309.15042 311.80292 316.40225 324.86044 331.32162 335.92096 338.57343 343.43631 348.47772 353.07706 359.39032 364.08319 368.77603 374.569 379.26184 383.95471 388.64755"
+             style="font-size:8.50154686px;font-family:AdvP47DFC8;fill:#231f20;stroke-width:1.06666672">ReceivedMarch13,2012;RevisedSeptember27,2012;AcceptedOctober23,2012</tspan>
         </text>
         <text
            id="text5885"
-           transform="matrix(1 0 0 -1 55.786 751.97)">
+           transform="scale(1,-1)"
+           style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672"
+           x="59.505066"
+           y="-802.10132">
           <tspan
              id="tspan5887"
              font-size="9.9626px"
-             y="0"
-             x="0 6.6350918 11.616391 16.597692 19.287594 21.977495 25.813097 30.794397 35.148052 44.163208 49.144508 54.125809 56.815712 59.505615 64.486916 72.849518 77.830818 86.796165 94.467369 99.448669 103.80232 108.15598 115.82718 120.80848 125.16214 132.99971 137.98102 142.96231 147.94362 294.00629 301.67749 306.65878 311.01245 313.70236 318.056 320.74591 329.09854 336.25171 340.60535 343.29526 348.27655 356.14102 363.29419 367.64783 371.48343 375.8371 380.81839 384.65399 389.00766 393.98895 400.70074 405.68207 410.66336 415.64465 420.62595 427.28894 434.44208 439.4234 442.11328 448.83206 453.81335 458.79468 465.44272 473.11392 478.09521 484.83191"
-             font-family="AdvTimes"
-             fill="#231f20">Publishedonline24November2012NucleicAcidsResearch,2013,Vol.41,No.3</tspan>
+             y="-802.10132"
+             x="59.505066 66.582497 71.895882 77.209274 80.078499 82.947731 87.03904 92.352425 96.996323 106.61249 111.92587 117.23927 120.10849 122.97772 128.29111 137.21121 142.52461 152.08765 160.27026 165.58365 170.22754 174.87144 183.05406 188.36745 193.01135 201.37143 206.68481 211.9982 217.3116 373.11179 381.2944 386.60776 391.25168 394.12091 398.7648 401.63403 410.54352 418.17355 422.81744 425.68668 431.00006 439.38882 447.01886 451.66275 455.75406 460.39798 465.71133 469.80264 474.44656 479.75995 486.91919 492.2326 497.54599 502.85938 508.17273 515.27991 522.90997 528.22339 531.09259 538.25928 543.57263 548.88605 555.97729 564.15991 569.47327 576.65912"
+             style="font-size:10.62677288px;font-family:AdvTimes;fill:#231f20;stroke-width:1.06666672">Publishedonline24November2012NucleicAcidsResearch,2013,Vol.41,No.3</tspan>
         </text>
         <text
            id="text5889"
-           transform="matrix(1 0 0 -1 555.53 751.97)">
+           transform="scale(1,-1)"
+           style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672"
+           x="592.56531"
+           y="-802.10132">
           <tspan
              id="tspan5891"
              font-size="9.9626px"
-             y="0"
-             x="0 4.3536563 9.3349562"
-             font-family="AdvTimes"
-             fill="#231f20">e44</tspan>
+             y="-802.10132"
+             x="592.56531 597.20923 602.52264"
+             style="font-size:10.62677288px;font-family:AdvTimes;fill:#231f20;stroke-width:1.06666672">e44</tspan>
         </text>
         <text
            id="text5893"
-           transform="matrix(1 0 0 -1 466.81 741.03)">
+           transform="scale(1,-1)"
+           style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672"
+           x="497.93066"
+           y="-790.43201">
           <tspan
              id="tspan5895"
              font-size="9.9626px"
-             y="0"
-             x="0 4.9812999 9.9625998 12.652502 15.970048 20.951347 25.932648 28.622549 33.603851 38.585152 43.566448 48.547749 51.865295 56.846596 61.827896 65.663498 68.981041 73.962341 79.25248 83.088081 88.069382 93.050682 98.031982"
-             font-family="AdvTimes"
-             fill="#231f20">doi:10.1093/nar/gks1128</tspan>
+             y="-790.43201"
+             x="497.93066 503.24405 508.55743 511.42667 514.96539 520.27875 525.59216 528.46136 533.77478 539.08813 544.40155 549.7149 553.25366 558.56702 563.88043 567.97174 571.51044 576.82385 582.46667 586.55798 591.87134 597.18475 602.49811"
+             style="font-size:10.62677288px;font-family:AdvTimes;fill:#231f20;stroke-width:1.06666672">doi:10.1093/nar/gks1128</tspan>
         </text>
       </g>
     </g>
     <g
        id="g8138"
-       transform="matrix(0.69489,0,0,-0.69489,360.33,1123)">
+       transform="matrix(0.69489,0,0,-0.69489,384.352,1197.8667)">
       <text
          id="text8144"
          font-size="14px"
          font-weight="bold"
          transform="scale(1,-1)"
-         y="-397.68597"
-         x="-461.38791"
-         style="font-size:14px;font-weight:bold;fill:#000000;font-family:Helvetica">
+         y="-424.19836"
+         x="-492.14709"
+         style="font-weight:bold;font-size:14.9333334px;line-height:0%;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">
         <tspan
            id="tspan8146"
-           y="-397.68597"
-           x="-461.38791 -452.83389 -448.94189 -440.38791 -432.60391 -428.71191 -420.1579 -411.60391 -407.71191 -399.1579 -393.71188 -385.1579 -372.71188 -364.1579 -359.49591 -351.71188 -346.2659 -338.4819 -334.5899 -329.92789 -321.3739 -317.4819 -312.81992 -304.2659 -295.71191 -287.92789 -283.2659 -279.3739 -270.81992 -262.2659 -254.48189 -250.58989 -246.69789 -242.03589 -236.58989 -228.80589 -220.25189 -212.4679 -204.68388 -199.2379 -195.3459 -186.79189 -182.1299 -174.3459 -170.4539 -166.5619 -158.00789 -154.11589 -146.33189 -133.88588 -126.10189 -122.20989 -118.31789 -114.4259 -106.6419 -98.857903 -86.411888 -77.857903 -73.965904 -66.181908">Linking promoters to functional transcripts in small samples</tspan>
+           y="-424.19836"
+           x="-492.14709 -483.02283 -478.87137 -469.7471 -461.44418 -457.29269 -448.16843 -439.04416 -434.8927 -425.76843 -419.95935 -410.83508 -397.55936 -388.43509 -383.46231 -375.15933 -369.35028 -361.04736 -356.8959 -351.92307 -342.79883 -338.64737 -333.67459 -324.55029 -315.42606 -307.12308 -302.1503 -297.99884 -288.87457 -279.75031 -271.44736 -267.29587 -263.14441 -258.1716 -252.36255 -244.05962 -234.93535 -226.63242 -218.32948 -212.52043 -208.36896 -199.24467 -194.2719 -185.96896 -181.81749 -177.66603 -168.54175 -164.39029 -156.08736 -142.8116 -134.50868 -130.35722 -126.20574 -122.0543 -113.75136 -105.44843 -92.172684 -83.048431 -78.896965 -70.594032"
+           style="stroke-width:1.06666672">Linking promoters to functional transcripts in small samples</tspan>
         <tspan
            id="tspan8148"
-           y="-377.68597"
-           x="-461.38791 -450.49591 -446.60391 -441.94189 -433.38791 -429.49591 -420.94189 -413.1579 -404.60391 -396.0499 -385.94189 -375.83389 -364.94189 -355.60391 -351.71188 -343.92789 -335.3739 -326.81992 -322.92789 -312.81992 -302.71191 -291.81992 -282.4819 -274.69791 -266.91391 -259.12991">with nanoCAGE and CAGEscan</tspan>
+           y="-402.86505"
+           x="-492.14709 -480.52896 -476.3775 -471.40469 -462.28043 -458.12897 -449.0047 -440.70175 -431.57751 -422.45322 -411.67136 -400.8895 -389.27136 -379.31085 -375.15933 -366.85641 -357.73215 -348.60791 -344.45642 -333.67459 -322.8927 -311.27457 -301.31403 -293.01111 -284.70816 -276.40524"
+           style="stroke-width:1.06666672">with nanoCAGE and CAGEscan</tspan>
       </text>
       <text
          id="text8150"
-         y="-350.83832"
-         x="-461.38791"
-         transform="scale(1,-1)">
+         y="-374.22754"
+         x="-492.14709"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8152"
            font-weight="bold"
            font-size="10px"
-           y="-350.83832"
-           x="-461.38791 -454.16791 -448.05789 -442.49789 -438.60791 -435.82791 -430.26791 -424.70789 -421.92789 -415.2579 -412.47791 -406.91791 -401.35791 -395.79791"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Charles Plessy</tspan>
+           y="-374.22754"
+           x="-492.14709 -484.44577 -477.92841 -471.99774 -467.84845 -464.88312 -458.95245 -453.02176 -450.05643 -442.94177 -439.97644 -434.04578 -428.11511 -422.18445"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Charles Plessy</tspan>
       </text>
       <text
          id="text8154"
-         y="-354.17166"
-         x="-390.23068"
-         transform="scale(1,-1)">
+         y="-377.78311"
+         x="-416.24606"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8156"
            font-size="8px"
-           y="-354.17166"
-           x="-390.23068 -385.78268 -383.55869 -379.11066"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">1,10</tspan>
+           y="-377.78311"
+           x="-416.24606 -411.50153 -409.12927 -404.3847"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">1,10</tspan>
       </text>
       <text
          id="text8158"
-         y="-350.83832"
-         x="-374.66037"
-         transform="scale(1,-1)">
+         y="-374.22754"
+         x="-399.63773"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8160"
            font-size="10px"
-           y="-350.83832"
-           x="-374.66037 -371.88037"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-374.22754"
+           x="-399.63773 -396.67239"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8162"
-         y="-350.83832"
-         x="-369.10373"
-         transform="scale(1,-1)">
+         y="-374.22754"
+         x="-393.71063"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8164"
            font-weight="bold"
            font-size="10px"
-           y="-350.83832"
-           x="-369.10373 -361.88373 -359.10373 -353.54373 -347.43372 -344.65372 -339.09372 -333.53372 -330.75372 -323.53372 -317.97372 -314.08371 -310.75372 -307.97372"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Nicolas Bertin</tspan>
+           y="-374.22754"
+           x="-393.71063 -386.00931 -383.04398 -377.11331 -370.59598 -367.63065 -361.69998 -355.76932 -352.80399 -345.10263 -339.17197 -335.02261 -331.47064 -328.50531"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Nicolas Bertin</tspan>
       </text>
       <text
          id="text8166"
-         y="-354.17166"
-         x="-301.86252"
-         transform="scale(1,-1)">
+         y="-377.78311"
+         x="-321.98669"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8168"
            font-size="8px"
-           y="-354.17166"
-           x="-301.86252 -297.41452 -295.19052 -290.74252"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">1,10</tspan>
+           y="-377.78311"
+           x="-321.98669 -317.24216 -314.8699 -310.12537"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">1,10</tspan>
       </text>
       <text
          id="text8170"
-         y="-350.83832"
-         x="-286.29221"
-         transform="scale(1,-1)">
+         y="-374.22754"
+         x="-305.37836"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8172"
            font-size="10px"
-           y="-350.83832"
-           x="-286.29221 -283.51221"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-374.22754"
+           x="-305.37836 -302.41302"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8174"
-         y="-350.83832"
-         x="-280.73557"
-         transform="scale(1,-1)">
+         y="-374.22754"
+         x="-299.45126"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8176"
            font-weight="bold"
            font-size="10px"
-           y="-350.83832"
-           x="-280.73557 -273.51556 -267.95557 -262.95557 -256.84555 -251.28555 -248.50555 -245.72556 -239.61555 -234.05556 -228.49556 -222.93556 -216.82556 -211.26556 -205.70557 -199.59557"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Hazuki Takahashi</tspan>
+           y="-374.22754"
+           x="-299.45126 -291.74994 -285.81927 -280.48593 -273.9686 -268.03793 -265.0726 -262.10727 -255.58992 -249.65926 -243.72859 -237.79793 -231.28059 -225.34993 -219.41927 -212.90193"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Hazuki Takahashi</tspan>
       </text>
       <text
          id="text8178"
-         y="-354.17166"
-         x="-196.81467"
-         transform="scale(1,-1)">
+         y="-377.78311"
+         x="-209.93564"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8180"
            font-size="8px"
-           y="-354.17166"
-           x="-196.81467 -192.36665 -190.14265 -185.69466"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">1,10</tspan>
+           y="-377.78311"
+           x="-209.93564 -205.1911 -202.81883 -198.0743"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">1,10</tspan>
       </text>
       <text
          id="text8182"
-         y="-350.83832"
-         x="-181.24435"
-         transform="scale(1,-1)">
+         y="-374.22754"
+         x="-193.32732"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8184"
            font-size="10px"
-           y="-350.83832"
-           x="-181.24435 -178.46436"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-374.22754"
+           x="-193.32732 -190.36198"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8186"
-         y="-350.83832"
-         x="-175.68771"
-         transform="scale(1,-1)">
+         y="-374.22754"
+         x="-187.40022"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8188"
            font-weight="bold"
            font-size="10px"
-           y="-350.83832"
-           x="-175.68771 -168.46771 -162.35771 -156.24771 -150.68771 -146.79771 -143.46771 -137.35771 -134.57771 -127.90771 -125.12771 -116.23771 -110.12772 -104.01772"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Roberto Simone</tspan>
+           y="-374.22754"
+           x="-187.40022 -179.6989 -173.18156 -166.66423 -160.73357 -156.58423 -153.03223 -146.51489 -143.54956 -136.43489 -133.46956 -123.98689 -117.46957 -110.95224"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Roberto Simone</tspan>
       </text>
       <text
          id="text8190"
-         y="-354.17166"
-         x="-98.461151"
-         transform="scale(1,-1)">
+         y="-377.78311"
+         x="-105.02523"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8192"
            font-size="8px"
-           y="-354.17166"
-           x="-98.461151 -94.013153 -91.789146 -87.341148"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">2,10</tspan>
+           y="-377.78311"
+           x="-105.02523 -100.28069 -97.908424 -93.163895"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">2,10</tspan>
       </text>
       <text
          id="text8194"
-         y="-350.83832"
-         x="-82.890839"
-         transform="scale(1,-1)">
+         y="-374.22754"
+         x="-88.416893"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8196"
            font-size="10px"
-           y="-350.83832"
-           x="-82.890839 -80.11084"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-374.22754"
+           x="-88.416893 -85.451561"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8198"
          font-size="10px"
          font-weight="bold"
          transform="scale(1,-1)"
-         y="-350.83832"
-         x="-77.334198"
-         style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">
+         y="-374.22754"
+         x="-82.489815"
+         style="font-weight:bold;font-size:10.66666698px;line-height:0%;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">
         <tspan
            id="tspan8200"
-           y="-350.83832"
-           x="-77.334198 -69.004204 -62.894199">Md.</tspan>
+           y="-374.22754"
+           x="-82.489815 -73.604485 -67.087143"
+           style="stroke-width:1.06666672">Md.</tspan>
         <tspan
            id="tspan8202"
-           y="-338.83832"
-           x="-461.38791 -454.7179 -449.1579 -446.3779 -443.5979 -434.70792 -428.5979 -425.8179 -423.0379 -417.47791">Salimullah</tspan>
+           y="-361.42755"
+           x="-492.14709 -485.03241 -479.10175 -476.13641 -473.17108 -463.68845 -457.17108 -454.20575 -451.24042 -445.30975"
+           style="stroke-width:1.06666672">Salimullah</tspan>
       </text>
       <text
          id="text8204"
-         y="-342.17166"
-         x="-411.37326"
-         transform="scale(1,-1)">
+         y="-364.98309"
+         x="-438.79816"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8206"
            font-size="8px"
-           y="-342.17166"
-           x="-411.37326"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">1</tspan>
+           y="-364.98309"
+           x="-438.79816"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">1</tspan>
       </text>
       <text
          id="text8208"
-         y="-338.83832"
-         x="-406.92404"
-         transform="scale(1,-1)">
+         y="-361.42755"
+         x="-434.05231"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8210"
            font-size="10px"
-           y="-338.83832"
-           x="-406.92404 -404.14404"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-361.42755"
+           x="-434.05231 -431.08698"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8212"
-         y="-338.83832"
-         x="-401.3674"
-         transform="scale(1,-1)">
+         y="-361.42755"
+         x="-428.12521"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8214"
            font-weight="bold"
            font-size="10px"
-           y="-338.83832"
-           x="-401.3674 -395.25739 -392.47739 -383.5874 -377.47739 -374.69739 -368.5874 -363.0274 -357.46741 -351.90741 -343.0174 -337.4574 -331.34741"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Timo Lassmann</tspan>
+           y="-361.42755"
+           x="-428.12521 -421.60788 -418.64255 -409.15988 -402.64255 -399.67722 -393.15988 -387.22922 -381.29855 -375.36789 -365.88522 -359.95456 -353.43723"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Timo Lassmann</tspan>
       </text>
       <text
          id="text8216"
-         y="-342.17166"
-         x="-325.23947"
-         transform="scale(1,-1)">
+         y="-364.98309"
+         x="-346.92209"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8218"
            font-size="8px"
-           y="-342.17166"
-           x="-325.23947"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">1</tspan>
+           y="-364.98309"
+           x="-346.92209"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">1</tspan>
       </text>
       <text
          id="text8220"
-         y="-338.83832"
-         x="-320.79025"
-         transform="scale(1,-1)">
+         y="-361.42755"
+         x="-342.17627"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8222"
            font-size="10px"
-           y="-338.83832"
-           x="-320.79025 -318.01025"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-361.42755"
+           x="-342.17627 -339.21094"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8224"
-         y="-338.83832"
-         x="-315.23361"
-         transform="scale(1,-1)">
+         y="-361.42755"
+         x="-336.24918"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8226"
            font-weight="bold"
            font-size="10px"
-           y="-338.83832"
-           x="-315.23361 -306.90359 -300.79361 -296.90359 -291.3436 -285.23361 -279.67361 -276.89362 -270.2236 -267.4436 -264.11362 -258.55362 -253.5536 -250.77361"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Morana Vitezic</tspan>
+           y="-361.42755"
+           x="-336.24918 -327.36383 -320.84653 -316.69717 -310.76651 -304.24918 -298.31851 -295.35318 -288.23849 -285.27316 -281.72119 -275.79053 -270.45718 -267.49185"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Morana Vitezic</tspan>
       </text>
       <text
          id="text8228"
-         y="-342.17166"
-         x="-245.21408"
-         transform="scale(1,-1)">
+         y="-364.98309"
+         x="-261.56168"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8230"
            font-size="8px"
-           y="-342.17166"
-           x="-245.21408 -240.76608 -238.54208"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">1,3</tspan>
+           y="-364.98309"
+           x="-261.56168 -256.81717 -254.44489"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">1,3</tspan>
       </text>
       <text
          id="text8232"
-         y="-338.83832"
-         x="-234.09299"
-         transform="scale(1,-1)">
+         y="-361.42755"
+         x="-249.69919"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8234"
            font-size="10px"
-           y="-338.83832"
-           x="-234.09299 -231.31299"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-361.42755"
+           x="-249.69919 -246.73386"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8236"
-         y="-338.83832"
-         x="-228.53635"
-         transform="scale(1,-1)">
+         y="-361.42755"
+         x="-243.77211"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8238"
            font-weight="bold"
            font-size="10px"
-           y="-338.83832"
-           x="-228.53635 -222.97635 -217.41635 -211.85635 -206.29636 -203.51634 -197.95634 -192.39635 -189.61635 -182.94635 -177.38635 -171.82635 -166.26634 -162.37634 -159.59634"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Jessica Severin</tspan>
+           y="-361.42755"
+           x="-243.77211 -237.84145 -231.91078 -225.98012 -220.04945 -217.08409 -211.15343 -205.22276 -202.25743 -195.14278 -189.21211 -183.28145 -177.35077 -173.20143 -170.2361"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Jessica Severin</tspan>
       </text>
       <text
          id="text8240"
-         y="-342.17166"
-         x="-153.47775"
-         transform="scale(1,-1)">
+         y="-364.98309"
+         x="-163.70961"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8242"
            font-size="8px"
-           y="-342.17166"
-           x="-153.47775"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">1</tspan>
+           y="-364.98309"
+           x="-163.70961"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">1</tspan>
       </text>
       <text
          id="text8244"
-         y="-338.83832"
-         x="-149.02853"
-         transform="scale(1,-1)">
+         y="-361.42755"
+         x="-158.96378"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8246"
            font-size="10px"
-           y="-338.83832"
-           x="-149.02853 -146.24854"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-361.42755"
+           x="-158.96378 -155.99844"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8248"
-         y="-338.83832"
-         x="-143.47189"
-         transform="scale(1,-1)">
+         y="-361.42755"
+         x="-153.03668"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8250"
            font-weight="bold"
            font-size="10px"
-           y="-338.83832"
-           x="-143.47189 -136.8019 -134.0219 -127.9119 -121.8019 -116.2419 -113.4619 -105.6819 -102.9019 -100.1219 -94.561897 -89.0019 -85.1119 -82.331902 -76.221901"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Signe Olivarius</tspan>
+           y="-361.42755"
+           x="-153.03668 -145.92203 -142.9567 -136.43936 -129.92203 -123.99136 -121.02602 -112.72736 -109.76203 -106.7967 -100.86602 -94.935356 -90.786026 -87.820694 -81.30336"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Signe Olivarius</tspan>
       </text>
       <text
          id="text8252"
-         y="-342.17166"
-         x="-70.669167"
-         transform="scale(1,-1)">
+         y="-364.98309"
+         x="-75.380447"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8254"
            font-size="8px"
-           y="-342.17166"
-           x="-70.669167 -66.221169 -63.997169"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">1,8</tspan>
+           y="-364.98309"
+           x="-75.380447 -70.63591 -68.263649"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">1,8</tspan>
       </text>
       <text
          id="text8256"
-         y="-338.83832"
-         x="-59.54808"
-         transform="scale(1,-1)">
+         y="-361.42755"
+         x="-63.517952"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8258"
            font-size="10px"
-           y="-338.83832"
-           x="-59.54808"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-361.42755"
+           x="-63.517952"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8260"
-         y="-326.83832"
-         x="-461.38791"
-         transform="scale(1,-1)">
+         y="-348.62753"
+         x="-492.14709"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8262"
            font-weight="bold"
            font-size="10px"
-           y="-326.83832"
-           x="-461.38791 -454.16791 -448.60791 -445.82791 -440.26791 -434.15793 -431.37793 -425.26791 -419.70792 -414.70792 -409.14792 -405.2579 -399.69791 -394.13791 -391.35791"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Dejan Lazarevic</tspan>
+           y="-348.62753"
+           x="-492.14709 -484.44577 -478.51511 -475.54977 -469.61911 -463.10178 -460.13644 -453.61911 -447.68845 -442.3551 -436.42444 -432.27509 -426.34442 -420.41376 -417.44843"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Dejan Lazarevic</tspan>
       </text>
       <text
          id="text8264"
-         y="-330.17166"
-         x="-385.79221"
-         transform="scale(1,-1)">
+         y="-352.18311"
+         x="-411.51169"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8266"
            font-size="8px"
-           y="-330.17166"
-           x="-385.79221"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">2</tspan>
+           y="-352.18311"
+           x="-411.51169"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">2</tspan>
       </text>
       <text
          id="text8268"
-         y="-326.83832"
-         x="-381.34299"
-         transform="scale(1,-1)">
+         y="-348.62753"
+         x="-406.76584"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8270"
            font-size="10px"
-           y="-326.83832"
-           x="-381.34299 -378.56299"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-348.62753"
+           x="-406.76584 -403.80051"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8272"
-         y="-326.83832"
-         x="-375.78635"
-         transform="scale(1,-1)">
+         y="-348.62753"
+         x="-400.83878"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8274"
            font-weight="bold"
            font-size="10px"
-           y="-326.83832"
-           x="-375.78635 -368.56635 -363.00635 -356.89636 -354.11636 -348.00635 -342.44635 -339.66635 -332.44635 -326.33636 -322.44635 -316.33636 -313.55637"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Nadine Hornig</tspan>
+           y="-348.62753"
+           x="-400.83878 -393.13742 -387.20676 -380.68945 -377.72412 -371.20676 -365.27609 -362.31076 -354.60944 -348.09213 -343.94278 -337.42545 -334.46011"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Nadine Hornig</tspan>
       </text>
       <text
          id="text8276"
-         y="-330.17166"
-         x="-307.45139"
-         transform="scale(1,-1)">
+         y="-352.18311"
+         x="-327.94815"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8278"
            font-size="8px"
-           y="-330.17166"
-           x="-307.45139"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">7</tspan>
+           y="-352.18311"
+           x="-327.94815"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">7</tspan>
       </text>
       <text
          id="text8280"
-         y="-326.83832"
-         x="-303.00217"
-         transform="scale(1,-1)">
+         y="-348.62753"
+         x="-323.2023"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8282"
            font-size="10px"
-           y="-326.83832"
-           x="-303.00217 -300.22217"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-348.62753"
+           x="-323.2023 -320.23697"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8284"
-         y="-326.83832"
-         x="-297.44553"
-         transform="scale(1,-1)">
+         y="-348.62753"
+         x="-317.27524"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8286"
            font-weight="bold"
            font-size="10px"
-           y="-326.83832"
-           x="-297.44553 -290.77554 -285.21555 -282.43555 -276.87555 -272.98553 -270.20554 -264.09555 -261.31555 -253.53554 -249.64554 -246.86554 -241.30554 -235.19554 -229.08554"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Valerio Orlando</tspan>
+           y="-348.62753"
+           x="-317.27524 -310.16058 -304.22992 -301.26459 -295.33392 -291.18457 -288.21924 -281.70193 -278.7366 -270.4379 -266.28857 -263.32324 -257.39258 -250.87524 -244.35791"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Valerio Orlando</tspan>
       </text>
       <text
          id="text8288"
-         y="-330.17166"
-         x="-222.98265"
-         transform="scale(1,-1)">
+         y="-352.18311"
+         x="-237.84816"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8290"
            font-size="8px"
-           y="-330.17166"
-           x="-222.98265"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">7</tspan>
+           y="-352.18311"
+           x="-237.84816"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">7</tspan>
       </text>
       <text
          id="text8292"
-         y="-326.83832"
-         x="-218.53343"
-         transform="scale(1,-1)">
+         y="-348.62753"
+         x="-233.10233"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8294"
            font-size="10px"
-           y="-326.83832"
-           x="-218.53343 -215.75343"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-348.62753"
+           x="-233.10233 -230.13699"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8296"
-         y="-326.83832"
-         x="-212.97679"
-         transform="scale(1,-1)">
+         y="-348.62753"
+         x="-227.17525"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8298"
            font-weight="bold"
            font-size="10px"
-           y="-326.83832"
-           x="-212.97679 -210.19679 -204.6368 -198.52679 -195.7468 -188.52679 -182.9668 -180.18678"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Ian Bell</tspan>
+           y="-348.62753"
+           x="-227.17525 -224.20992 -218.27925 -211.76192 -208.79659 -201.09525 -195.16458 -192.19923"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Ian Bell</tspan>
       </text>
       <text
          id="text8300"
-         y="-330.17166"
-         x="-177.41039"
-         transform="scale(1,-1)">
+         y="-352.18311"
+         x="-189.23775"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8302"
            font-size="8px"
-           y="-330.17166"
-           x="-177.41039"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">4</tspan>
+           y="-352.18311"
+           x="-189.23775"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">4</tspan>
       </text>
       <text
          id="text8304"
-         y="-326.83832"
-         x="-172.96117"
-         transform="scale(1,-1)">
+         y="-348.62753"
+         x="-184.49191"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8306"
            font-size="10px"
-           y="-326.83832"
-           x="-172.96117 -170.18117"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-348.62753"
+           x="-184.49191 -181.52658"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8308"
-         y="-326.83832"
-         x="-167.40453"
-         transform="scale(1,-1)">
+         y="-348.62753"
+         x="-178.56483"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8310"
            font-weight="bold"
            font-size="10px"
-           y="-326.83832"
-           x="-167.40453 -160.18452 -154.07452 -151.29453 -148.51453 -140.73451 -135.17451"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Hui Gao</tspan>
+           y="-348.62753"
+           x="-178.56483 -170.86349 -164.34616 -161.38083 -158.4155 -150.11681 -144.18614"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Hui Gao</tspan>
       </text>
       <text
          id="text8312"
-         y="-330.17166"
-         x="-129.06956"
-         transform="scale(1,-1)">
+         y="-352.18311"
+         x="-137.67421"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8314"
            font-size="8px"
-           y="-330.17166"
-           x="-129.06956"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">4</tspan>
+           y="-352.18311"
+           x="-137.67421"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">4</tspan>
       </text>
       <text
          id="text8316"
-         y="-326.83832"
-         x="-124.62034"
-         transform="scale(1,-1)">
+         y="-348.62753"
+         x="-132.92836"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8318"
            font-size="10px"
-           y="-326.83832"
-           x="-124.62034 -121.84034"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-348.62753"
+           x="-132.92836 -129.96303"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8320"
          font-size="10px"
          font-weight="bold"
          transform="scale(1,-1)"
-         y="-326.83832"
-         x="-119.0637"
-         style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">
+         y="-348.62753"
+         x="-127.00127"
+         style="font-weight:bold;font-size:10.66666698px;line-height:0%;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">
         <tspan
            id="tspan8322"
-           y="-326.83832"
-           x="-119.0637 -113.5037 -107.9437 -102.3837 -96.273697 -90.163704 -84.603699 -81.8237 -79.043701 -72.933701">Jacqueline</tspan>
+           y="-348.62753"
+           x="-127.00127 -121.07061 -115.13995 -109.20927 -102.69194 -96.174614 -90.243942 -87.27861 -84.313278 -77.795944"
+           style="stroke-width:1.06666672">Jacqueline</tspan>
         <tspan
            id="tspan8324"
-           y="-314.83832"
-           x="-461.38791 -454.16791 -448.05792 -439.16791 -433.60791 -430.82791">Dumais</tspan>
+           y="-335.82755"
+           x="-492.14709 -484.44577 -477.92844 -468.44577 -462.51511 -459.54977"
+           style="stroke-width:1.06666672">Dumais</tspan>
       </text>
       <text
          id="text8326"
-         y="-318.17163"
-         x="-425.26486"
-         transform="scale(1,-1)">
+         y="-339.38309"
+         x="-453.61584"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8328"
            font-size="8px"
-           y="-318.17163"
-           x="-425.26486"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">4</tspan>
+           y="-339.38309"
+           x="-453.61584"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">4</tspan>
       </text>
       <text
          id="text8330"
-         y="-314.83832"
-         x="-420.81564"
-         transform="scale(1,-1)">
+         y="-335.82755"
+         x="-448.87003"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8332"
            font-size="10px"
-           y="-314.83832"
-           x="-420.81564 -418.03564"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-335.82755"
+           x="-448.87003 -445.90469"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8334"
-         y="-314.83832"
-         x="-415.259"
-         transform="scale(1,-1)">
+         y="-335.82755"
+         x="-442.94293"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8336"
            font-weight="bold"
            font-size="10px"
-           y="-314.83832"
-           x="-415.259 -408.58902 -402.479 -399.69901 -396.91901 -394.13901 -388.02902 -381.91901 -379.13901 -371.91901 -366.35901 -360.24902 -356.35901 -350.79901 -344.689 -338.57901"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Philipp Kapranov</tspan>
+           y="-335.82755"
+           x="-442.94293 -435.82828 -429.31094 -426.34561 -423.38028 -420.41495 -413.89761 -407.38028 -404.41495 -396.71359 -390.78293 -384.26562 -380.11627 -374.18561 -367.66827 -361.15094"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Philipp Kapranov</tspan>
       </text>
       <text
          id="text8338"
-         y="-318.17163"
-         x="-333.02756"
-         transform="scale(1,-1)">
+         y="-339.38309"
+         x="-355.2294"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8340"
            font-size="8px"
-           y="-318.17163"
-           x="-333.02756 -328.57956 -326.35556"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">4,9</tspan>
+           y="-339.38309"
+           x="-355.2294 -350.48486 -348.11261"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">4,9</tspan>
       </text>
       <text
          id="text8342"
-         y="-314.83832"
-         x="-321.90646"
-         transform="scale(1,-1)">
+         y="-335.82755"
+         x="-343.36688"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8344"
            font-size="10px"
-           y="-314.83832"
-           x="-321.90646 -319.12646"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-335.82755"
+           x="-343.36688 -340.40155"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8346"
-         y="-314.83832"
-         x="-316.34982"
-         transform="scale(1,-1)">
+         y="-335.82755"
+         x="-337.43982"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8348"
            font-weight="bold"
            font-size="10px"
-           y="-314.83832"
-           x="-316.34982 -309.12982 -303.01984 -297.45984 -294.67984 -289.11984 -283.00983 -280.22983 -270.78983 -265.22983 -259.11984"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Huaien Wang</tspan>
+           y="-335.82755"
+           x="-337.43982 -329.73846 -323.22116 -317.2905 -314.32516 -308.3945 -301.87714 -298.9118 -288.84247 -282.9118 -276.3945"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Huaien Wang</tspan>
       </text>
       <text
          id="text8350"
-         y="-318.17163"
-         x="-253.01488"
-         transform="scale(1,-1)">
+         y="-339.38309"
+         x="-269.88254"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8352"
            font-size="8px"
-           y="-318.17163"
-           x="-253.01488"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">5</tspan>
+           y="-339.38309"
+           x="-269.88254"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">5</tspan>
       </text>
       <text
          id="text8354"
-         y="-314.83832"
-         x="-248.56564"
-         transform="scale(1,-1)">
+         y="-335.82755"
+         x="-265.13669"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8356"
            font-size="10px"
-           y="-314.83832"
-           x="-248.56564 -245.78564"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-335.82755"
+           x="-265.13669 -262.17136"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8358"
-         y="-314.83832"
-         x="-243.009"
-         transform="scale(1,-1)">
+         y="-335.82755"
+         x="-259.20959"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8360"
            font-weight="bold"
            font-size="10px"
-           y="-314.83832"
-           x="-243.009 -235.78902 -230.229 -226.339 -222.44901 -219.66901 -214.10901 -211.32901 -204.10901 -201.32901 -198.54901 -191.32901 -185.76901 -180.20901 -177.429"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Carrie A. Davis</tspan>
+           y="-335.82755"
+           x="-259.20959 -251.50829 -245.57761 -241.42827 -237.27895 -234.31361 -228.38295 -225.41762 -217.71628 -214.75095 -211.78561 -204.08427 -198.15361 -192.22295 -189.2576"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Carrie A. Davis</tspan>
       </text>
       <text
          id="text8362"
-         y="-318.17163"
-         x="-171.86156"
-         transform="scale(1,-1)">
+         y="-339.38309"
+         x="-183.319"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8364"
            font-size="8px"
-           y="-318.17163"
-           x="-171.86156"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">5</tspan>
+           y="-339.38309"
+           x="-183.319"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">5</tspan>
       </text>
       <text
          id="text8366"
-         y="-314.83832"
-         x="-167.41232"
-         transform="scale(1,-1)">
+         y="-335.82755"
+         x="-178.57315"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8368"
            font-size="10px"
-           y="-314.83832"
-           x="-167.41232 -164.63232"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-335.82755"
+           x="-178.57315 -175.60782"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8370"
-         y="-314.83832"
-         x="-161.85568"
-         transform="scale(1,-1)">
+         y="-335.82755"
+         x="-172.64606"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8372"
            font-weight="bold"
            font-size="10px"
-           y="-314.83832"
-           x="-161.85568 -155.7457 -149.6357 -143.5257 -134.6357 -129.07568 -123.51569 -120.73569 -113.51569 -110.73569 -107.95569 -100.17569 -97.395691 -91.28569 -85.17569 -79.615692 -75.725693 -70.165688"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Thomas R. Gingeras</tspan>
+           y="-335.82755"
+           x="-172.64606 -166.12874 -159.6114 -153.09407 -143.6114 -137.68073 -131.75008 -128.78473 -121.0834 -118.11806 -115.15273 -106.85407 -103.88874 -97.371407 -90.854073 -84.923409 -80.774071 -74.843399"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Thomas R. Gingeras</tspan>
       </text>
       <text
          id="text8374"
-         y="-318.17163"
-         x="-64.609596"
-         transform="scale(1,-1)">
+         y="-339.38309"
+         x="-68.916901"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8376"
            font-size="8px"
-           y="-318.17163"
-           x="-64.609596"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">6</tspan>
+           y="-339.38309"
+           x="-68.916901"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">6</tspan>
       </text>
       <text
          id="text8378"
-         y="-314.83832"
-         x="-60.160381"
-         transform="scale(1,-1)">
+         y="-335.82755"
+         x="-64.171074"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8380"
            font-size="10px"
-           y="-314.83832"
-           x="-60.160381 -57.380379"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-335.82755"
+           x="-64.171074 -61.205738"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8382"
          font-size="10px"
          font-weight="bold"
          transform="scale(1,-1)"
-         y="-314.83832"
-         x="-54.603741"
-         style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">
+         y="-335.82755"
+         x="-58.243992"
+         style="font-weight:bold;font-size:10.66666698px;line-height:0%;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">
         <tspan
            id="tspan8384"
-           y="-314.83832"
-           x="-54.603741 -49.043739 -42.933739">Jun</tspan>
+           y="-335.82755"
+           x="-58.243992 -52.31332 -45.795986"
+           style="stroke-width:1.06666672">Jun</tspan>
         <tspan
            id="tspan8386"
-           y="-302.83832"
-           x="-461.38791 -454.16791 -448.60791 -440.82791 -435.26791">Kawai</tspan>
+           y="-323.02753"
+           x="-492.14709 -484.44577 -478.51511 -470.21643 -464.28577"
+           style="stroke-width:1.06666672">Kawai</tspan>
       </text>
       <text
          id="text8388"
-         y="-306.17163"
-         x="-432.48654"
-         transform="scale(1,-1)">
+         y="-326.58307"
+         x="-461.31897"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8390"
            font-size="8px"
-           y="-306.17163"
-           x="-432.48654"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">1</tspan>
+           y="-326.58307"
+           x="-461.31897"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">1</tspan>
       </text>
       <text
          id="text8392"
-         y="-302.83832"
-         x="-428.03732"
-         transform="scale(1,-1)">
+         y="-323.02753"
+         x="-456.57315"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8394"
            font-size="10px"
-           y="-302.83832"
-           x="-428.03732 -425.25732"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-323.02753"
+           x="-456.57315 -453.60782"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8396"
-         y="-302.83832"
-         x="-422.48068"
-         transform="scale(1,-1)">
+         y="-323.02753"
+         x="-450.64606"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8398"
            font-weight="bold"
            font-size="10px"
-           y="-302.83832"
-           x="-422.48068 -415.26068 -409.70068 -405.8107 -400.2507 -396.92068 -391.36069 -385.2507 -382.4707 -374.69067 -371.91068 -369.13068 -361.91068 -356.35068 -350.24069"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Carsten O. Daub</tspan>
+           y="-323.02753"
+           x="-450.64606 -442.94473 -437.01407 -432.86475 -426.93408 -423.38205 -417.45139 -410.93408 -407.96875 -399.67004 -396.70471 -393.73938 -386.03806 -380.10739 -373.59006"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Carsten O. Daub</tspan>
       </text>
       <text
          id="text8400"
-         y="-306.17163"
-         x="-344.13107"
-         transform="scale(1,-1)">
+         y="-326.58307"
+         x="-367.07315"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8402"
            font-size="8px"
-           y="-306.17163"
-           x="-344.13107"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">1</tspan>
+           y="-326.58307"
+           x="-367.07315"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">1</tspan>
       </text>
       <text
          id="text8404"
-         y="-302.83832"
-         x="-339.68185"
-         transform="scale(1,-1)">
+         y="-323.02753"
+         x="-362.3273"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8406"
            font-size="10px"
-           y="-302.83832"
-           x="-339.68185 -336.90186"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-323.02753"
+           x="-362.3273 -359.36197"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8408"
-         y="-302.83832"
-         x="-334.12521"
-         transform="scale(1,-1)">
+         y="-323.02753"
+         x="-356.40024"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8410"
            font-weight="bold"
            font-size="10px"
-           y="-302.83832"
-           x="-334.12521 -327.45523 -321.34521 -315.78522 -309.67523 -306.89523 -300.78522 -298.00522 -291.89523 -286.33521 -283.55521 -276.33521 -270.77521 -265.21521 -259.65521 -254.09521 -247.98521 -245.20522 -240.20522 -234.64522 -229.08522"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Yoshihide Hayashizaki</tspan>
+           y="-323.02753"
+           x="-356.40024 -349.28558 -342.76822 -336.83755 -330.32025 -327.35492 -320.83755 -317.87222 -311.35492 -305.42422 -302.45889 -294.75754 -288.82687 -282.89621 -276.96555 -271.03488 -264.51755 -261.55222 -256.2189 -250.28824 -244.35757"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Yoshihide Hayashizaki</tspan>
       </text>
       <text
          id="text8412"
-         y="-306.17163"
-         x="-226.30785"
-         transform="scale(1,-1)">
+         y="-326.58307"
+         x="-241.39503"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8414"
            font-size="8px"
-           y="-306.17163"
-           x="-226.30785"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">1</tspan>
+           y="-326.58307"
+           x="-241.39503"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">1</tspan>
       </text>
       <text
          id="text8416"
-         y="-302.83832"
-         x="-221.85863"
-         transform="scale(1,-1)">
+         y="-323.02753"
+         x="-236.6492"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8418"
            font-size="10px"
-           y="-302.83832"
-           x="-221.85863 -219.07861"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">,</tspan>
+           y="-323.02753"
+           x="-236.6492 -233.68385"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">,</tspan>
       </text>
       <text
          id="text8420"
-         y="-302.83832"
-         x="-216.30199"
-         transform="scale(1,-1)">
+         y="-323.02753"
+         x="-230.72212"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8422"
            font-weight="bold"
            font-size="10px"
-           y="-302.83832"
-           x="-216.30199 -209.63197 -206.30199 -200.74197 -197.41199 -191.85197 -185.74197 -179.63199 -176.85197 -169.07198 -162.96198 -157.40198 -154.07198 -151.29198 -145.18198 -139.62198 -136.84198 -131.28198"
-           style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">Stefano Gustincich</tspan>
+           y="-323.02753"
+           x="-230.72212 -223.60744 -220.05545 -214.12477 -210.57278 -204.64211 -198.12477 -191.60745 -188.64211 -180.34344 -173.82611 -167.89545 -164.34344 -161.37811 -154.86078 -148.93011 -145.96478 -140.03412"
+           style="font-weight:bold;font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Stefano Gustincich</tspan>
       </text>
       <text
          id="text8424"
-         y="-306.17163"
-         x="-125.17893"
-         transform="scale(1,-1)">
+         y="-326.58307"
+         x="-133.5242"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8426"
            font-size="8px"
-           y="-306.17163"
-           x="-125.17893"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">2</tspan>
+           y="-326.58307"
+           x="-133.5242"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">2</tspan>
       </text>
       <text
          id="text8428"
-         y="-302.83832"
-         x="-120.72971"
-         transform="scale(1,-1)">
+         y="-323.02753"
+         x="-128.77837"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8430"
            font-size="10px"
-           y="-302.83832"
-           x="-120.72971 -117.94971 -115.16971 -109.60971 -104.04971 -98.489708"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">, and</tspan>
+           y="-323.02753"
+           x="-128.77837 -125.81302 -122.84769 -116.91702 -110.98636 -105.05569"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">, and</tspan>
       </text>
       <text
          id="text8432"
          font-size="10px"
          font-weight="bold"
          transform="scale(1,-1)"
-         y="-302.83832"
-         x="-95.710182"
-         style="font-size:10px;font-weight:bold;fill:#000000;font-family:Helvetica">
+         y="-323.02753"
+         x="-102.09086"
+         style="font-weight:bold;font-size:10.66666698px;line-height:0%;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">
         <tspan
            id="tspan8434"
-           y="-302.83832"
-           x="-95.710182 -89.040176 -86.260178 -80.70018 -76.810181">Piero</tspan>
+           y="-323.02753"
+           x="-102.09086 -94.976189 -92.010857 -86.080193 -81.930862"
+           style="stroke-width:1.06666672">Piero</tspan>
         <tspan
            id="tspan8436"
-           y="-290.83832"
-           x="-461.38791 -454.16791 -448.60791 -444.7179 -438.60791 -435.82791 -429.7179 -424.1579">Carninci</tspan>
+           y="-310.22754"
+           x="-492.14709 -484.44577 -478.51511 -474.36575 -467.84845 -464.88312 -458.36575 -452.43509"
+           style="stroke-width:1.06666672">Carninci</tspan>
       </text>
       <text
          id="text8438"
-         y="-294.17163"
-         x="-421.37814"
-         transform="scale(1,-1)">
+         y="-313.78308"
+         x="-449.47003"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8440"
            font-size="8px"
-           y="-294.17163"
-           x="-421.37814"
-           style="font-size:8px;fill:#000000;font-family:Helvetica">1</tspan>
+           y="-313.78308"
+           x="-449.47003"
+           style="font-size:8.53333378px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">1</tspan>
       </text>
       <text
          id="text8442"
-         y="-280.17163"
-         x="-461.38791"
-         transform="scale(1,-1)">
+         y="-298.84973"
+         x="-492.14709"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8444"
            font-size="7px"
-           y="-280.17163"
-           x="-461.38791"
-           style="font-size:7px;fill:#000000;font-family:Helvetica">1</tspan>
+           y="-298.84973"
+           x="-492.14709"
+           style="font-size:7.4666667px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">1</tspan>
       </text>
       <text
          id="text8446"
-         y="-276.83832"
-         x="-454.71484"
-         transform="scale(1,-1)">
+         y="-295.29422"
+         x="-485.02917"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8448"
            font-size="10px"
-           y="-276.83832"
-           x="-454.71484 -447.49484 -444.71484 -438.04483 -431.37485 -424.15485 -421.37485 -414.70483 -409.14484 -404.14484 -398.58484 -393.02484 -387.46484 -379.13483 -373.57483 -370.79483 -368.01483 -362.45483 -357.45483 -354.67484 -352.45483 -349.67484 -344.11484 -341.33484 -335.77484 -332.99484 -330.21484 -322.43484 -314.10483 -311.88483 -306.88483 -301.88483 -299.10483 -292.43484 -287.43484 -285.21484 -279.65485 -274.09485 -269.09485 -263.53485 -260.75482 -253.53485 -247.97484 -242.41484 -239.63484 -234.07484 -230.74484 -227.96484 -224.63484 -216.85484 -210.18484 -202.96484 -199.63484 -196.85486 -194.07483 -187.40485 -181.84485 -176.84485 -171.28485 -165.72485 -160.16486 -151.83484 -146.27484 -143.49484 -140.71484 -135.71484 -130.15485 -124.59485 -119.03485"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">RIKEN Yokohama Institute, Omics Science Center (OSC), Yokohama, Japan</tspan>
+           y="-295.29422"
+           x="-485.02917 -477.32782 -474.36249 -467.24783 -460.13318 -452.43182 -449.46649 -442.35184 -436.42117 -431.08783 -425.15717 -419.2265 -413.29584 -404.41049 -398.47983 -395.5145 -392.54916 -386.6185 -381.28516 -378.31982 -375.95181 -372.98648 -367.05582 -364.09048 -358.15982 -355.19449 -352.22916 -343.93051 -335.04514 -332.67715 -327.34381 -322.01047 -319.04514 -311.93051 -306.59717 -304.22916 -298.29849 -292.36783 -287.03452 -281.10385 -278.13849 -270.43716 -264.5065 -258.57584 -255.6105 -249.67984 -246.12784 -243.16251 -239.6105 -231.31183 -224.19717 -216.49583 -212.94383 -209.97852 -207.01315 -199.8985 -193.96783 -188.63451 -182.70384 -176.77318 -170.84251 -161.95717 -156.0265 -153.06117 -150.09584 -144.7625 -138.83183 -132.90117 -126.9705"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">RIKEN Yokohama Institute, Omics Science Center (OSC), Yokohama, Japan</tspan>
       </text>
       <text
          id="text8450"
-         y="-262.17163"
-         x="-461.38791"
-         transform="scale(1,-1)">
+         y="-279.64975"
+         x="-492.14709"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8452"
            font-size="7px"
-           y="-262.17163"
-           x="-461.38791"
-           style="font-size:7px;fill:#000000;font-family:Helvetica">2</tspan>
+           y="-279.64975"
+           x="-492.14709"
+           style="font-size:7.4666667px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">2</tspan>
       </text>
       <text
          id="text8454"
          font-size="10px"
          transform="scale(1,-1)"
-         y="-258.83832"
-         x="-454.71484"
-         style="font-size:10px;fill:#000000;font-family:Helvetica">
+         y="-276.09421"
+         x="-485.02917"
+         style="font-size:10.66666698px;line-height:0%;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">
         <tspan
            id="tspan8456"
-           y="-258.83832"
-           x="-454.71484 -448.04483 -442.48483 -437.48483 -434.70483 -429.14484 -425.81485 -423.03485 -417.47485 -414.69485 -411.91486 -404.69485 -399.13483 -393.57483 -390.24484 -384.68484 -379.12485 -376.90485 -371.34485 -369.12485 -363.56485 -358.00485 -353.00485 -350.22485 -347.44485 -340.77484 -335.77484 -330.21484 -324.65485 -322.43484 -316.87485 -314.09485 -311.31485 -305.75482 -302.97482 -297.41483 -294.08484 -288.52484 -282.96484 -277.96484 -275.74484 -270.18484 -264.62485 -259.06485 -256.84485 -251.28485 -248.50484 -241.83484 -236.27484 -230.71484 -225.15485 -221.82484 -219.60484 -214.04485 -210.71484 -205.15485 -202.37485 -196.81485 -194.59485 -191.81485 -185.14484 -182.36484 -176.80484 -171.24484 -169.02484 -166.24484 -159.57483 -154.57483 -149.01483 -143.45483 -138.45483 -132.89484 -130.11484 -127.89484 -125.11484 -121.78485 -115.11484 -112.33484 -105.66486 -98.994843 -92.324829 -88.994843 -86.214844 -83.434845 -77.324829 -73.994843 -71.774841 -66.214844 -61.21484 -58.434841 -52.874844">Sector of Neurobiology, Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste,</tspan>
+           y="-276.09421"
+           x="-485.02917 -477.91449 -471.98383 -466.65048 -463.68515 -457.75449 -454.20251 -451.23718 -445.30652 -442.34119 -439.37585 -431.6745 -425.7438 -419.81314 -416.26117 -410.33051 -404.39984 -402.03183 -396.10117 -393.73318 -387.80252 -381.87186 -376.53851 -373.57318 -370.60785 -363.49316 -358.15982 -352.22916 -346.29849 -343.93051 -337.99985 -335.03452 -332.06918 -326.13849 -323.17316 -317.24249 -313.69049 -307.75983 -301.82916 -296.49582 -294.12784 -288.19717 -282.26651 -276.33585 -273.96783 -268.03717 -265.07184 -257.95715 -252.0265 -246.09584 -240.16518 -236.61317 -234.24516 -228.3145 -224.7625 -218.83183 -215.8665 -209.93584 -207.56784 -204.60251 -197.48782 -194.52249 -188.59183 -182.66116 -180.29317 -177.32784 -170.21315 -164.87982 -158.94916 -153.01849 -147.68515 -141.75449 -138.78915 -136.42116 -133.45583 -129.90384 -122.78916 -119.82383 -112.70919 -105.5945 -98.47982 -94.927834 -91.962502 -88.997169 -82.47982 -78.927834 -76.55983 -70.629166 -65.29583 -62.330498 -56.399834"
+           style="stroke-width:1.06666672">Sector of Neurobiology, Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste,</tspan>
         <tspan
            id="tspan8458"
-           y="-246.8383"
-           x="-461.38791 -458.60791 -455.82791 -450.26791 -448.04791">Italy</tspan>
+           y="-263.29419"
+           x="-492.14709 -489.18176 -486.21643 -480.28577 -477.91779"
+           style="stroke-width:1.06666672">Italy</tspan>
       </text>
       <text
          id="text8460"
-         y="-232.17165"
-         x="-461.38791"
-         transform="scale(1,-1)">
+         y="-247.64975"
+         x="-492.14709"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8462"
            font-size="7px"
-           y="-232.17165"
-           x="-461.38791"
-           style="font-size:7px;fill:#000000;font-family:Helvetica">3</tspan>
+           y="-247.64975"
+           x="-492.14709"
+           style="font-size:7.4666667px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">3</tspan>
       </text>
       <text
          id="text8464"
-         y="-228.8383"
-         x="-454.71484"
-         transform="scale(1,-1)">
+         y="-244.09419"
+         x="-485.02917"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8466"
            font-size="10px"
-           y="-228.8383"
-           x="-454.71484 -447.49484 -441.93484 -436.37485 -430.81485 -427.48483 -424.70483 -416.37485 -410.81485 -405.25485 -402.47485 -399.69485 -394.13483 -391.35483 -388.57483 -381.35483 -375.79483 -373.57483 -371.35483 -368.57483 -363.01483 -357.45483 -351.89484 -349.11484 -340.78485 -335.22485 -333.00485 -327.44485 -322.44482 -316.88483 -314.66483 -309.10483 -305.77484 -302.99484 -296.32483 -294.10483 -288.54483 -286.32483 -280.76483 -275.20483 -270.20483 -267.42484 -264.09485 -256.87485 -248.54485 -241.87485 -238.54485 -235.76485 -232.98485 -226.31485 -220.75484 -217.42485 -211.86484 -209.64484 -207.42485 -201.86484 -196.86484 -191.86484 -186.30484 -183.52484 -180.74484 -175.18484 -170.18484 -167.40485 -165.18484 -162.40485 -156.84485 -154.06485 -148.50485 -145.72485 -142.94485 -140.16486 -133.49484 -130.71484 -125.15485 -120.15485 -115.15485 -109.59485 -104.03485 -101.81485 -93.484833 -90.704834 -87.924835 -81.254852 -74.034851 -68.474854 -62.914852 -57.354855"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">Department of Cell and Molecular Biology (CMB), Karolinska Institutet, Stockholm, Sweden</tspan>
+           y="-244.09419"
+           x="-485.02917 -477.32782 -471.39716 -465.46649 -459.53583 -455.98383 -453.01849 -444.13318 -438.20251 -432.27185 -429.30652 -426.34119 -420.41049 -417.44516 -414.47983 -406.77847 -400.84781 -398.47983 -396.11182 -393.14648 -387.21582 -381.28516 -375.35449 -372.38916 -363.50385 -357.57318 -355.20517 -349.27451 -343.94113 -338.01047 -335.64249 -329.71182 -326.15982 -323.19449 -316.0798 -313.71182 -307.78116 -305.41315 -299.48248 -293.55182 -288.21848 -285.25314 -281.70117 -273.99985 -265.1145 -257.99985 -254.44783 -251.4825 -248.51717 -241.40251 -235.47183 -231.91985 -225.98917 -223.62115 -221.25317 -215.32249 -209.98917 -204.65582 -198.72516 -195.75983 -192.79449 -186.86383 -181.5305 -178.56517 -176.19717 -173.23184 -167.30118 -164.33585 -158.40518 -155.43985 -152.47452 -149.50919 -142.3945 -139.42917 -133.4985 -128.16518 -122.83183 -116.90117 -110.9705 -108.60251 -99.717155 -96.751823 -93.786491 -86.671844 -78.970505 -73.039841 -67.109177 -61.178513"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Department of Cell and Molecular Biology (CMB), Karolinska Institutet, Stockholm, Sweden</tspan>
       </text>
       <text
          id="text8468"
-         y="-214.17165"
-         x="-461.38791"
-         transform="scale(1,-1)">
+         y="-228.44975"
+         x="-492.14709"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8470"
            font-size="7px"
-           y="-214.17165"
-           x="-461.38791"
-           style="font-size:7px;fill:#000000;font-family:Helvetica">4</tspan>
+           y="-228.44975"
+           x="-492.14709"
+           style="font-size:7.4666667px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">4</tspan>
       </text>
       <text
          id="text8472"
-         y="-210.8383"
-         x="-454.71484"
-         transform="scale(1,-1)">
+         y="-224.8942"
+         x="-485.02917"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8474"
            font-size="10px"
-           y="-210.8383"
-           x="-454.71484 -448.04483 -445.26483 -442.48483 -437.48483 -429.15485 -423.59485 -420.81485 -417.48483 -415.26483 -410.26483 -407.48483 -404.70483 -399.14484 -394.14484 -391.36484 -388.58484 -385.80484 -379.13483 -373.57483 -368.01483 -365.23483 -359.67484 -356.89484 -349.67484 -347.45483 -341.89484 -338.56485 -333.00485 -330.22485 -327.44485 -320.22482 -314.66483 -312.44482 -310.22482 -307.44482 -301.88483 -298.55484 -292.99484 -290.77484 -285.21484 -282.43484 -279.65485 -272.43484 -265.76483"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">Affymetrix Inc., Santa Clara, California, USA</tspan>
+           y="-224.8942"
+           x="-485.02917 -477.91449 -474.94916 -471.98383 -466.65048 -457.76517 -451.8345 -448.86917 -445.31717 -442.94916 -437.61581 -434.65048 -431.68515 -425.75449 -420.42117 -417.45584 -414.49051 -411.52518 -404.41049 -398.47983 -392.54916 -389.58383 -383.65317 -380.68784 -372.98648 -370.6185 -364.68784 -361.13583 -355.20517 -352.23984 -349.27451 -341.57315 -335.64249 -333.27448 -330.90646 -327.94113 -322.01047 -318.4585 -312.52783 -310.15982 -304.22916 -301.26382 -298.29849 -290.59717 -283.48248"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Affymetrix Inc., Santa Clara, California, USA</tspan>
       </text>
       <text
          id="text8476"
-         y="-196.17165"
-         x="-461.38791"
-         transform="scale(1,-1)">
+         y="-209.24976"
+         x="-492.14709"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8478"
            font-size="7px"
-           y="-196.17165"
-           x="-461.38791"
-           style="font-size:7px;fill:#000000;font-family:Helvetica">5</tspan>
+           y="-209.24976"
+           x="-492.14709"
+           style="font-size:7.4666667px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">5</tspan>
       </text>
       <text
          id="text8480"
-         y="-192.8383"
-         x="-454.71484"
-         transform="scale(1,-1)">
+         y="-205.69418"
+         x="-485.02917"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8482"
            font-size="10px"
-           y="-192.8383"
-           x="-454.71484 -447.49484 -441.93484 -439.71484 -434.15485 -431.37485 -424.70483 -419.14484 -415.81485 -413.59485 -408.03485 -402.47485 -399.69485 -392.47485 -386.91483 -383.58484 -378.02484 -372.46484 -369.13483 -366.35483 -360.79483 -355.23483 -349.67484 -344.11484 -340.78485 -335.22485 -332.44485 -326.88483 -323.55484 -318.55484 -315.77484 -312.99484 -305.21484 -299.65485 -294.09485 -288.53485 -280.20483 -274.64484 -271.86484 -264.64484 -259.08484 -253.52484 -250.74484 -245.18484 -241.85484 -239.07484 -236.29485 -226.85484 -221.29485 -215.73485 -210.17485 -204.61484 -199.05484 -195.72485 -190.72485 -187.94485 -185.16486 -177.94485 -172.38486 -165.16486 -162.38486 -155.71484 -150.15485 -146.82483 -141.82483 -139.04483 -136.26483 -129.04483 -122.37485"
-           style="font-size:10px;fill:#000000;font-family:Helvetica">Cold Spring Harbor Laboratory, Genome Center, Woodbury, New York, USA</tspan>
+           y="-205.69418"
+           x="-485.02917 -477.32782 -471.39716 -469.02917 -463.09851 -460.13318 -453.01849 -447.08783 -443.53583 -441.16785 -435.23718 -429.30652 -426.34119 -418.63983 -412.70914 -409.15717 -403.2265 -397.29584 -393.7438 -390.77847 -384.84781 -378.91714 -372.98648 -367.05582 -363.50385 -357.57318 -354.60785 -348.67715 -345.12515 -339.79184 -336.82651 -333.86118 -325.5625 -319.63184 -313.70117 -307.77051 -298.88516 -292.9545 -289.98917 -282.28781 -276.35715 -270.42648 -267.46115 -261.53049 -257.97849 -255.01317 -252.04784 -241.9785 -236.04784 -230.11717 -224.18651 -218.25583 -212.32516 -208.77318 -203.43985 -200.47452 -197.50919 -189.80785 -183.87718 -176.17584 -173.21051 -166.09584 -160.16518 -156.61314 -151.27982 -148.31448 -145.34915 -137.64781 -130.53317"
+           style="font-size:10.66666698px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">Cold Spring Harbor Laboratory, Genome Center, Woodbury, New York, USA</tspan>
       </text>
       <text
          id="text8484"
-         y="-178.17165"
-         x="-461.38791"
-         transform="scale(1,-1)">
+         y="-190.04976"
+         x="-492.14709"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8486"
            font-size="7px"
-           y="-178.17165"
-           x="-461.38791"
-           style="font-size:7px;fill:#000000;font-family:Helvetica">6</tspan>
+           y="-190.04976"
+           x="-492.14709"
+           style="font-size:7.4666667px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">6</tspan>
       </text>
       <text
          id="text8488"
          font-size="10px"
          transform="scale(1,-1)"
-         y="-174.8383"
-         x="-454.71484"
-         style="font-size:10px;fill:#000000;font-family:Helvetica">
+         y="-186.49419"
+         x="-485.02917"
+         style="font-size:10.66666698px;line-height:0%;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">
         <tspan
            id="tspan8490"
-           y="-174.8383"
-           x="-454.71484 -445.27484 -439.71484 -436.93484 -431.93484 -426.37485 -420.81485 -418.03485 -411.36484 -406.36484 -400.80484 -395.24484 -389.68484 -387.46484 -384.68484 -379.12485 -376.34485 -373.56485 -366.89484 -364.67484 -359.11484 -356.89484 -351.33484 -345.77484 -343.55484 -338.55484 -332.99484 -330.77484 -327.99484 -321.32483 -316.32483 -314.10483 -308.54483 -302.98483 -297.98483 -292.42484 -287.42484 -284.64484 -281.86484 -274.64484 -269.08484 -266.86484 -261.30484 -258.52484 -251.85484 -246.29485 -242.96484 -240.74484 -235.18484 -229.62485 -226.84485 -219.62485 -214.06485 -210.73485 -205.17485 -199.61484 -196.28485 -193.50485 -187.94485 -182.38486 -176.82483 -171.26483 -167.93484 -162.37485 -159.59485 -154.03485 -150.70483 -145.70483 -142.92484 -140.14484 -132.92484 -127.36484 -125.14484 -119.58484 -116.80484 -110.13486 -104.57483 -101.24484 -99.024841 -93.464844 -87.904846 -85.124847 -77.904846 -72.344849 -69.014832 -63.45483 -57.894833 -54.564846">Watson School of Biological Sciences, Cold Spring Harbor Laboratory, Cold Spring Harbor,</tspan>
+           y="-186.49419"
+           x="-485.02917 -474.95984 -469.02917 -466.06384 -460.7305 -454.79984 -448.86917 -445.90384 -438.78915 -433.45584 -427.52518 -421.59451 -415.66385 -413.29584 -410.33051 -404.39984 -401.43451 -398.46918 -391.35449 -388.98648 -383.05582 -380.68784 -374.75717 -368.82651 -366.4585 -361.12515 -355.19449 -352.82651 -349.86118 -342.74649 -337.41315 -335.04514 -329.11447 -323.18381 -317.85049 -311.91983 -306.58649 -303.62115 -300.65582 -292.9545 -287.02383 -284.65582 -278.72516 -275.75983 -268.64517 -262.71451 -259.16251 -256.79449 -250.86383 -244.93317 -241.96783 -234.26651 -228.33585 -224.78384 -218.85318 -212.9225 -209.37051 -206.40518 -200.47452 -194.54385 -188.61314 -182.68248 -179.13051 -173.19984 -170.23451 -164.30385 -160.75182 -155.41849 -152.45316 -149.48782 -141.78648 -135.85582 -133.48782 -127.55716 -124.59183 -117.47718 -111.54649 -107.9945 -105.6265 -99.695831 -93.765167 -90.799835 -83.098503 -77.167839 -73.615822 -67.68515 -61.75449 -58.202503"
+           style="stroke-width:1.06666672">Watson School of Biological Sciences, Cold Spring Harbor Laboratory, Cold Spring Harbor,</tspan>
         <tspan
            id="tspan8492"
-           y="-162.8383"
-           x="-461.38791 -454.16791 -448.60791 -441.38791 -438.60791 -431.9379 -426.3779 -423.04791 -418.04791 -415.26791 -412.48792 -405.26791 -398.5979">New York, USA</tspan>
+           y="-173.69418"
+           x="-492.14709 -484.44577 -478.51511 -470.81378 -467.84845 -460.73376 -454.8031 -451.2511 -445.91779 -442.95245 -439.98712 -432.28577 -425.17108"
+           style="stroke-width:1.06666672">New York, USA</tspan>
       </text>
       <text
          id="text8494"
-         y="-148.17165"
-         x="-461.38791"
-         transform="scale(1,-1)">
+         y="-158.04976"
+         x="-492.14709"
+         transform="scale(1,-1)"
+         style="font-size:12.80000019px;line-height:0%;stroke-width:1.06666672">
         <tspan
            id="tspan8496"
            font-size="7px"
-           y="-148.17165"
-           x="-461.38791"
-           style="font-size:7px;fill:#000000;font-family:Helvetica">7</tspan>
+           y="-158.04976"
+           x="-492.14709"
+           style="font-size:7.4666667px;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">7</tspan>
       </text>
       <text
          id="text8498"
          font-size="10px"
          transform="scale(1,-1)"
-         y="-144.8383"
-         x="-454.71484"
-         style="font-size:10px;fill:#000000;font-family:Helvetica">
+         y="-154.49419"
+         x="-485.02917"
+         style="font-size:10.66666698px;line-height:0%;font-family:Helvetica;fill:#000000;stroke-width:1.06666672">
         <tspan
            id="tspan8500"
-           y="-144.8383"
-           x="-454.71484 -447.49484 -441.93484 -439.71484 -434.15485 -428.59485 -423.59485 -418.59485 -413.03485 -410.25485 -404.14484 -398.58484 -396.36484 -390.80484 -388.02484 -382.46484 -376.90485 -371.34485 -368.56485 -365.78485 -360.22485 -355.22485 -352.44485 -350.22485 -347.44485 -341.88483 -339.10483 -333.54483 -330.76483 -327.98483 -325.20483 -320.20483 -317.42484 -315.20483 -312.42484 -306.86484 -304.08484 -298.52484 -295.74484 -288.52484 -286.30484 -283.52484 -276.30484 -274.08484 -269.08484 -263.52484 -258.52484 -252.96484 -249.63484 -244.07484 -241.29485 -235.73485 -232.95485 -225.73485 -220.17485 -216.84485 -211.28485 -208.50484 -202.94484 -200.16484 -192.94485 -187.38486 -184.05484 -178.49484 -175.71484 -172.93484 -167.37485 -164.04483 -158.48483 -155.70483 -149.03485 -144.03485 -141.81485 -136.25485 -130.69485 -127.91486 -125.69485 -122.91486 -120.69485 -115.69485 -110.13486 -107.35486 -104.02484 -101.24484 -94.024841 -86.80484 -79.584839 -72.914856">Dulbecco Telethon Institute, Istituto Di Ricovero e Cura a Carattere Scientifico (IRCCS)</tspan>
+           y="-154.49419"
+           x="-485.02917 -477.32782 -471.39716 -469.02917 -463.09851 -457.16785 -451.8345 -446.50116 -440.5705 -437.60516 -431.08783 -425.15717 -422.78915 -416.85849 -413.89316 -407.96249 -402.03183 -396.10117 -393.13583 -390.1705 -384.23984 -378.90652 -375.94119 -373.57318 -370.60785 -364.67715 -361.71182 -355.78116 -352.81583 -349.85049 -346.88516 -341.55182 -338.58649 -336.21848 -333.25314 -327.32248 -324.35715 -318.42648 -315.46115 -307.75983 -305.39182 -302.42648 -294.72516 -292.35715 -287.02383 -281.09317 -275.75983 -269.82916 -266.27716 -260.3465 -257.38116 -251.4505 -248.48517 -240.78384 -234.85318 -231.30118 -225.37051 -222.40517 -216.4745 -213.50917 -205.80785 -199.87718 -196.32516 -190.3945 -187.42917 -184.46384 -178.53317 -174.98116 -169.05049 -166.08516 -158.9705 -153.63718 -151.26918 -145.33852 -139.40785 -136.44252 -134.07451 -131.10919 -128.74117 -123.40784 -117.47718 -114.51185 -110.95983 -107.9945 -100.29317 -92.591827 -84.890495 -77.775848"
+           style="stroke-width:1.06666672">Dulbecco Telethon Institute, Istituto Di Ricovero e Cura a Carattere Scientifico (IRCCS)</tspan>
         <tspan
            id="tspan8502"
-           y="-132.8383"
-           x="-461.38791 -455.27792 -449.7179 -444.1579 -438.5979 -433.0379 -428.0379 -425.8179 -420.2579 -414.69791 -409.13791 -406.35791 -399.6879 -394.1279 -388.5679 -385.7879 -380.22791 -377.44791 -371.88791 -366.32791 -361.32791 -359.10791 -353.54791 -350.76791 -347.98792 -340.76791 -335.20792 -326.8779 -321.3179 -318.5379 -315.7579 -312.97791 -310.19791 -304.63791 -302.41791">Fondazione Santa Lucia, Rome, Italy</tspan>
+           y="-141.69418"
+           x="-492.14709 -485.62979 -479.6991 -473.76843 -467.83777 -461.9071 -456.57376 -454.20575 -448.27509 -442.34442 -436.41376 -433.44843 -426.33377 -420.40311 -414.47244 -411.50711 -405.57645 -402.61111 -396.68045 -390.74979 -385.41644 -383.04843 -377.11777 -374.15244 -371.1871 -363.48578 -357.55511 -348.66977 -342.73911 -339.77377 -336.80844 -333.84311 -330.87778 -324.94711 -322.5791"
+           style="stroke-width:1.06666672">Fondazione Santa Lucia, Rome, Italy</tspan>
       </text>
     </g>
   </g>
