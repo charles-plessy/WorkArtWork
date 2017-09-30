@@ -1,6 +1,8 @@
 # WorkArtWork
 Figures for my presentation slides etc.  Feel free to [use them as you wish](LICENSE).
 
+<a href="ColorMultiplexing.svg"          ><img src="thumbnails/ColorMultiplexing_s.png"           /></a>
+
 <a href="CapSelection.svg"               ><img src="thumbnails/CapSelection_s.png"                /></a>
 
 <a href="GenomeCoordinates.svg"          ><img src="thumbnails/GenomeCoordinates_s.png"           /></a>
