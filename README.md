@@ -12,3 +12,5 @@ Figures for my presentation slides etc.  Feel free to [use them as you wish](LIC
 <a href="PseudoRandomPrimers.svg"        ><img src="thumbnails/PseudoRandomPrimers_s.png"         /></a>
 
 <a href="ZENBU.svg"                      ><img src="thumbnails/ZENBU_s.png"                       /></a>
+
+<a href="Sequencer.svg"                  ><img src="thumbnails/Sequencer_s.png"                   /></a>
