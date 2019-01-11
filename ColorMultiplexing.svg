@@ -26,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1373"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      id="namedview37"
      showgrid="false"
-     inkscape:zoom="1.5870537"
-     inkscape:cx="-71.396884"
-     inkscape:cy="43.691415"
+     inkscape:zoom="0.79352685"
+     inkscape:cx="120.15948"
+     inkscape:cy="63.237789"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      fit-margin-top="0"
@@ -168,6 +168,8 @@
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.42666668pt;stroke-opacity:1"
      inkscape:connector-curvature="0" />
 </marker>
+
+
 
 
 
@@ -3309,4 +3311,30 @@
      inkscape:export-filename="/home/charles/presentations/WorkArtWork/thumbnails/ColorMultiplexing_s.png"
      inkscape:export-xdpi="171.51845"
      inkscape:export-ydpi="171.51845" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="-139.10654"
+     y="347.63229"
+     id="text5239"><tspan
+       sodipodi:role="line"
+       id="tspan5237"
+       x="-139.10654"
+       y="347.63229"
+       style="font-size:8px">Tube downloaded in 2015 from  http://www.clker.com/cliparts/J/4/G/x/M/t/1ml-eppendorf-tube.svg </tspan><tspan
+       sodipodi:role="line"
+       x="-139.10654"
+       y="367.63229"
+       id="tspan5523"
+       style="font-size:8px">Terms of use state it is public domain https://web.archive.org/web/20150919040028/http://www.clker.com:80/disclaimer.html</tspan><tspan
+       sodipodi:role="line"
+       x="-139.10654"
+       y="387.63229"
+       style="font-size:8px"
+       id="tspan5242">Searches on the internet shows that closely related versions made by the same author (apparently &quot;Carlos Eduardo Armancio&quot;, under the username &quot;olagosta&quot;) are also available from other public domain sites.</tspan><tspan
+       sodipodi:role="line"
+       x="-139.10654"
+       y="407.63229"
+       style="font-size:8px"
+       id="tspan5244">https://openclipart.org/detail/28394/eppendorf-opened</tspan></text>
 </svg>
